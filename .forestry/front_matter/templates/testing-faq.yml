@@ -1,4 +1,9 @@
 ---
 label: Testing Faq
 hide_body: false
-fields: []
+fields:
+- name: faq_title
+  type: text
+  config:
+    required: false
+  label: FAQ Title
