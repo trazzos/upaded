@@ -1,3 +1,4 @@
+--
 - text: Presentación
   url: "/pages/support"
 - text: Unidad 1
@@ -32,8 +33,8 @@
   - text: 3.4 Nombre del subtema 3.4
     url: "/pages/login"
 - text: Unidad 4
-url: "/"
-    submenu:
+  url: "/"
+  submenu:
   - text: 4.1 Nombre del subtema 4.1
     url: "/pages/changelog"
   - text: 4.2 Nombre del subtema 4.2
