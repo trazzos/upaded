@@ -1,9 +1,8 @@
 
-- title: "<span>All in One</span> documentation site for digital product authors"
-  button_label: "Purchase Now"
-  button_link: "/pages/submit-ticket"
+- title: "La <span>Universidad Pública, Abierta y a Distancia del Estado de Durango</span> te da la mas cordial bienvenida a la materia:"
 
-- title: "<span>Number #1</span> documentation template in Jekyll"
-  button_label: "Create a Ticket"
+
+- title: "<span>Desarrollo Sostenible</span> "
+  button_label: "Ingresar"
   button_link: "/pages/submit-ticket"
 
