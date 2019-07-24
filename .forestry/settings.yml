@@ -21,6 +21,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: _includes
+  label: Includes
+  create: all
+  match: "**/*"
+- type: directory
   path: _team_members
   label: Team members
   create: all
