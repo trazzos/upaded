@@ -5,11 +5,6 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: assets
-  label: Assets
-  create: all
-  match: "**/*"
-- type: directory
   path: _layouts
   label: Layouts
   create: all
@@ -43,6 +38,11 @@ sections:
 - type: directory
   path: _team_members
   label: Team members
+  create: all
+  match: "**/*"
+- type: directory
+  path: assets
+  label: Assets
   create: all
   match: "**/*"
 upload_dir: uploads
