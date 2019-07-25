@@ -2,7 +2,7 @@
 - text: Presentación
   url: "/docs/up_presentacion/"
 - text: Unidad 1
-  url: "/tag/education"
+  url: "/docs/up_unidad_1"
   submenu:
   - text: 1.1 Nombre del subtema 1.1
     url: "/blog-post-left-sidebar"
