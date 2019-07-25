@@ -8,9 +8,9 @@ category_name: Doxy Jekyll Theme
 category_slug: doxy-jekyll-theme
 
 ---
-<h4 class="heading-4">**Competencia genérica:** </h4> Mencionar la competencia genérica
+<b>Competencia genérica: </b> Mencionar la competencia genérica
 
-<h4 class="heading-4">**Competencia específica:** </h4> Mencionar la competencia de la Unidad 1
+<b>Competencia específica: </b> Mencionar la competencia de la Unidad 1
 
 <p>Modern  no secret that the digital industry is booming. From exciting startups to global brandscomp nies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, </p>
 <h4 class="heading-4">Get Started</h4>
