@@ -16,7 +16,7 @@ category_slug: doxy-jekyll-theme
 
 <br/>
 
-<h4 class="heading-4"> Mapa de contenido de la Unidad 1</h4>
+<h4 class="heading-4"><p style="text-align:center"> Mapa de contenido de la Unidad 1</p></h4>
 
 <br/>
 
@@ -24,6 +24,6 @@ category_slug: doxy-jekyll-theme
 
 <br/>
 
-<h4 class="heading-4">Video de presentación de la Unidad 1</h4>
+<h4 class="heading-4"><p style="text-align:center">Video de presentación de la Unidad 1</p></h4>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PtsUYhb8kZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
