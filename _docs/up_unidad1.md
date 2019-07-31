@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: 'Unidad 1 - Fundamentos de la metodología de la investigación '
+title: 'Unidad 1 - El estudiante en un entorno virtual de aprendizaje'
 description: Contenido de la unidad 1
 date: 2018-11-08T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png
