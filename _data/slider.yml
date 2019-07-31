@@ -1,8 +1,8 @@
 
-- title: "La <span>Universidad Pública, Abierta y a Distancia del Estado de Durango</span> te da la mas cordial bienvenida a la materia:"
+- title: "La <span>Universidad Pública, Abierta y a Distancia del Estado de Durango</span> te da la mas cordial bienvenida al módulo:"
 
 
-- title: "<span>Desarrollo Sostenible</span>  que forma parte de la carrera Técnica Superior Universitario en Agricultura e Inovación"
+- title: "<span>Inducción a programas educativos a distancia</span>"
   button_label: "Ingresar"
-  button_link: "/pages/submit-ticket"
+  button_link: "docs/up_presentacion"
 
