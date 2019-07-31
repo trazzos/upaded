@@ -2,32 +2,7 @@
   url: "/docs/up_presentacion/"
 - text: Unidad 1
   url: "/docs/up_unidad1"
-  submenu:
-  - text: 1.1 subtema 1.1
-    url: "/blog-post-left-sidebar"
-  - text: 1.2 subtema 1.2
-    url: "/blog-post-right-sidebar"
-  - text: 1.3 subtema 1.3
-    url: "/technology-placeat-ipsum-libero"
-  - text: 1.4 subtema 1.4
-    url: "/tag/education"
 - text: Unidad 2
   url: "/docs/up_unidad2"
-  submenu:
-  - text: 2.1 subtema 2.1
-    url: "/docs/left-sidebar-example"
-  - text: 2.2 subtema 2.2
-    url: "/docs/right-sidebar-example"
-  - text: 2.3 subtema 2.3
-    url: "/docs/doc-fullwidth"
 - text: Unidad 3
   url: "/docs/up_unidad3"
-  submenu:
-  - text: 3.1 subtema 3.1
-    url: "/pages/changelog"
-  - text: 3.2 subtema 3.2
-    url: "/pages/testimonials"
-  - text: 3.3 subtema 3.3
-    url: "/pages/register"
-  - text: 3.4 subtema 3.4
-    url: "/pages/login"
