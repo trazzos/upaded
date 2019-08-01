@@ -7,9 +7,9 @@ post_image: assets/images/service-icon3.png
 category_name: Doxy Jekyll Theme
 category_slug: doxy-jekyll-theme
 ---
-La presente unidad, es la primera de un módulo de inducción que tiene la intensión de prepararte para desempeñarte con éxito en tus estudios en la modalidad a distancia. 
+<p style="text-align:justified">La presente unidad, es la primera de un módulo de inducción que tiene la intensión de prepararte para desempeñarte con éxito en tus estudios en la modalidad a distancia. 
 
-A continuación, te presentamos la competencia genérica del módulo, así como la competencia específica de esta Unidad, a fin de que observes la relación entre ambas: 
+A continuación, te presentamos la competencia genérica del módulo, así como la competencia específica de esta Unidad, a fin de que observes la relación entre ambas: </p>
 
 
 <br/>
