@@ -22,6 +22,15 @@ category_slug: doxy-jekyll-theme
 
 <br/>
 
+<h4 class="heading-4"><p style="text-align:center"> FORMA DE TRABAJO Y CRITERIOS DE EVALUACIÓN  </p></h4>
+<p style="text-align:justify">Durante esta unidad tendrás el acompañamiento de un docente que te orientará en la solución de las actividades de aprendizaje, y valorará el desarrollo de tus competencias. </p>
+
+<p style="text-align:justify">Por tu parte deberás realizar las actividades de aprendizaje que se te soliciten, para lo cual será necesario que: </p>
+
+
+<br/>
+
+
 <h4 class="heading-4"><p style="text-align:center">Video de presentación de la Unidad 1</p></h4>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PtsUYhb8kZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
