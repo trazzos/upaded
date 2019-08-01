@@ -336,7 +336,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
 
 /*Spacing*/
 .section-spacing {
-  padding-top: 50px;
+  padding-top: 30px;
   padding-bottom: 100px; }
   @media (min-width: 768px) and (max-width: 991px) {
     .section-spacing {
