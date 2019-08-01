@@ -13,11 +13,10 @@ category_slug: doxy-jekyll-theme
 
 <div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><img src="https://genially.blob.core.windows.net/genially/version3.0/loader.gif" class="loader-genially" style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; z-index: 1;width: 80px; height: 80px;"/><div id="5d4361740267d90fc506bbf1" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
 
-<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><img src="https://genially.blob.core.windows.net/genially/version3.0/loader.gif" class="loader-genially" style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; z-index: 1;width: 80px; height: 80px;"/><div id="5d435d830c4c140fd726deab" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
 
 <br/>
 
-<h4 class="heading-4"><p style="text-align:center"> Mapa de contenido de la Unidad 1</p></h4>
+<h4 class="heading-4"><p style="text-align:center"> Contenido de la Unidad 1</p></h4>
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d3a088665271e0fa31e6217" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
