@@ -27,11 +27,13 @@ category_slug: doxy-jekyll-theme
 
 <p style="text-align:justify">Por tu parte deberás realizar las actividades de aprendizaje que se te soliciten, para lo cual será necesario que: </p>
 
-<br/>
-
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d4476436ca0b10fad52bfaf" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 <br/>
+
+<p style="text-align:justify">Para acreditar esta unidad, toma en cuenta los siguientes puntajes: </p>
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d44808dbe585e0fb6c978eb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
 <h4 class="heading-4"><p style="text-align:center">Video de presentación de la Unidad 1</p></h4>
 
