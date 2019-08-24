@@ -1,41 +1,30 @@
 ---
-layout: doc
-title: 'Unidad 1 - El estudiante en un entorno virtual de aprendizaje'
+layout: doc_full
+title: 'Unidad 1 - Características de un entorno virtual de aprendizaje'
 description: Contenido de la unidad 1
-date: 2018-11-08T02:14:30.000+00:00
+date: 2019-08-24T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png
-category_name: Doxy Jekyll Theme
-category_slug: doxy-jekyll-theme
+category_name: Etube HTML Template_base
+category_slug: etube-html-template
 ---
-<p style="text-align:justify">La presente unidad, es la primera de un módulo de inducción que tiene la intensión de prepararte para desempeñarte con éxito en tus estudios en la modalidad a distancia. </p>
-
-<p style="text-align:justify">A continuación, te presentamos la competencia genérica del módulo, así como la competencia específica de esta Unidad, a fin de que observes la relación entre ambas: </p>
-
-<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><img src="https://genially.blob.core.windows.net/genially/version3.0/loader.gif" class="loader-genially" style="position: absolute; top: 0; right: 0; bottom: 0; left: 0; margin-top: auto; margin-right: auto; margin-bottom: auto; margin-left: auto; z-index: 1;width: 80px; height: 80px;"/><div id="5d4361740267d90fc506bbf1" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
-
-
+<p align="justify">La educación a distancia es una modalidad educativa en la que el proceso de aprendizaje y las relaciones entre los involucrados se llevan a cabo, generalmente, en espacios diferentes y mediados por tecnología. </p>
+<p align="justify">El entorno virtual de aprendizaje (EVA) es el espacio virtual donde se señalan y establecen los recursos y servicios que coadyuvarán al desarrollo de tus conocimientos y habilidades. Al estar alojado en la web, puedes acceder a él desde cualquier dispositivo con el que puedas conectarte a Internet: teléfono inteligente, tableta electrónica, computadora de escritorio o portátil.</p> 
+<p align="justify">Entre las principales ventajas se pueden señalar: </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d5f65fe9bd0781008ed306c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-
-<h4 class="heading-4"><p style="text-align:center"> Contenido de la Unidad 1</p></h4>
-
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d3a088665271e0fa31e6217" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-
+<p align="justify">Al aprovechar las ventajas de las nuevas tecnologías y la expansión de Internet, se ha logrado acceder a la formación universitaria sin necesidad de traslados y a precios accesibles. Sin embargo, es necesario aclarar que la tecnología está al servicio de la educación, por lo que la tecnología se convierte en un vehículo para el aprendizaje; por ello el énfasis está en disponer las condiciones para facilitar el proceso de aprendizaje. </p>
+<p align="justify">En este entorno están reunidos todos los recursos necesarios para el aprendizaje, por lo que en él puedes consultar documentos, elaborar ejercicios, trabajar en equipo, contactar a tu docente o a otros estudiantes para resolver dudas, conversar, entre otras actividades. </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d5f6feb9bd0781008ed3138" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-
-<h4 class="heading-4"><p style="text-align:center"> FORMA DE TRABAJO Y CRITERIOS DE EVALUACIÓN  </p></h4>
-<p style="text-align:justify">Durante esta unidad tendrás el acompañamiento de un docente que te orientará en la solución de las actividades de aprendizaje, y valorará el desarrollo de tus competencias. </p>
-
-<p style="text-align:justify">Por tu parte deberás realizar las actividades de aprendizaje que se te soliciten, para lo cual será necesario que: </p>
-
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d4476436ca0b10fad52bfaf" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-
+<p align="justify">Un elemento importante en el aprendizaje en un entorno virtual es la interacción que se da entre estudiantes y entre el estudiante y el docente, que puede ser de dos tipos: sincrónica y asincrónica. Las interacciones síncronas se llevan a cabo en espacios del entorno virtual donde coinciden en el mismo tiempo estudiantes y docentes para conversar sobre algún tema o resolver de manera rápida alguna duda. Para ello se utiliza básicamente la herramienta de mensajería instantánea o chat del entorno virtual, aunque en algunas ocasiones pueden utilizarse herramientas con la misma funcionalidad pero que no están alojadas en el entorno virtual, como Messenger de Facebook, WhatsApp, Hangouts de Google, entre otras. </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d60d2a66e51fb0fe2450d7e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-
-<p style="text-align:justify">Para acreditar esta unidad, toma en cuenta los siguientes puntajes: </p>
-
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d44808dbe585e0fb6c978eb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<p align="justify">Por su parte, las interacciones asíncronas son aquellas que se llevan a cabo en el mismo espacio, pero en momentos distintos. Esto permite a los estudiantes realizar sus actividades a su ritmo, sin necesidad de estar en conexión directa con otros estudiantes o su docente. Las herramientas que más se utilizan son el buzón de tareas, los foros, el buzón de mensajes de la plataforma y, si así lo acuerdan, también pueden utilizar el correo electrónico y otras herramientas para el trabajo colaborativo, como Trello, Drive, Dropbox, entre otras. </p>
+<p align="justify">Entre las características básicas que podemos señalar de un entorno virtual se encuentran las siguientes: </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d5f72c583d45a0fdcca1659" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p style="text-align:justify">Para comenzar esta Unidad te pedimos que observes el siguiente video  </p>
-
-
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d449993355ec70fc56e0350" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<p align="justify"><b>Separación física entre el docente y el estudiante.</b> Al estar separados físicamente, el proceso de aprendizaje se lleva a cabo a través de Internet, utilizando para ello distintas herramientas digitales, gracias a las cuales los estudiantes pueden consultar los materiales de estudio en distintos formatos: textuales, sonoros, en video, entre otros.  </p>
+<p align="justify"><b>Uso masivo de medios técnicos.</b> Se aprovechan los más recientes avances tecnológicos, contenidos interactivos, videoconferencias, entre otros, a fin de aportar calidad al proceso de enseñanza-aprendizaje y superar las barreras impuestas por el tiempo y la distancia. </p>
+<p align="justify"><b>El estudiante como protagonista del proceso de aprendizaje.</b> En esta modalidad es necesario que el estudiante desarrolle habilidades que le permitan gestionar su tiempo, motivarse y decidir su ritmo de aprendizaje, por lo que es en él en quien recae la responsabilidad de aprender, en mayor medida que en el sistema presencial. </p>
+<p align="justify"><b>Acompañamiento docente.</b> El docente se convierte en un dinamizador del proceso de aprendizaje, por lo que se constituye en un agente que acompaña y brinda herramientas que permitan a los estudiantes facilitar su proceso de aprendizaje. </p>
+<p align="justify"><b>Comunicación bidireccional.</b> Aprovechar las herramientas de comunicación en un entorno virtual permite establecer comunicaciones entre docentes y estudiantes y entre estudiantes, en ambas direcciones, que pueden ser síncronas o asíncronas. </p>
