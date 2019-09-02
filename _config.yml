@@ -13,7 +13,7 @@ email: ""
 description: "Universidad Pública, Abierta y a Distancia del Estado de Durango"
 keywords: "universidad, publica, abierta, distancia, durango"
 baseurl: "/upaded" # the subpath of your site, e.g. /blog
-url: "https://jeros9.github.io/upaded/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://trazzos.github.io/upaded/" # the base hostname & protocol for your site, e.g. http://example.com
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png"
 ## Theme Options
 animated_header: ""  #true 
