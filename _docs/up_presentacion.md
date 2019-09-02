@@ -12,6 +12,9 @@ category_slug: doxy-jekyll-theme
 <p align="justify">A continuación, te presentamos la competencia genérica del módulo, así como la competencia específica de esta asignatura, a fin de que observes la relación entre ambas:</p> 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.28%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1601px" height="901px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d5f5ef0d705a10ff860b433" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br>
+<h3><p align="center">CONTENIDO DE LA ASIGNATURA</p></h3>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d3a088665271e0fa31e6217" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br>
 <h3><p align="center">FORMA DE TRABAJO Y CRITERIOS DE EVALUACIÓN</p></h3> 
 <p align="justify">Durante esta asignatura tendrás el acompañamiento de un docente que te orientará en la realización de las actividades de aprendizaje y valorará el desarrollo de tus competencias. Por tu parte, deberás realizar las actividades de aprendizaje que se te soliciten, para lo cual será necesario que:</p> 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d4476436ca0b10fad52bfaf" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
