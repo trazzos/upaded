@@ -37,7 +37,6 @@ tag_page_dir: tag
 permalink: /:title/ 
  
 collections:
-  collections_dir: subjects
   team_members:
     output: true
     permalink: /team_members/:path/
