@@ -46,15 +46,7 @@ collections:
   docs:
     output: true
     permalink: /docs/:path/
-  cecv:
-    output: true
-    permalink: /i/cecv/:path/
-  eevp:
-    output: true
-    permalink: /i/eevp/:path/
-  hdev:
-    output: true
-    permalink: /i/hdev/:path/
+
 
 
 
