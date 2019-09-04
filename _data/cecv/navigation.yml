@@ -1,10 +1,8 @@
-- text: Presentación2
-  url: "/i/cecv/up_presentacion/"
+- text: Presentación
+  url: "/i/cecv/presentacion/"
 - text: Unidad 1
-  url: "/i/cecv/up_unidad1"
+  url: "/i/cecv/unidad_1"
 - text: Unidad 2
-  url: "/i/cecv/up_unidad2"
+  url: "/i/cecv/unidad_2"
 - text: Unidad 3
-  url: "/i/cecv/up_unidad3"
-- text: Unidad 4
-  url: "/i/cecv/up_unidad4"
+  url: "/i/cecv/unidad_3"
