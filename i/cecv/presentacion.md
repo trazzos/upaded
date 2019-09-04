@@ -13,13 +13,14 @@ header_name: cecv
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.28%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1601px" height="901px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d862fd705a10ff866b31b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br>
 <h3><p align="center">CONTENIDO DE LA ASIGNATURA</p></h3>
-
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d87796e51fb0fe24a9344" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br>
 <h3><p align="center">FORMA DE TRABAJO Y CRITERIOS DE EVALUACIÓN</p></h3> 
 <p align="justify">Durante esta asignatura tendrás el acompañamiento de un docente que te orientará en la realización de las actividades de aprendizaje y valorará el desarrollo de tus competencias. Por tu parte, deberás realizar las actividades de aprendizaje que se te soliciten, para lo cual será necesario que:</p> 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d904862bd2d1006fc56fd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br>
 <p>Para acreditar esta asignatura toma en cuenta los siguientes puntajes: </p>
-
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d907d0355470fc739a61d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br>
 <p align="justify">Para comenzar esta asignatura observa el siguiente video:</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d92457d814b100292a06a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
