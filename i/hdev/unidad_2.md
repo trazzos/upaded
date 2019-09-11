@@ -1,5 +1,5 @@
 ---
-layout: doc_full
+layout: upaded
 title: 'Unidad 2 - Perfil del estudiante estratégico'
 description: Contenido de la unidad 2
 date: 2019-08-28T02:14:30.000+00:00

@@ -1,5 +1,5 @@
 ---
-layout: doc_full
+layout: upaded
 title: 'Unidad 3 - Estrategias para la comprensión lectora'
 description: Contenido de la unidad 3
 date: 2019-08-28T02:14:30.000+00:00

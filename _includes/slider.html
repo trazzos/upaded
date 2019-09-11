@@ -6,7 +6,8 @@
                 <div class="col-lg-9">
                      <div class="slider-carousel owl-carousel">
                        {% assign data =  site.data.slider %}
-                         {% for slider in data %}
+                         {% if page.header_name %}
+                         {% for slider in site.data[page.header_name].slider %}
                            <div class="slider-content wow fadeIn" data-wow-duration="4s">
                              <h1 class="heading-1">{{slider.title}}</h1>
                              {%if slider.button_label %}
@@ -14,6 +15,7 @@
                              {% endif %}
                            </div>
                           {% endfor %}
+                          {% endif %}
                      </div>
                 </div>
             </div>

@@ -1,5 +1,5 @@
 ---
-layout: doc_full
+layout: upaded_intro
 title: 'El estudiante en un entorno virtual de aprendizaje'
 description: Presentación de la materia
 date: 2018-11-08T02:14:30.000+00:00
