@@ -1,5 +1,5 @@
 ---
-layout: doc_full
+layout: upaded_intro
 title: 'Construcción del conocimiento en un entorno colaborativo virtual'
 description: Presentación de la materia
 date: 2018-11-08T02:14:30.000+00:00

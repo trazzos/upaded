@@ -1,5 +1,5 @@
 ---
-layout: doc_full_eevp
+layout: doc_full
 title: 'Unidad 1 - Características de un entorno virtual de aprendizaje'
 description: Contenido de la unidad 1
 date: 2019-08-24T02:14:30.000+00:00

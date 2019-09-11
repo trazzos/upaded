@@ -13,11 +13,17 @@
                     <div class="footer-widget wow fadeIn" data-wow-duration="2s">
                         <h5 class="footer-title heading-5">Páginas</h5>
                         <ul class="footer-category list-inline">
-                            <li><a href="docs/up_presentacion">Presentación</a></li>
-                            <li><a href="docs/up_unidad1">Unidad 1</a></li>
-                            <li><a href="docs/up_unidad2">Unidad 2 </a></li>
-                            <li><a href="docs/up_unidad3">Unidad 3</a></li>
-                          <li><a href="docs/up_unidad4">Unidad 4</a></li>
+                            {% if page.header_name %}
+                                {% for link in site.data[page.header_name].navigation %}
+                                {% assign active = nil %}
+                                    {% if page.url contains link.url %}
+                                    {% assign active = 'active' %}
+                                    {% endif %}
+                                    <li class="{{ active }}{% if link.submenu %} themeix-dropdown has-children{% endif %}">
+                                        <a href="{{ link.url|prepend:site.baseurl }}">{{ link.text }}</a>
+                                    </li>
+                                {% endfor %}
+                            {% endif %}
                         </ul>
                     </div>
                 </div>

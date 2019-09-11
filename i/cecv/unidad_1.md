@@ -1,5 +1,5 @@
 ---
-layout: doc_full
+layout: upaded
 title: 'Unidad 1 - El aprendizaje colaborativo'
 description: Contenido de la unidad 1
 date: 2019-08-24T02:14:30.000+00:00

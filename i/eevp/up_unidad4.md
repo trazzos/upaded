@@ -1,5 +1,5 @@
 ---
-layout: doc_full_eevp
+layout: doc_full
 title: 'Unidad 4 - Organización del tiempo para el estudio a distancia'
 description: Contenido de la unidad 4
 date: 2019-08-28T02:14:30.000+00:00
