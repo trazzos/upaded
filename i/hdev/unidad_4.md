@@ -6,6 +6,8 @@ date: 2019-08-28T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png
 category_name: Etube HTML Template_base
 category_slug: etube-html-template
+header_name: hdev
+
 ---
 <p align="justify">Miguel Broc (2011), retomando a Pintrich, Smith, García y McKeachie (1991), propone algunas estrategias para aumentar o fortalecer los sentimientos de autoeficacia, para la mejora del rendimiento académico: autorregulación metacognitiva, manejo del ambiente de estudio, regulación del esfuerzo y gestión del tiempo.</p>
 <ul class="unorder-list">

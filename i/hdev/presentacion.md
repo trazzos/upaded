@@ -6,6 +6,8 @@ date: 2018-11-08T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png
 category_name: Doxy Jekyll Theme
 category_slug: doxy-jekyll-theme
+header_name: hdev
+
 
 ---
 <p align="justify">Esta es la primera asignatura de un módulo de inducción que tiene el propósito de prepararte para que te desempeñes con éxito en tus estudios en la modalidad a distancia.</p> 
