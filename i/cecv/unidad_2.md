@@ -6,6 +6,7 @@ date: 2019-08-28T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png
 category_name: Etube HTML Template_base
 category_slug: etube-html-template
+subject_folder: /i/
 subject_name: cecv
 ---
 <p align="justify">La colaboración en un ambiente virtual es muy importante, pues permite a los estudiantes ampliar puntos de vista, profundizar en temas específicos, construir conceptos, confrontar aprendizajes, compartir inquietudes y dificultades, así como desarrollar el pensamiento crítico, autónomo y proactivo. Para lograr lo anterior, existen distintas herramientas digitales que facilitan la comunicación tanto síncrona como asíncrona, como el chat, el correo electrónico, los blogs o los foros.</p> 
