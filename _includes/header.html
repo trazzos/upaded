@@ -14,15 +14,17 @@
       <div class="navigation-box">
         <div class="navigation-left">
           <!--TODO how to fix this?-->
-          <a class="header-logo" href="{{site.url}}/upaded/i/cecv/"><img src="{{site.baseurl}}/assets/images/logo_upaded_4.png" alt="header logo"></a>
+          {% if page.subject_name && page.subject_folder %}
+          <a class="header-logo" href="{{site.url}}/upaded{{page.subject_folder}}{{page.subject_folder}}/"><img src="{{site.baseurl}}/assets/images/logo_upaded_4.png" alt="header logo"></a>
+          {% endif%}
         </div>
 
 
         <div class="navigation-right">
           <nav class="navigation-navbar">
             <ul id="navigation-menu" class="slimmenu">
-              {% if page.header_name %}
-              {% for link in site.data[page.header_name].navigation %}
+              {% if page.subject_name %}
+              {% for link in site.data[page.subject_name].navigation %}
 
               {% assign active = nil %}
 

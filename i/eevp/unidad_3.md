@@ -6,7 +6,7 @@ date: 2019-08-28T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png
 category_name: Etube HTML Template_base
 category_slug: etube-html-template
-header_name: eevp
+subject_name: eevp
 
 ---
 <p align="justify">De acuerdo con Flores, Díaz y Lagos (2017), muchos de los problemas académicos de los estudiantes se originan en el bajo nivel de comprensión lectora o bien en la incapacidad de automatizar estrategias implicadas en la lectura, como la planeación, la autorregulación y la evaluación.</p>

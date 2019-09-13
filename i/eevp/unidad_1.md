@@ -6,7 +6,7 @@ date: 2019-08-24T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png
 category_name: Etube HTML Template_base
 category_slug: etube-html-template
-header_name: eevp
+subject_name: eevp
 
 ---
 <p align="justify">La educación a distancia es una modalidad educativa en la que el proceso de aprendizaje y las relaciones entre los involucrados se llevan a cabo, generalmente, en espacios diferentes y mediados por tecnología. </p>

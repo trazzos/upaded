@@ -13,8 +13,8 @@
                     <div class="footer-widget wow fadeIn" data-wow-duration="2s">
                         <h5 class="footer-title heading-5">Páginas</h5>
                         <ul class="footer-category list-inline">
-                            {% if page.header_name %}
-                                {% for link in site.data[page.header_name].navigation %}
+                            {% if page.subject_name %}
+                                {% for link in site.data[page.subject_name].navigation %}
                                 {% assign active = nil %}
                                     {% if page.url contains link.url %}
                                     {% assign active = 'active' %}

@@ -6,7 +6,7 @@ date: 2019-08-28T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png
 category_name: Etube HTML Template_base
 category_slug: etube-html-template
-header_name: cecv
+subject_name: cecv
 ---
 <p align="justify">Escribir puede resultar difícil cuando no tenemos el hábito; sin embargo, como sucede con cualquier habilidad, con la práctica constante nos resultará cada vez más fácil enfrentarnos a la hoja en blanco y expresar nuestros conocimientos, sentimientos, emociones o cualquier idea que nos resulte interesante. Lamentablemente, cuando esta habilidad está poco desarrollada, es común que algunos, frente a la tarea de realizar un trabajo escrito, encuentren la solución en copiar y pegar información de otros textos. Si bien esto último les ayuda a cumplir con la entrega, lo cierto es que no se construye un verdadero conocimiento ni se reflexiona sobre las ideas presentadas. Además de lo anterior, en muchas ocasiones tampoco se citan las fuentes de consulta, lo que redunda en deshonestidad académica. </p>
 <p align="justify">Para iniciar esta unidad revisa las siguientes situaciones que pueden constituir deshonestidad académica: </p>

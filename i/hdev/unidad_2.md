@@ -6,7 +6,7 @@ date: 2019-08-28T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png
 category_name: Etube HTML Template_base
 category_slug: etube-html-template
-header_name: hdev
+subject_name: hdev
 
 ---
 <p align="justify">En un entorno virtual de aprendizaje, el estudiante debe desarrollar actitudes y habilidades muy particulares que le permitan favorecer su proceso de aprendizaje y la significación de los conocimientos, esto dadas las particularidades de la modalidad a distancia, así como los retos a los que debe enfrentarse. </p>
