@@ -1,7 +1,7 @@
 ---
 layout: upaded
-title: 'Unidad 1 - El aprendizaje colaborativo'
-description: Contenido de la unidad 1
+title: 'Construcción del conocimiento en un entorno colaborativo virtual'
+description: Presentación de la materia
 date: 2019-08-24T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png
 category_name: Etube HTML Template_base
@@ -9,30 +9,19 @@ category_slug: etube-html-template
 subject_folder: /i/
 subject_name: cecv
 ---
-<p align="justify">Antes de adentrarnos en el tema del aprendizaje colaborativo es necesario hablar de las comunidades de aprendizaje virtual. Aunque la mayoría de tus actividades académicas las estarás realizando a través de una computadora, esto no quiere decir que las realizarás en soledad, pues también aquí, en la virtualidad, se conforman comunidades. </p>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d953c7d814b100292a339" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<br/>
-<p align="justify">Como pudiste observar, a través de estas comunidades es posible el intercambio de información, herramientas, estrategias o ideas entre estudiantes con metas similares, o que participan en un mismo programa educativo, utilizando para ello distintos recursos, como foros, redes sociales, servicios de mensajería, entre otros. En este sentido, Dias (2004, citado en Meirinhos, y Osório, 2009, p. 51) señala lo que se espera de los miembros de una comunidad de aprendizaje: </p>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d96029bd0781008f2e2f4" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<br/>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d71564d0e65690ffea8aeda" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<br/>
-<p align="justify">Entre los procesos que se llevan a cabo en las comunidades virtuales destaca el aprendizaje colaborativo, que se centra en la interacción, evaluación y cooperación entre los estudiantes. A fin de entender a qué nos referimos con el aprendizaje colaborativo, te proporcionamos algunas definiciones de este término compiladas por Revelo-Sánchez, Collazos-Ordóñez y Jiménez-Toledo (2018). </p>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d7176777d814b100294f771" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<br/>
-<p align="justify">El aprendizaje colaborativo se promueve cuando los miembros de un grupo tienen una meta en común y trabajan en conjunto para alcanzarla. Esto se logra compartiendo experiencias, conocimientos y habilidades entre todos los miembros. Entre las características distintivas del aprendizaje colaborativo, se pueden señalar las siguientes: </p>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d728a9183d45a0fdcd2ad4a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<br/>
-<p align="justify">Para favorecer el aprendizaje colaborativo, los entornos virtuales se basan en herramientas de comunicación asíncrona que permiten a los estudiantes trabajar de manera colaborativa y construir conocimiento de manera conjunta; estas herramientas brindan las siguientes ventajas: </p>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d72985a6e51fb0fe24d7234" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d729b840355470fc73c9903" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<br/>
-<p align="justify">Una de las metas principales del aprendizaje colaborativo es que los estudiantes construyan conocimientos de manera conjunta, esto inhibiendo las restricciones de índole temporal o espacial. A partir del análisis de las tareas que los estudiantes llevan a cabo al momento de construir conocimientos de manera colaborativa, Castellanos y Niño (2018) proponen cuatro fases sucesivas de preparación y perfeccionamiento de las ideas para la creación del conocimiento: </p>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d72a3c37d814b1002958dca" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<br/>
-<p align="justify">Ahora bien, ¿cuál es el papel que los participantes deben desempeñar para aportar al desarrollo del aprendizaje colaborativo? Puede resumirse de la siguiente manera:</p>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d72ac209d7694105ab338d2" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<br/>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d72d915ac4b760fc12efacc" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<br/>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d72d9cf0355470fc73cdceb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<p align="justify">Esta es la segunda asignatura del Módulo de Inducción que tiene el propósito de prepararte para que te desempeñes con éxito en tus estudios en la modalidad a distancia. </p> 	
+<p align="justify">A continuación, te presentamos la competencia genérica del módulo, así como la competencia específica de esta asignatura, a fin de que observes la relación entre ambas: </p> 	
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.28%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1601px" height="901px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d862fd705a10ff866b31b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>	
+<br>	
+<h3><p align="center">CONTENIDO DE LA ASIGNATURA</p></h3>	
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d87796e51fb0fe24a9344" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>	
+<br>	
+<h3><p align="center">FORMA DE TRABAJO Y CRITERIOS DE EVALUACIÓN</p></h3> 	
+<p align="justify">Durante esta asignatura tendrás el acompañamiento de un docente que te orientará en la realización de las actividades de aprendizaje y valorará el desarrollo de tus competencias. Por tu parte, deberás realizar las actividades de aprendizaje que se te soliciten, para lo cual será necesario que:</p> 	
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d904862bd2d1006fc56fd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>	
+<br>	
+<p>Para acreditar esta asignatura toma en cuenta los siguientes puntajes: </p>	
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d907d0355470fc739a61d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>	
+<br>	
+<p align="justify">Para comenzar esta asignatura observa el siguiente video:</p>	
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d6d92457d814b100292a06a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
