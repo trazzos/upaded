@@ -1,0 +1,15 @@
+- text: Presentación
+  url: "/subjects/TSATC01EBS1/presentacion"
+  description: "Estadística básica"
+- text: Unidad 1
+  url: "/subjects/TSATC01EBS1/unidad_1"
+  description: "Fundamentos de la estadística"
+- text: Unidad 2
+  url: "/subjects/TSATC01EBS1/unidad_2"
+  description: "Distribución de datos"
+- text: Unidad 3
+  url: "/subjects/TSATC01EBS1/unidad_3"
+  description: "Probabilidad"
+- text: Unidad 4
+  url: "/subjects/TSATC01EBS1/unidad_4"
+  description: "Relación lineal y correlacional"
