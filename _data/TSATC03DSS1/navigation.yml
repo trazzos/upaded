@@ -1,15 +1,15 @@
 - text: Presentación
-  url: "/subjects/TSATC02MIS1/presentacion"
-  description: "Metodología de la investigación"
+  url: "/subjects/TSATC03DSS1/presentacion"
+  description: "Desarrollo sostenible"
 - text: Unidad 1
-  url: "/subjects/TSATC02MIS1/unidad_1"
-  description: "Conocimiento e investigación"
+  url: "/subjects/TSATC03DSS1/unidad_1"
+  description: "Desarrollo sostenible"
 - text: Unidad 2
-  url: "/subjects/TSATC02MIS1/unidad_2"
-  description: "Protocolo de investigación"
+  url: "/subjects/TSATC03DSS1/unidad_2"
+  description: "Objetivos de Desarrollo Sostenible (ODS)"
 - text: Unidad 3
-  url: "/subjects/TSATC02MIS1/unidad_3"
-  description: "Marco teórico"
+  url: "/subjects/TSATC03DSS1/unidad_3"
+  description: "Sostenibilidad y Medio Ambiente"
 - text: Unidad 4
-  url: "/subjects/TSATC02MIS1/unidad_4"
-  description: "Diseño metodológico"
+  url: "/subjects/TSATC03DSS1/unidad_4"
+  description: "Panorama general"

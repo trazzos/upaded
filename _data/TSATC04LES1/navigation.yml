@@ -1,15 +1,15 @@
 - text: Presentación
-  url: "/subjects/TSATC03DSS1/presentacion"
-  description: "Desarrollo sostenible"
+  url: "/subjects/TSATC04LES1/presentacion"
+  description: "Liderazgo y emprendimiento"
 - text: Unidad 1
-  url: "/subjects/TSATC03DSS1/unidad_1"
-  description: "Desarrollo sostenible"
+  url: "/subjects/TSATC04LES1/unidad_1"
+  description: "Liderazgo"
 - text: Unidad 2
-  url: "/subjects/TSATC03DSS1/unidad_2"
-  description: "Objetivos de Desarrollo Sostenible (ODS)"
+  url: "/subjects/TSATC04LES1/unidad_2"
+  description: "El individuo en las organizaciones"
 - text: Unidad 3
-  url: "/subjects/TSATC03DSS1/unidad_3"
-  description: "Sostenibilidad y Medio Ambiente"
+  url: "/subjects/TSATC04LES1/unidad_3"
+  description: "Dirección y liderazgo"
 - text: Unidad 4
-  url: "/subjects/TSATC03DSS1/unidad_4"
-  description: "Panorama general"
+  url: "/subjects/TSATC04LES1/unidad_4"
+  description: "Espíritu emprendedor y creatividad"
