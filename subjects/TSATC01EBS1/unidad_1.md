@@ -49,9 +49,35 @@ subject_name: TSATC01EBS1
 <br/>
 <h3>1.2 Clasificación de la Estadística</h3>
 <br/>
-<p align="justify"></p>
-
+<p align="justify">Hemos revisado el concepto de estadística desde la perspectiva de algunos autores, ahora es necesario conocer su clasificación, la cual se divide en descriptiva e inferencial. </p>
+<p align="center"><b>Ilustración 5.</b> Clasificación de la estadística</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d965930bf81ea0fd1ee83eb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">En palabras de Quevedo y Pérez (2014), la estadística descriptiva queda definida de la siguiente manera:</p>
+<p align="center"><b>Ilustración 6.</b> Definición de estadística descriptiva</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d965b39e359290fbfd4e867" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Derivado de la definición anterior, la Estadística descriptiva integra los siguientes elementos:</p>
+<p align="center"><b>Ilustración 7.</b> Elementos de la estadística descriptiva.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9661b22d7a680fb81ebcff" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Por su parte, la estadística inferencial se define de la siguiente manera: </p>
+<p align="center"><b>Ilustración 8.</b> Definición de estadística inferencial.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9662dcf7c8170fd6aa002e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">En resumen, la estadística descriptiva se basa en el uso de técnicas para la obtención y análisis de datos, y la representación de los resultados. Mientras que la inferencial, se basa en la predicción de resultados de diferentes fenómenos.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9663f5bf81ea0fd1ee8d83" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9663fe77ba700fc678f879" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Es importante mencionar que diversos autores, por la complejidad de la clasificación, desarrollan libros completos referente a la estadística descriptiva e inferencial. A continuación, se describen los grandes rasgos de cada una de ellas (Vargas, 1995):</p>
+<p align="center"><b>Ilustración 9.</b> Estadística descriptiva e inferencial.</p>
 <br/>
 <p align="justify"></p>
-
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
 <br/>
