@@ -63,7 +63,7 @@ subject_name: TSATC01EBS1
 <br/>
 <p align="justify">Por su parte, la estadística inferencial se define de la siguiente manera: </p>
 <p align="center"><b>Ilustración 8.</b> Definición de estadística inferencial.</p>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9662dcf7c8170fd6aa002e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d97a6161db3670fc07f6111" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">En resumen, la estadística descriptiva se basa en el uso de técnicas para la obtención y análisis de datos, y la representación de los resultados. Mientras que la inferencial, se basa en la predicción de resultados de diferentes fenómenos.</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9663f5bf81ea0fd1ee8d83" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
