@@ -20,7 +20,6 @@ subject_name: TSATC01EBS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 41.67%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="500px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d962d25bf81ea0fd1ee63c7" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <h3>1.1	Conceptualización de Estadística</h3>
-<br/>
 <p align="justify">La Estadística, se encuentra presente en varias fases en las que el ser humano se desempeña. Está presente en la vida cotidiana, por tener contacto directo con una infinidad de datos de diferentes clases, los cuales son recopilados para ser analizados y, posteriormente, tomar una decisión fundamentada en sus resultados. </p>
 <p align="justify">La Estadística nos ayuda a elegir un camino con base en los datos obtenidos de distintos fenómenos, se define de la siguiente manera: </p>
 <p align="center"><b>Ilustración 2.</b> Concepto de Estadística.</p>
@@ -48,7 +47,6 @@ subject_name: TSATC01EBS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d964bffbf81ea0fd1ee7dcd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <h3>1.2 Clasificación de la Estadística</h3>
-<br/>
 <p align="justify">Hemos revisado el concepto de estadística desde la perspectiva de algunos autores, ahora es necesario conocer su clasificación, la cual se divide en descriptiva e inferencial. </p>
 <p align="center"><b>Ilustración 5.</b> Clasificación de la estadística</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d965930bf81ea0fd1ee83eb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
@@ -84,10 +82,8 @@ subject_name: TSATC01EBS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d96744a1ff9dc0fb9c31d7c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <h3>1.3	Población y muestra</h3>
-<br/>
 <p align="justify">Para comprender el campo de estudio de la estadística, es importante caracterizar la población y la muestra, que hacen posible introducir los procedimientos estadísticos.</p> 
 <p align="justify">A continuación, se conceptualiza el término de población:</p>
-<br/>
 <p align="center"><b>Ilustración 10.</b> Concepto de Población.</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d976baeee38e80fe6e5a773" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
@@ -133,7 +129,6 @@ subject_name: TSATC01EBS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9784b92d7a680fb81f3a68" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <h3>1.4 Variables</h3>
-<br/>
 <p align="justify">Una variable es una característica, atributo o medida que se está analizando en un estudio estadístico (Guerrero, et al., 2007). A continuación, se proporciona una definición de variable (Di Rienzo, et al., 2005):</p>
 <p align="center"><b>Ilustración 18.</b> Concepto de variable.</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d978921462f8a0fbd1bd70c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
@@ -163,7 +158,7 @@ subject_name: TSATC01EBS1
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9793fc4265310fec2e3c68" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9793fc4265310fec2e3c68" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d979401a4f26f0fdc38cdf9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="center"><b>Ilustración 23.</b> Para reflexionar</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9794e9f7c8170fd6aa978d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
