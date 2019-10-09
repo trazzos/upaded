@@ -98,14 +98,37 @@ subject_name: TSATC03DSS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9c329c77ba700fc67b13b7" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <h3>1.3 Agenda 2030</h3>
-<p align="justify"></p>
+<p align="justify">En septiembre de 2015, se realizó la Cumbre de Desarrollo Sostenible, evento que reunió a 150 representantes de gobiernos y países del mundo para conocer y aprobar los 17 Objetivos de la Agenda 2030, a través de la cual se pretende crear un mundo con miras al Desarrollo Sostenible.</p>
+<p align="justify">A través de los ODS 2030, se busca focalizar los grandes problemas existentes en el mundo y atacarlos con acciones trabajadas en conjunto, las cuales deben ser concretas, reales, y coherentes. Para lograrlo es importante sensibilizar a los países miembros de la importancia de la cooperación para establecer estrategias que permitan reducir las desigualdades, mejorar la participación ciudadana, promover la convivencia y la paz en el mundo; así como adquirir responsabilidad con el cuidado de los recursos naturales. Lo anterior requiere erradicar los patrones que promueven el derroche de recursos, para lograrlo es importante apelar a la voluntad social y la toma de conciencia que permita asegurar la supervivencia de las personas en el planeta.</p>
+<p align="center"><b>Ilustración 13.</b> ¿Sabías qué?</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e3007f14d421015053bcc" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Los ODS no son obligatorios, es decir, no existe sanción jurídica que castigue el incumplimiento, sin embargo, cada gobierno está siendo observado y se ha comprometido a adóptalos y establecer estrategias nacionales que aseguren el logro preciso de los objetivos y el éxito de las estrategias establecidas.</p>
+<p align="center"><b>Ilustración 14.</b> Reflexiona</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e318a00a8af10013309a8" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e357c1378ae0fb6fe189e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<p align="center"><b>Ilustración 15.</b> Indaga</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e3603fdfaf7100d56eb57" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e3664778ee8100a3b46e1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
+<p align="justify">Es ideal que la población mundial trabaje de manera conjunta para asegurar el logro de la Agenda 2030, sin embargo, existen problemas de operatividad en el proceso de implementación, los cuales se evidenciaron en los diagnósticos e informes presentados por países como Chile, Colombia, Bolivia y México.  A continuación, se explicitan algunas de las problemáticas identificadas en la implementación: </p>
+<ul class="unorder-list">
+<p align="justify"><b>a) </b>Falta de recursos suficientes para implementar las acciones previstas</p>
+<p align="justify"><b>b) </b>Existencia de países miembros con deuda nacional, lo que implica diferencias en las aportaciones y disponibilidad de recursos</p>
+<p align="justify"><b>c) </b>Dificultad para la movilización de recursos de ejecución, entre los que destacan, recursos financieros, tecnológicos, entre otros.</p>
+<p align="justify"><b>d) </b>Reducción de la gestión gubernamental para la puesta en marcha de las acciones establecidas en la Agenda</p>
+<p align="justify"><b>e) </b>Desigualdad de grupos focalizados, generada por la mala distribución de los recursos, ingresos, territorios, entre otros. Situación que se hace evidente en el reparto inequitativo del apoyo dirigido a estos sectores, haciendo cada vez más amplia la brecha que permita asegurar el bienestar de la población.</p>
+<p align="justify"><b>f) </b>Existe necesidad de realizar una reingeniería al sistema de las Naciones Unidas, para  garantizar la participación en igualdad de los países miembros</p>
+<p align="justify"><b>g) </b>Conocimiento de las problemáticas existentes y las acciones realizadas para su intervención</p>
+<p align="justify"><b>h) </b>Los actos de corrupción han impedido que la ayuda llegue a sus destinatarios, destinando recursos a estrategias y acciones que no se justifican en la Agenda</p>
+</ul>
+<p align="justify">Para contrarrestar los obstáculos anteriormente mencionados, es importante que las naciones del mundo adquieran el compromiso y responsabilidad para ejecutar acciones que permitan asegurar la sostenibilidad del planeta.</p>
+<p align="center"><b>Ilustración 16.</b> Reflexiona</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e386ad998750ffb6d5ef1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>1.4 ¿Que son los Objetivos de Desarrollo Sostenible?</h3>
 <p align="justify"></p>
 <br/>
 <p align="justify"></p>
