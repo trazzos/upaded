@@ -129,9 +129,31 @@ subject_name: TSATC03DSS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e386ad998750ffb6d5ef1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <h3>1.4 ¿Que son los Objetivos de Desarrollo Sostenible?</h3>
-<p align="justify"></p>
+<p align="justify">Los Objetivos de Desarrollo Sostenible (ODS) describen acciones, metas y lineamientos que buscan el bienestar en el ámbito económico, social y medioambiental, para su logro es importante monitorear las problemáticas que pudieran enfrentarse en el futuro y que pongan en riesgo al planeta y sus habitantes.</p>
+<p align="justify">A continuación, en la Ilustración se presentan los 17 ODS:</p>
+<p align="center"><b>Ilustración 17.</b> Objetivos de Desarrollo Sostenible</p>
+<p align="center"><img src="/upaded/assets/images/ODSObjetivos.png" alt="Objetivos de Desarrollo Sostenible"></p>
+<p align="center">Fuente: ONU (2015).</p>
+<p align="center"><b>Ilustración 18.</b> Dato importante </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e3cce0dd04d101024f709" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Para cumplir y verificar el avance de la propuesta, se generan políticas, planes y programaciones entre países miembros de la ONU, los que desempeñan un papel de brújula que armoniza los procesos nacionales y mundiales. Además, se elaboran estrategias que cada nación asume como propias para impulsar la financiación, obtención y movimiento de recursos que contribuyan al desarrollo sostenible.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e3dca559d700fb062a661" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Es importante que reflexiones la importancia de los ODS al 2030, y analices en cuáles puedes contribuir desde el ámbito personal hasta el profesional. Sin duda, todos somos agentes de cambio y responsables del cuidado sostenible del planeta.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e3e990b66bf10136c2fd0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e3f0f3622830ff857e3ae" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e44a50cb8530ffeb2b708" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Existen al menos tres estrategias para el seguimiento del progreso de las metas e indicadores de los ODS, los cuales se explicitan a continuación: </p>
+<p align="center"><b>Ilustración 19.</b> Estrategias de seguimiento</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e45ab00a8af100133166b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9e4812fdfaf7100d56fc8c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9c328269f91c0fd716e948" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="center"><b>Ilustración 20.</b> Criterios de evaluación</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 25.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="300px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9c32877a0b9c0fbeba0409" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
