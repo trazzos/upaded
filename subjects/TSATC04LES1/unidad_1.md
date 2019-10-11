@@ -83,9 +83,6 @@ subject_name: TSATC04LES1
 <p align="center"><b>Ilustración 10.</b> ¿Sabías que?</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ffc1263c7ad0fcb94df6e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="center"><b>Ilustración 10.</b> ¿Sabías que?</p>
-<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ffc1263c7ad0fcb94df6e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
-<br/>
 <p align="center"><b>Ilustración 11.</b> Tres variables de Fiedler</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ffce648e41f0f9d470b2e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
@@ -114,20 +111,34 @@ subject_name: TSATC04LES1
 <h3>1.4 Enfoques de liderazgo.</h3>
 <p align="justify">Frente a los cambios continuos en el entorno, el desarrollo profesional y la empleabilidad se ven cuestionados por la poca utilidad hasta llegar  a un momento de crisis. Las organizaciones requieren profesionales competentes que tengan la capacidad para liderar en un contexto de crecimiento, innovación, trabajo en equipos, enfocados a desarrollar productos y servicios creativos, así mismo, que generen resultados eficientes para el mundo competitivo. </p>
 <p align="center"><b>Ilustración 14.</b> ¿Sabías qué?</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0b7bc6aba710fb2103bad" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="center"><b>Ilustración 15.</b> Características de liderazgo según Ralph M. Stogdill</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0bcc15efb590fa9f77fa6" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Diversos estudios intentan explicar el concepto de liderazgo, sin embargo, no existe un consenso entre los teóricos al intentar responder dos cuestionamientos, 1) qué características tiene el liderazgo y 2) cuáles son las relaciones que se establecen en el proceso de liderazgo.</p>
+<p align="center"><b>Ilustración 16.</b> ¿Sabías qué?</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0c5c57a39270fa1bd169c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="center"><b>Ilustración 17.</b> Dato importante</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0c6313fa10c0fbcf504f7" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="center"><b>Ilustración 18.</b> Características del liderazgo carismático</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0c6bc6aba710fb2104341" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0c8a248e41f0f9d474d12" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">En ese sentido, el liderazgo se entiende como el proceso de influir en las personas para que con entusiasmo y disposición contribuyan al logro de las metas del grupo. </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0ca396aba710fb21045ae" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0caa8a9c5610fb5787fb3" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">El buen liderazgo, consiste en motivar a las personas para que alcancen sus niveles elevados de rendimiento. Así como brindar las oportunidades para crecer, sin imponer obligaciones. </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0cb1420320e0f974e6d78" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
+<p align="justify">El carisma es una de las cualidades del líder, lo que implica la capacidad para provocar entusiasmo en los subordinados con la finalidad de llevar al logro de las metas en la organización, para lograrlo utiliza la comunicación y la motivación para inspirarlos a dar su mayor esfuerzo.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0cb747a39270fa1bd1841" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9cba404474601025226362" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<p align="center"><b>Ilustración 19.</b> Criterios de evaluación.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 25.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="300px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9cba384474601025226348" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>

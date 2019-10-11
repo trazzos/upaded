@@ -1,0 +1,15 @@
+- text: Presentación
+  url: "/subjects/TSAPC05TES1/presentacion"
+  description: "Teorías económicas"
+- text: Unidad 1
+  url: "/subjects/TSAPC05TES1/unidad_1"
+  description: "Fundamentos de Administración"
+- text: Unidad 2
+  url: "/subjects/TSAPC05TES1/unidad_2"
+  description: "Evolución de la Administración"
+- text: Unidad 3
+  url: "/subjects/TSAPC05TES1/unidad_3"
+  description: "Proceso administrativo"
+- text: Unidad 4
+  url: "/subjects/TSAPC05TES1/unidad_4"
+  description: "Áreas funcionales de la empresa"
