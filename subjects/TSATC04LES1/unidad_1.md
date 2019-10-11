@@ -50,7 +50,7 @@ subject_name: TSATC04LES1
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9cba2ddcd66d101095a769" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<h3>1.1 Estilos de liderazgo.</h3>
+<h3>1.2 Estilos de liderazgo.</h3>
 <p align="justify">Ahora que vamos conociendo las características de un líder, hemos identificado que existen diferentes tipos de liderazgo, los cuales responden a cualidades, habilidades, situaciones, necesidades y deseos distintos, en relación a los propósitos de la empresa o las necesidades de las personas,  por ejemplo: trabajo, libertad, dinero y salud.</p>
 <p align="justify">Asimismo, es necesario mencionar que el estilo se manifiesta como una relación social entre el sujeto de dirección y el grupo al cual está subordinado. Koontz (2012) plantea que:</p>
 <p align="center"><b>Ilustración 6.</b> Dato importante</p>
@@ -58,6 +58,66 @@ subject_name: TSATC04LES1
 <br/>
 <p align="justify">La importancia de los estilos de liderazgo adquiridos en las organizaciones consiste en que, el líder ejerce influencia con su comportamiento en un número considerable de personas y funciones que resultan fundamentales. Un estilo de liderazgo deficiente puede plantear serios problemas dentro de las organizaciones. </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9fa47ca350c90fc2f9ddf0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ff07159cee50fa3eb72ca" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Podemos mencionar que todos los estilos de liderazgo tienen cabida en las empresas, tales como los departamentos de recursos humanos y la estrategia de la empresa que definen que tipo de liderazgo se requiere promocionar.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ff3087ade0b0fd15cd67d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9cba22aa45db1011747485" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>1.3 Teorías de liderazgo.</h3>
+<p align="justify">Los factores que generan liderazgo en las organizaciones tienen su origen en dos situaciones: 1) necesidad de mejorar el nivel competitivo, y 2) desempeño de las personas. </p>
+<p align="justify">El tema de liderazgo ha llamado la atención a través del tiempo y está adquiriendo una importancia cada vez mayor en las organizaciones.  </p>
+<p align="center"><b>Ilustración 7.</b> Reflexiona</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ff58e3fa10c0fbcf4c04c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="center"><b>Ilustración 8.</b> Las bases del poder organizacional e individual</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ff6624e7d920f9b3ba03b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Las teorías del comportamiento, sostienen que el liderazgo es el elemento fundamental para el desempeño, aunque también es importante considerar las diferencias individuales, así como los estilos de liderazgo. </p>
+<p align="center"><b>Ilustración 9.</b> Teorías del comportamiento </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ffa1059cee50fa3eb749e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Para Fiedler los buenos líderes deben gestionar equipos, incentivar los cambios, tener iniciativa, comprender el medio ambiente que les rodea, así como esforzarse en cada proyecto. </p>
+<p align="center"><b>Ilustración 10.</b> ¿Sabías que?</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ffc1263c7ad0fcb94df6e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="center"><b>Ilustración 10.</b> ¿Sabías que?</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ffc1263c7ad0fcb94df6e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="center"><b>Ilustración 11.</b> Tres variables de Fiedler</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ffce648e41f0f9d470b2e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Existe gran variedad de situaciones de liderazgo tanto favorables como desfavorables, su efectividad depende de la tarea a realizar.</p>
+<p align="center"><b>Ilustración 12.</b> Fortalezas y debilidades de liderazgo de Laissez Faire</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5d9ffff51e54710fbb0bf6f3" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Los investigadores han llegado a la conclusión que los rasgos por si solos no son suficientes para lograr identificar a los líderes, porque las explicaciones basadas únicamente en los rasgos, no permiten la interacción entre los líderes y los miembros de su grupo. </p>
+<p align="center"><b>Ilustración 13.</b> Rasgos asociados al liderazgo</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 50.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1600px" height="800px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0066f3fa10c0fbcf4c8bc" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da008b720320e0f974e2fe8" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da009574e7d920f9b3ba7d0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da009cfad0ced0fac22d1e2" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da00a625efb590fa9f73cc4" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da00b06a9c5610fb5784238" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da00b67a9c5610fb5784248" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da00bf75efb590fa9f73d52" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>1.4 Enfoques de liderazgo.</h3>
+<p align="justify">Frente a los cambios continuos en el entorno, el desarrollo profesional y la empleabilidad se ven cuestionados por la poca utilidad hasta llegar  a un momento de crisis. Las organizaciones requieren profesionales competentes que tengan la capacidad para liderar en un contexto de crecimiento, innovación, trabajo en equipos, enfocados a desarrollar productos y servicios creativos, así mismo, que generen resultados eficientes para el mundo competitivo. </p>
+<p align="center"><b>Ilustración 14.</b> ¿Sabías qué?</p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
 <br/>
 <p align="justify"></p>
 <br/>
