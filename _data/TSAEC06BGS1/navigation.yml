@@ -3,7 +3,7 @@
   description: "Biología General"
 - text: Unidad 1
   url: "/subjects/TSAEC06BGS1/unidad_1"
-  description: "Introducción a la biología "
+  description: "Introducción a la biología"
 - text: Unidad 2
   url: "/subjects/TSAEC06BGS1/unidad_2"
   description: "Biología celular"
