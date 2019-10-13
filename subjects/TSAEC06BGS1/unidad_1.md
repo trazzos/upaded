@@ -128,16 +128,38 @@ subject_name: TSAEC06BGS1
 <p align="center"><b>Ilustración 10.</b> Procesos que favorecen el cambio climático.</p>
 <p align="center"><img src="/upaded/assets/images/cambio_climatico.jpg" alt="Procesos que favorecen el cambio climático"></p>
 <p align="center">Fuente: Martínez,  (2013).</p>
+<p align="justify">El cambio climático es considerado uno de los problemas ambientales más importantes de la actualidad, y se define como la modificación relevante en el sistema climático del planeta,  como resultado de diversas acciones del ser humano, entre ellas, la tala de bosques, pérdida de flora nativa, caza indiscriminada, contaminación del agua y el suelo. Sus efectos han generado gran preocupación en la sociedad, la cual está tomando conciencia de los efectos negativos de sus acciones sobre los seres vivos. </p>
+<p align="center"><b>Ilustración 11.</b> ¿Sabías qué? </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da393e9a9c5610fb579393b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">En la siguiente ilustración se observan las diversas causas del calentamiento global, de todas ellas, el ser humano solo puede intervenir en las causas antropogénicas </p>
+<p align="center"><b>Ilustración 12.</b> Causas del cambio climático.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da395115efb590fa9f85c5d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Una de las causas más estudiadas del cambio climático es la fuente antropocéntrica, es decir el aumento de la temperatura global producida de manera continua desde mediados del siglo XIX hasta nuestros días. En específico se hace referencia a la Revolución Industrial, a la cual se le atribuye el incremento en la concentración de los Gases de Efecto Invernadero (GEI) como el dióxido de carbono (CO2), metano (CH4), vapor de agua (H2O), ozono (O3) y óxido nitroso (N2O), producidos a partir del transporte, la generación de electricidad y la industria.</p>
+<p align="justify">En el sector agrícola se realizan diversas actividades que han contribuido de manera negativa, como es el caso de la roza, tumba y quema en la agricultura, así como el cambio y uso del suelo, en donde se ven afectadas grandes extensiones de cobertura vegetal las cual fungen como sumideros de carbono.</p>
+<p align="justify">El aumento de las temperaturas termina por disminuir la obtención de los cultivos esperados, como consecuencia de los cambios en los regímenes de lluvias, que amplían las probabilidades de fracaso de las cosechas a corto plazo y de reducción de la producción a largo plazo, por lo anterior es importante mitigar los impactos de estas prácticas y buscar una forma sustentable de trabajo (Nelson et al, 2009).</p>
+<p align="justify"><b>¿Cómo afecta el cambio climático a la biodiversidad?</b></p>
+<p align="justify">La biodiversidad, que los científicos definen como la variabilidad que existe entre los organismos de una especie, entre especies y entre ecosistemas, tampoco ha sido ajena a los efectos del cambio climático. </p>
+<p align="justify">Conforme la temperatura, la precipitación y otras variables ambientales cambian, los científicos siguen documentado las consecuencias sobre muchas especies de plantas, animales y ecosistemas. Es así como se suma el cambio climático, junto con la deforestación, la sobreexplotación de los recursos naturales y la contaminación, entre otras actividades humanas, a la lista de factores que impulsan la más grave crisis que vive la biodiversidad desde la extinción de los dinosaurios hace 65 millones de años.</p>
+<p align="justify">El Panel Intergubernamental sobre Cambio Climático señala que alrededor del 50% de las especies se han visto afectadas por el cambio climático, evidenciando la magnitud del problema. Además, explican que al modificarse significativamente la condiciones ambientales se afecta la sobrevivencia y la reproducción (INECC, 2007).</p>
+<p align="center"><b>Ilustración 13.</b> Reflexiona</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da3972220320e0f974f2101" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify"><b>Cambio climático y biodiversidad</b></p>
+<p align="justify"><b><i>Impactos</i></b> </p>
+<p align="justify">Los ecosistemas naturales más frágiles se verán afectados por el cambio climático, algunas especies se extinguirán si se presentan variaciones en las temperaturas y precipitación (regional y local). Otros impactos esperados son la migración de especies hacia regiones con condiciones climáticas parecidas a sus hábitats de origen, la pérdida de capacidad reproductiva de diversas especies y cambios en su morfología para adaptarse. Los ecosistemas más afectados serán los bosques tropicales y los de niebla.</p>
+<p align="justify"><b><i>Vulnerabilidad</i></b> </p>
+<p align="justify">México es un país diverso; esta característica hace vulnerable a sus especies endémicas a los impactos del cambio climático. Es importante considerar que existen especies con posibilidad de extinguirse, fenómeno que constituye una presión adicional a los efectos negativos provocados por la urbanización y falta de planeación (Sosa, 2015). </p>
+<p align="justify">Sin duda, la falta de investigación sobre los efectos que las variaciones climáticas en los ecosistemas más frágiles incrementa su vulnerabilidad.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da398797ade0b0fd15df5b7" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da398e01e54710fbb0d0382" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da3995c5efb590fa9f86190" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0eff63fa10c0fbcf51220" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
+<p align="center"><b>Ilustración 14.</b> Criterios de evaluación</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 25.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="300px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0efe96aba710fb21053a5" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
