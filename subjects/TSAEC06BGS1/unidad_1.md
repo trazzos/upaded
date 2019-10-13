@@ -126,7 +126,7 @@ subject_name: TSAEC06BGS1
 <p align="justify">Para comprender el fenómeno de cambio climático, es necesario conceptualizar el clima terrestre, el cual es producto de la interacción entre atmosfera,  océanos,  capas de hielo y nieve, continentes y la vida en el planeta.</p>
 <p align="justify">Las variaciones de las condiciones atmosféricas del planeta se modifican diariamente, de esta manera se presentan cambios en las condiciones de temperatura y lluvia, a los cuales se les llama estado del tiempo (Conde, 2006).</p>
 <p align="center"><b>Ilustración 10.</b> Procesos que favorecen el cambio climático.</p>
-<p align="center"><img src="/upaded/assets/images/ODSObjetivos.png" alt="Objetivos de Desarrollo Sostenible"></p>
+<p align="center"><img src="/upaded/assets/images/cambio_climatico.jpg" alt="Procesos que favorecen el cambio climático"></p>
 <p align="center">Fuente: Martínez,  (2013).</p>
 <br/>
 <p align="justify"></p>
