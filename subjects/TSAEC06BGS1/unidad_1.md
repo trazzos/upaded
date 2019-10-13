@@ -89,6 +89,46 @@ subject_name: TSAEC06BGS1
 <p align="center"><b>Ilustración 8.</b> Dato importante</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da155d05efb590fa9f7dabd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da383623fa10c0fbcf5ae39" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da3862e98b81d0faea4f103" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da387fead0ced0fac239bb3" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da0efd798b81d0faea4529f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>1.3 Características de la vida</h3>
+<p align="justify">El concepto de vida es usado por diversas ciencias, cada una de ellas utiliza el concepto de vida física o corporal desde su enfoque.</p>
+<p align="justify"><b>Objeto de estudio de la biología </b></p>
+<p align="justify">Generalmente nos cuestionamos, ¿Qué es la vida?, es importante considerar que plantear una definición de vida resulta ser muy difícil, cuando se desconocen las características de los seres vivos. Entre las principales características de los seres vivos podemos identificar su capacidad para evolucionar, cambiar de una generación a otra, dejar descendencias fértiles y con el transcurso del tiempo generar nuevas especies (Jiménez, 2006).</p>
+<p align="justify">Es importante considerar que los organismos vivos están dotados de ciertas características no asociadas con la materia inorgánica, situación que genera la inexistencia de un criterio único que describa y defina de manera concreta la vida. </p>
+<p align="justify">En lugar de una diferencia única que separe a los seres vivos de los no vivos; los científicos definen la vida mediante una relación de atributos que suelen denominar características de la vida en cualquier individuo de cualquier reino. La relación de características de la vida que citan los fisiólogos puede manifestarse de distintas formas, según el tipo de organismo que se estudie, la forma de agrupamiento y las funciones vitales que desempeñan. </p>
+<p align="center"><b>Ilustración 9.</b> Características de la vida</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da38a51c789b40fb47323df" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Al mecanismo intracelular que proporciona energía y materiales necesarios para el mantenimiento de las funciones y estructuras celulares a partir de los nutrientes digeridos, se le llama metabolismo  (Botario & Cascales, 2011).</p>
+<p align="justify">Homeostasis es una característica de los organismos que radica en su capacidad de mantener un estado interno estable, compensando los cambios en su entorno mediante el intercambio previsto de materia y energía con el exterior (metabolismo). Se trata de una forma de equilibrio dinámico que se hace posible gracias a una red de sistemas de control realimentados que constituyen los mecanismos de autorregulación de los seres vivos (Cannon, 1926).</p>
+<p align="justify">La excitabilidad es otra de las características que definen a un ser vivo y constituye una propiedad de las células que les permite responder a la estimulación por cambios rápidos en el potencial de membrana; los cuales son producidos por el flujo de iones a través de la membrana plasmática (Schulz, Helpel, Li, Liss, y Misonou, 2006).</p>
+<p align="justify">La reproducción es un proceso biológico que permite la creación de nuevos organismos (perpetuación de la especie), las dos modalidades básicas de reproducción son, 1) reproducción asexual o vegetativa y 2) reproducción sexual o generativa (Solomon, 2001).</p>
+<p align="justify">Los genes son las unidades de almacenamiento de información genética, fragmentos de ADN que contienen los datos sobre cómo deben desempeñarse las células del organismo. Poseen elementos que muestran de dónde a dónde se tiene que leer, y su contenido establece la composición de las proteínas que se crean. Los genes están presentes en los cromosomas, es decir en el núcleo de las células (Slack, 2014).</p>
+<p align="justify">Estructurado por Carbono, Hidrogeno, Oxigeno y Nitrógeno (CHON), los cuales son elementos comunes en forma de proteína para los organismos.</p>
+<p align="justify">La característica de crecimiento, hace alusión al aumento de tamaño. Por su parte, el desarrollo hace referencia a la tendencia evolutiva como respuesta a estímulos.</p>
+<p align="justify">La vida está relacionada con la suma de todas las reacciones físicas y químicas que se producen en el cuerpo, el término metabolismo se utiliza para describir dichos procesos. En el reino plantae también se presentan procesos metabólicos, que pueden ser estudiados en los cultivos para establecer estrategias que permitan mejorarlos. </p>
+<p align="justify">Sin duda, uno de los procesos necesarios e importantes en el reino plantae es la nutrición, que actualmente se apoya de la fertilización química, que consiste en el suministro de productos que le proporcionan a la planta macro y micro elementos, entre los que destacan, nitrógeno, potasio, fosforo, magnesio, manganeso, entre otros. </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da38cc3c789b40fb4732422" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Para profundizar en el tema revisa los siguientes videos, en donde se presentan las características de los seres vivos y sus funciones</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da38d2520320e0f974f16e0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da38e391e54710fbb0d0196" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>1.4 Cambio climático</h3>
+<p align="justify">Para comprender el fenómeno de cambio climático, es necesario conceptualizar el clima terrestre, el cual es producto de la interacción entre atmosfera,  océanos,  capas de hielo y nieve, continentes y la vida en el planeta.</p>
+<p align="justify">Las variaciones de las condiciones atmosféricas del planeta se modifican diariamente, de esta manera se presentan cambios en las condiciones de temperatura y lluvia, a los cuales se les llama estado del tiempo (Conde, 2006).</p>
+<p align="center"><b>Ilustración 10.</b> Procesos que favorecen el cambio climático.</p>
+<p align="center"><img src="/upaded/assets/images/ODSObjetivos.png" alt="Objetivos de Desarrollo Sostenible"></p>
+<p align="center">Fuente: Martínez,  (2013).</p>
+<br/>
 <p align="justify"></p>
 <br/>
 <p align="justify"></p>
