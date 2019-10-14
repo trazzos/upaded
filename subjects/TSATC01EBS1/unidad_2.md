@@ -71,22 +71,45 @@ subject_name: TSATC01EBS1
 <p align="justify"><b>4.- </b>A continuación, se procede a crear cada categoría o intervalo; para esto se determina el límite inferior de la primera categoría, que puede ser igual o menor al valor mínimo de los datos analizados, a este valor se suma la amplitud del intervalo y se obtiene el límite superior del intervalo, y a su vez, es el límite inferior de la siguiente categoría y así sucesivamente sumamos la amplitud del intervalo a cada límite obtenido, hasta completar el número de intervalos establecidos. Es importante considerar que los límites superiores de cada intervalo son los límites inferiores del intervalo anterior.</p>
 <p align="justify"><b>5.- </b>Finalmente, se completa la categorización con la determinación de las frecuencias de cada clase o intervalo, esto se obtiene contando los datos que están incluidos en cada una de ellas. Recordar que la sumatoria de todas las frecuencias debe ser igual que el total de la cantidad de datos estudiados.</p>
 </ul>
-<p align="justify">Salazar y Del Castillo (2018), mencionan que los pasos presentados anteriormente permiten llenar la tabla de distribución de frecuencias, que incluye los datos agrupados por intervalos, la frecuencia de clase (<b><i>f</i></b>) y la frecuencia acumulada (<b><i>fa/i></b>). Debemos mencionar que, en ocasiones existen diferencias en los pasos a seguir para llenar las tablas de distribución, de acuerdo al autor, y también en las siglas de los datos obtenidos; sin embargo, no hay variaciones significativas, sin embargo debes tener presente dicha observación. A continuación, se muestran los resultados y se construye la tabla de distribución de frecuencias:</p>
+<p align="justify">Salazar y Del Castillo (2018), mencionan que los pasos presentados anteriormente permiten llenar la tabla de distribución de frecuencias, que incluye los datos agrupados por intervalos, la frecuencia de clase (<b><i>f</i></b>) y la frecuencia acumulada (<b><i>fa</i></b>). Debemos mencionar que, en ocasiones existen diferencias en los pasos a seguir para llenar las tablas de distribución, de acuerdo al autor, y también en las siglas de los datos obtenidos; sin embargo, no hay variaciones significativas, sin embargo debes tener presente dicha observación. A continuación, se muestran los resultados y se construye la tabla de distribución de frecuencias:</p>
 <p align="justify"><b><i>n</i></b> = 80   Valor Máximo = 32    Valor Mínimo = 3    Rango = 29</p>
 <p align="justify">Categorías = 7 u 8   <b><i>i</i></b> = 4 (usando 8 categorías)</p>
 <p align="center"><b>Ilustración 10.</b> Tabla de distribución de frecuencias.</p>
-
+<p align="center"><img src="/upaded/assets/images/tabla_2.PNG" alt="Tabla de distribución de frecuencias."></p>
 <p align="center">Fuente: UP@DED (2019), con información de Salazar y Del Castillo (2018).</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4b1a8a350c90fc2fbabaf" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4b23763c7ad0fcb964746" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4b32dad0ced0fac2411e6" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4b3997ade0b0fd15e5d9b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4b63dad0ced0fac241398" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4b7da5efb590fa9f8b345" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>2.2 Medidas de tendencia central</h3>
+<p align="justify">Con la base de datos y las tablas de distribución de frecuencias, se pueden realizar una infinidad de cálculos para estudiar a fondo el comportamiento de los datos. Berenson y Levine (1996), mencionan que es posible caracterizar cualquier conjunto de datos numéricos, por la medición de su tendencia al agruparse hacia algún valor, ya sea cerca de un valor central o lejos de él. Las tres mejores propiedades que describen a una serie numérica de datos son:</p>
+<p align="center"><b>Ilustración 11.</b> Propiedades que describen una serie numérica de datos.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4bed23fa10c0fbcf61f6b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">En este apartado nos enfocaremos en analizar las medidas de tendencia central o de posición. Veamos la siguiente ilustración, para comprender el término y su función:</p>
+<p align="center"><b>Ilustración 12.</b> Definición de medidas de tendencia central.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4bfba7a39270fa1be2e32" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Las medidas de tendencia central son operaciones que calculan el promedio de los datos, los más importantes son: </p>
+<p align="center"><b>Ilustración 13.</b> Medidas de tendencia central.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 33.33%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="400px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4c04cc789b40fb473952a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">A continuación, se describe cada una de las medidas de tendencia central, así como las fórmulas para calcularlas:</p>
+<p align="justify"><b><i>Media aritmética</i></b></p>
+<p align="justify">La media aritmética (también llamada media), es el promedio o medición de la tendencia central de uso más común. Se calcula sumando todas las observaciones de una serie de datos y luego dividiendo el total entre el número de elementos involucrados (Berenson y Levine, 1996).</p>
+<p align="center"><b>Ilustración 14.</b> Dato importante.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4c39a3fa10c0fbcf622e6" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">La fórmula para calcular la media aritmética, es la que se te presenta a continuación:</p>
+<p align="center"><img src="/upaded/assets/images/tabla_2.PNG" alt=""></p>
 <br/>
 <p align="justify"></p>
 <br/>
