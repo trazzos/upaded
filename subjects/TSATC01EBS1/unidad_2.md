@@ -109,7 +109,43 @@ subject_name: TSATC01EBS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4c39a3fa10c0fbcf622e6" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">La fórmula para calcular la media aritmética, es la que se te presenta a continuación:</p>
-<p align="center"><img src="/upaded/assets/images/tabla_2.PNG" alt=""></p>
+<p align="center"><img src="/upaded/assets/images/media_1.PNG" alt=""></p>
+<p align="justify">Para datos no agrupados</p>
+<p align="center"><img src="/upaded/assets/images/media_2.PNG" alt=""></p>
+<p align="justify">Según Vargas (1995), la fórmula para calcular la media aritmética para datos agrupados es:</p>
+<p align="center"><img src="/upaded/assets/images/media_3.PNG" alt=""></p>
+<p align="justify">También:</p>
+<p align="center"><img src="/upaded/assets/images/media_4.PNG" alt=""></p>
+<p align="justify">Donde <i>f1</i> = es la frecuencia de esa clase.  </p>
+<p align="justify">Otros autores, manejan multiplicar la frecuencia de cada intervalo por su marca de clase (centro del intervalo), realizar la sumatoria y dividirla entre el total de datos.</p>
+<p align="justify"><b><i>Mediana</i></b></p>
+<p align="justify">Esta es otra de las medias de posición o de tendencia central. A continuación, conceptualiza: </p>
+<p align="center"><b>Ilustración 15.</b> Definición de mediana.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4c84d59cee50fa3ecfa09" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<p align="justify">De la definición anterior, el autor también menciona que si no hay empates en la secuencia de datos ordenados, la mitad de las observaciones serán menores y la otra mitad serán mayores. La mediana, no se ve afectada por ninguna observación extrema de una serie de datos (Quevedo y Pérez, 2014).</p>
+<p align="justify">Para poder calcular la mediana de una serie de datos recolectados en su forma sin procesar, primero debemos poner los datos de forma ordenada. Después debemos aplicar la siguiente fórmula (Berenson y Levine, 1996):</p>
+<p align="center"><img src="/upaded/assets/images/mediana_1.PNG" alt=""></p>
+<p align="justify">Para encontrar el lugar de la clasificación ordenada que corresponde al valor de la mediana, Berenson y Levine (1996) refieren seguir una de las dos siguientes reglas:</p>
+<p align="center"><b>Ilustración 16.</b> Reglas para encontrar la mediana.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4c8e598b81d0faea5598c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify"><b><i>Moda</i></b></p>
+<p align="justify">La moda, es una de las tres medidas de tendencia central más conocidas. El concepto es sencillo y se define de la siguiente manera:</p>
+<p align="center"><b>Ilustración 17.</b> Definición de moda.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4c9af59cee50fa3ecfa88" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Para el caso de variables continuas, la moda es la marca de clase (valor medio de un intervalo) que posee mayor frecuencia, es decir, el valor que se repite más. Pueden existir uno o más valores modales. Para distribuciones simétricas unimodales, la media, la mediana y la moda corresponden al mismo valor (Di Rienzo et al., 2005). El mismo autor, señala que en el caso que ningún dato se repita, se dice que no tiene moda, si existen dos valores que tengan la misma frecuencia o que se repitan el mismo número de veces, tendrá lo que se llama “bimodal”, es decir, los dos valores son la moda. </p>
+<p align="justify">Por su parte, Levin y Rubin (2004), mencionan que cuando los datos se encuentran agrupados en una distribución de frecuencias, podemos decir que la moda se va a localizar en el intervalo que tenga mayor frecuencia; por lo anterior se utiliza la siguiente fórmula:</p>
+<p align="center"><img src="/upaded/assets/images/moda_1.PNG" alt=""></p>
+<p align="justify">Donde:</p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
 <br/>
 <p align="justify"></p>
 <br/>
