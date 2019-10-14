@@ -122,6 +122,7 @@ subject_name: TSATC01EBS1
 <p align="justify">Esta es otra de las medias de posición o de tendencia central. A continuación, conceptualiza: </p>
 <p align="center"><b>Ilustración 15.</b> Definición de mediana.</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4c84d59cee50fa3ecfa09" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
 <p align="justify">De la definición anterior, el autor también menciona que si no hay empates en la secuencia de datos ordenados, la mitad de las observaciones serán menores y la otra mitad serán mayores. La mediana, no se ve afectada por ninguna observación extrema de una serie de datos (Quevedo y Pérez, 2014).</p>
 <p align="justify">Para poder calcular la mediana de una serie de datos recolectados en su forma sin procesar, primero debemos poner los datos de forma ordenada. Después debemos aplicar la siguiente fórmula (Berenson y Levine, 1996):</p>
 <p align="center"><img src="/upaded/assets/images/mediana_1.PNG" alt=""></p>
@@ -138,12 +139,35 @@ subject_name: TSATC01EBS1
 <p align="justify">Por su parte, Levin y Rubin (2004), mencionan que cuando los datos se encuentran agrupados en una distribución de frecuencias, podemos decir que la moda se va a localizar en el intervalo que tenga mayor frecuencia; por lo anterior se utiliza la siguiente fórmula:</p>
 <p align="center"><img src="/upaded/assets/images/moda_1.PNG" alt=""></p>
 <p align="justify">Donde:</p>
+<p align="justify"><b><i>L<sub>Mo</sub></i></b> =Limite inferior de la clase modal</p>
+<p align="justify"><b><i>d<sub>1</sub></i></b> = Frecuencia de la clase modal menos la frecuencia de la clase que se encuentra inmediatamente menor que ella</p>
+<p align="justify"><b><i>d<sub>2</sub></i></b> = Frecuencia de la clase modal menos la frecuencia de la clase inmediatamente mayor que ella</p>
+<p align="justify"><b><i>w</i></b> = Ancho del intervalo de la clase modal</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4ce066aba710fb21184b9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4cef7a9c5610fb5799749" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4cf7959cee50fa3ecfd77" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4d01459cee50fa3ecfdbd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4d0db6aba710fb2118565" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4dfcf63c7ad0fcb9664d7" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>2.3 Representaciones gráficas</h3>
+<p align="justify">El ciclo para el análisis de un problema estadístico, inicia con la recolección de datos, el análisis y la presentación gráfica de resultados. Por lo que, en este apartado veremos de manera breve, las formas más comunes de representar gráficamente datos numéricos o estadísticos. </p>
+<p align="justify">Salazar y Del Castillo (2018) mencionan que, en ocasiones existen muchos gráficos estadísticos, por lo tanto, es importante enfocarse en gráficas de acuerdo a la variable que se esté estudiando. La representación gráfica de la distribución de frecuencias permite tener una mejor imagen de los datos. Los principales gráficos estadísticos los podemos resumir en:</p>
+<p align="center"><b>Ilustración 18.</b> Principales gráficos estadísticos.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4e2e9ad0ced0fac243469" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify"><b>Gráfica de sectores </b></p>
+<p align="justify">Otro de los gráficos utilizados para la representación de los datos, es el diagrama de sectores. Salazar y Del Castillo (2018), el cual se define de la siguiente manera:</p>
+<p align="center"><b>Ilustración 19.</b> Definición diagrama de sectores.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da4e5c7c789b40fb473ba02" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Salazar y Del Castillo (2018), refieren que para calcular el tamaño de los sectores, se realiza una conversión entre la frecuencia y los grados de una circunferencia, de la misma manera se obtiene el porcentaje que ocupa cada frecuencia. En la siguiente imagen se proporciona un ejemplo: </p>
+<p align="center"><b>Ilustración 20.</b> Ejemplo de gráfica de sectores.</p>
 <br/>
 <p align="justify"></p>
 <br/>
