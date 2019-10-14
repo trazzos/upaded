@@ -56,10 +56,27 @@ subject_name: TSATC01EBS1
 <br/>
 <p align="justify"Para comprender el llenado de una tabla de frecuencia, Salazar y Del Castillo (2018) recolectaron datos obtenidos al medir el tiempo (en minutos) que un cliente se mantuvo en la fila, antes de ser atendido en una sucursal bancaria de la localidad, datos que se muestran en la siguiente tabla:</p>
 <p align="center"><b>Ilustración 9.</b> Tabla con datos no ordenados.</p>
+<p align="center"><img src="/upaded/assets/images/tabla.PNG" alt="Tabla con datos no ordenados"></p>
+<p align="center">Fuente: UP@DED (2019), con información de Salazar y Del Castillo (2018).</p>
+<p align="justify">La tabla anterior, contiene un conjunto de números que no tienen un orden, a menos que sean organizados de manera sistemática. Esto se logra agrupando los datos en intervalos de clase, que permite obtener una distribución de frecuencias. Aunque distintos autores difieren en el método a utilizar para identificar cuántos intervalos se deben crear para ordenar los datos; también se difiere en el método para generar el ancho de cada intervalo (rango). </p>
+<p align="justify">A continuación se describen algunos pasos para construir una tabla de distribución de frecuencias para variables continuas, es decir, datos continuos agrupados por intervalos. Para fines prácticos, antes de comenzar los cálculos, debemos ordenar los datos de menor a mayor, o mayor a menor. Veamos los siguientes pasos (Salazar y Del Castillo, 2018):</p>
+<ul class="unorder-list">
+<p align="justify"><b>1.- </b>Determinar el rango de los valores entre los cuales se sitúan todas las observaciones, es decir se observa el valor máximo y el mínimo y se obtiene su diferencia.</p>
+<p align="center"><b><i>Rango = Valor máximo – Valor mínimo</i></b> </p>
+<p align="justify"><b>2.- </b>En este paso se elige el número de intervalos o categorías que va a tener la distribución, este es un valor que normalmente suele estar entre 5 y 15. La cantidad de intervalos se establece de acuerdo al número (n) de datos u observaciones de estudio. De forma tentativa, se determina esta cantidad de intervalos con el siguiente criterio:</p>
+<p align="center"><b>No. de categorias = 1 + 3.3 long (<i>n</i>)</b> </p>
+<p align="justify"><b>3.- </b>El resultado en este paso, se aproxima al entero inmediato menor o mayor. Influye la persencia de decimales, es decir, igual a 0.5 o mayor, subirá al valor inmediato superior. Mientras que menor a 0.5 bajará al valor inmediato inferior. Este paso ayuda a calcular la amplitud (i) de cada intervalo de clase, y se obtiene dividiendo el rango entre el número de categorías.</p>
+<p align="center"><b><i>i</i> = Rango / No. de categorías</b> </p>
+<p align="justify">NOTA: el resultado se aproxima al valor inmediato superior.</p>
+<p align="justify"><b>4.- </b>A continuación, se procede a crear cada categoría o intervalo; para esto se determina el límite inferior de la primera categoría, que puede ser igual o menor al valor mínimo de los datos analizados, a este valor se suma la amplitud del intervalo y se obtiene el límite superior del intervalo, y a su vez, es el límite inferior de la siguiente categoría y así sucesivamente sumamos la amplitud del intervalo a cada límite obtenido, hasta completar el número de intervalos establecidos. Es importante considerar que los límites superiores de cada intervalo son los límites inferiores del intervalo anterior.</p>
+<p align="justify"><b>5.- </b>Finalmente, se completa la categorización con la determinación de las frecuencias de cada clase o intervalo, esto se obtiene contando los datos que están incluidos en cada una de ellas. Recordar que la sumatoria de todas las frecuencias debe ser igual que el total de la cantidad de datos estudiados.</p>
+</ul>
+<p align="justify">Salazar y Del Castillo (2018), mencionan que los pasos presentados anteriormente permiten llenar la tabla de distribución de frecuencias, que incluye los datos agrupados por intervalos, la frecuencia de clase (<b><i>f</i></b>) y la frecuencia acumulada (<b><i>fa/i></b>). Debemos mencionar que, en ocasiones existen diferencias en los pasos a seguir para llenar las tablas de distribución, de acuerdo al autor, y también en las siglas de los datos obtenidos; sin embargo, no hay variaciones significativas, sin embargo debes tener presente dicha observación. A continuación, se muestran los resultados y se construye la tabla de distribución de frecuencias:</p>
+<p align="justify"><b><i>n</i></b> = 80   Valor Máximo = 32    Valor Mínimo = 3    Rango = 29</p>
+<p align="justify">Categorías = 7 u 8   <b><i>i</i></b> = 4 (usando 8 categorías)</p>
+<p align="center"><b>Ilustración 10.</b> Tabla de distribución de frecuencias.</p>
 
 <p align="center">Fuente: UP@DED (2019), con información de Salazar y Del Castillo (2018).</p>
-<br/>
-<p align="justify"></p>
 <br/>
 <p align="justify"></p>
 <br/>
