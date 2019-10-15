@@ -168,6 +168,66 @@ subject_name: TSATC01EBS1
 <br/>
 <p align="justify">Salazar y Del Castillo (2018), refieren que para calcular el tamaño de los sectores, se realiza una conversión entre la frecuencia y los grados de una circunferencia, de la misma manera se obtiene el porcentaje que ocupa cada frecuencia. En la siguiente imagen se proporciona un ejemplo: </p>
 <p align="center"><b>Ilustración 20.</b> Ejemplo de gráfica de sectores.</p>
+<p align="center"><img src="/upaded/assets/images/g_sectores.PNG" alt="Gráfica de sectores"></p>
+<p align="center">Fuente: UP@DED (2019), con información de Salazar y Del Castillo (2018).</p>
+<p align="justify"><b>Gráfica de líneas</b></p>
+<p align="justify">Este tipo de gráfico, es utilizado usualmente en la representación de una variable en el tiempo, estableciéndose siempre que la variable tiempo estará ubicada en el eje horizontal y la otra variable en el eje vertical. El diagrama permite ver ciertas tendencias que pueden tener los datos en el transcurso del tiempo, en relación específicamente si existe crecimiento o decrecimiento de la variable analizada, durante el periodo de estudio (Salazar y Del Castillo, 2018). Este tipo de gráficos, están compuestos por puntos unidos con una línea, pudiéndose observar rápidamente el cambio en las tendencias de datos, su forma es similar a las ojivas.</p>
+<p align="center"><b>Ilustración 21.</b> Ejemplo de gráfica de líneas</p>
+<p align="center"><img src="/upaded/assets/images/g_lineas.PNG" alt="Gráfica de líneas"></p>
+<p align="center">Fuente: UP@DED (2019)</p>
+<p align="justify"><b>Gráfica de líneas</b></p>
+<p align="justify">La manera más común de representación gráfica de los datos, son los histogramas. Salazar y Del Castillo (2018), nos proporcionan una definición:</p>
+<p align="center"><b>Ilustración 22.</b> Definición de histograma.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da5fd1a83c48f0fcf2e2d67" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Un histograma se usa para representar datos continuos, y las gráficas de barras suelen usarse para datos cuantitativos discretos, que en la práctica su construcción es similar (Salazar y Del Castillo, 2018). En la siguiente ilustración se muestra un ejemplo de un histograma de frecuencias:</p>
+<p align="center"><b>Ilustración 23.</b> Ejemplo de histograma</p>
+<p align="center"><img src="/upaded/assets/images/g_histograma.PNG" alt="Histograma"></p>
+<p align="center">Fuente: UP@DED (2019), con información de Quevedo y Pérez (2014).</p>
+<p align="justify"><b>Polígono de frecuencias</b></p>
+<p align="justify">El polígono de frecuencias es otro gráfico de las variables cuantitativas continuas. Salazar y Del Castillo (2018), lo definen como:</p>
+<p align="center"><b>Ilustración 24.</b> Definición de polígono de frecuencias.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da5fdf5fe7b200f9f98c444" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Este tipo de gráfica se concluye cuando se cierra el polígono con el eje horizontal; para el efecto, se crean marcas de clase inmediatas anterior a la primera y posteriormente a la última, con frecuencias cero y con ancho de intervalo igual a las categorías que anteceden o suceden. Veamos un ejemplo de polígono de frecuencias:</p>
+<p align="center"><b>Ilustración 25.</b> Ejemplo de polígono de frecuencia.</p>
+<p align="center"><img src="/upaded/assets/images/g_poligono.PNG" alt="Polígono de frecuencia"></p>
+<p align="center">Fuente: UP@DED (2019), con información de Quevedo y Pérez (2014).</p>
+<p align="justify"><b>Ojivas o polígonos de frecuencias acumuladas</b></p>
+<p align="justify">Salazar y Del Castillo (2018), hacen una definición de ojivas o polígonos de frecuencias acumuladas, quedando de la siguiente manera:</p>
+<p align="center"><b>Ilustración 26.</b> Definición de ojivas o polígonos de frecuencias acumuladas.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da6034ccb9e9d0fc568e5ac" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">En la siguiente ilustración, se proporciona un ejemplo de la forma que debe tener una ojiva y la forma en la que se representan las frecuencias:</p>
+<p align="center"><b>Ilustración 27.</b> Ojivas o polígonos de frecuencias acumuladas.</p>
+<p align="center"><img src="/upaded/assets/images/g_ojivas.PNG" alt="Ojivas o polígonos de frecuencias acumuladas"></p>
+<p align="center">Fuente: UP@DED (2019), con imagen de Salazar y Del Castillo (2018).</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da607b983c48f0fcf2e3710" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da60bc083c48f0fcf2e39e9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da60c35fb84310fafb74961" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da60ca002d51f0fd696fef3" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>2.4 Medidas de dispersión</h3>
+<p align="justify">Una vez que se tiene la información contenida en las tablas de distribución de frecuencias, es posible preguntarse por la representatividad de las medidas de posición. Esta labor puede cumplirse con éxito, gracias a las medidas de dispersión o variabilidad.  En el tema anterior se analizaron las medidas de posición, las cuales informan de la tendencia central de los datos; sin embargo, pueden presentarse conjuntos de datos muy diferentes y tener parámetros centrales similares. </p>
+<p align="justify">Álvarez (2007), menciona que para tener una expectativa más real de los datos, es necesario conocer otros parámetros que indiquen si éstos están agrupados o dispersos; los parámetros informan acerca de la dispersión de los datos, que en conjunto con los de centralización, brindan información sobre la distribución de datos. Para comprender más sobre el término variabilidad o dispersión, se presenta su definición:</p>
+<p align="center"><b>Ilustración 28.</b> Definición de Dispersión.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da614fecb9e9d0fc568f56e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Para completar la definición anterior, Quevedo y Pérez (2014) refieren que el rango es la medida de dispersión más simple. A continuación se define el término rango: </p>
+<p align="center"><b>Ilustración 29.</b> Definición de rango.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da6172e83c48f0fcf2e3ea4" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<p align="justify">Con base en la conceptualización anterior, el autor menciona que si el rango es pequeño, los datos son poco variables; y si el rango es grande, los datos pueden estar muy dispersos.</p>
+<p align="center"><b>Rango = <i>Valor más grande – Valor más pequeño</i></b></p>
+<p align="justify"><b>Varianza</b></p>
+<p align="justify">Una segunda propiedad importante que escribe una serie de datos numéricos, es la variación. En la siguiente ilustración, se presenta una definición de varianza:</p>
+<p align="center"><b>Ilustración 30.</b> Definición de varianza.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da6186094f7d80fc480c514" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Berenson y Levine (1996), proponen una fórmula para calcular la varianza muestral para datos no agrupados:</p>
+
 <br/>
 <p align="justify"></p>
 <br/>
