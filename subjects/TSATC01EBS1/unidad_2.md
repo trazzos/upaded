@@ -227,17 +227,24 @@ subject_name: TSATC01EBS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da6186094f7d80fc480c514" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Berenson y Levine (1996), proponen una fórmula para calcular la varianza muestral para datos no agrupados:</p>
-
+<p align="center"><img src="/upaded/assets/images/formula_1.PNG" alt=""></p>
+<p align="justify">Algunos autores proponen una fórmula en el que el denominador no es solo <i>n</i>, si no <i>n</i> – <i>1</i>, la variación del resultado es poco significativo; sin embargo, Sánchez (2004) menciona que cuando los datos se refieren a una muestra y no a la población, es necesario que la suma de los cuadrados se divida entre el número de datos menos uno (<i>n</i>-1). A esta varianza modificada se le llama varianza muestral, y a la raíz cuadrada de la misma se le llamará desviación estándar muestral.</p>
+<p align="center"><img src="/upaded/assets/images/formula_2.PNG" alt=""></p>
+<p align="justify">Como complemento, podemos agregar que la varianza para datos agrupados, basta con agregar la multiplicación por la sumatoria de las frecuencias de cada intervalo y la fórmula quedaría de la siguiente manera:</p>
+<p align="center"><img src="/upaded/assets/images/formula_3.PNG" alt=""></p>
+<p align="justify"><b>Desviación estándar</b></p>
+<p align="justify">Para calcular la desviación estándar, Quevedo y Pérez (2014) afirman que es necesario calcular la raíz cuadrada de la varianza y así poder quitar el cuadrado a los valores. La desviación estándar de los datos es igual a: </p>
+<p align="center"><img src="/upaded/assets/images/formula_4.PNG" alt=""></p>
+<p align="justify"><b>Coeficiente de variación</b></p>
+<p align="justify">El coeficiente de variación, es una medida de dispersión sin unidades y es el cociente de la desviación respecto a la media aritmética, multiplicada por cien. El hecho de que el coeficiente de variación no posea unidades, permite comparar coeficientes entre sí, calculados a partir de datos medidos en distintas unidades. Álvarez (2007), menciona que el coeficiente de variación se calcula de la siguiente manera:</p>
+<p align="center"><img src="/upaded/assets/images/formula_5.PNG" alt=""></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da61b2ab2119b0fbf2b3cbd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da61ba2fe7b200f9f98cfbe" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da61c1efe7b200f9f98d006" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da61c98fb84310fafb750a1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
-<br/>
-<p align="justify"></p>
-<br/>
-<p align="justify"></p>
-<br/>
+<p align="center"><b>Ilustración 31.</b> Criterios de evaluación.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 25.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="300px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5da61debb2119b0fbf2b4014" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
