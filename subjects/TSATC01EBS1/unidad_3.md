@@ -191,21 +191,53 @@ subject_name: TSATC01EBS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc68ec1d5c40fe086c002" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Para calcular la probabilidad, usamos la siguiente fórmula clásica:</p>
-
+<p align="center"><img src="/upaded/assets/images/u3_f5.PNG" alt=""></p>
+<p align="justify">Desde la perspectiva de Sánchez (2014), existe otra forma de denominar los tipos de probabilidad:</p>
+<p align="center"><b>Ilustración 31.</b> Tipos de probabilidad.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc83b044e880fcb6ed2c6" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Retomando la información presentada en la ilustración 28, en la que se explica que la probabilidad se clasifica en simple y compuesta, veamos la definición de esta última:</p>
+<p align="center"><b>Ilustración 32.</b> Definición de probabilidad compuesta.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc8bfd65a790fdab9f77d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Para comprender mejor la definición anterior, analiza los siguientes ejemplos:</p>
+<p align="center"><b>Ilustración 33.</b> Ejemplos de probabilidad compuesta.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc945044e880fcb6ed4ea" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Para los ejemplos anteriores, podemos usar la formula clásica expuesta anteriormente, con ello calcular la probabilidad simple y aplicar la propiedad aditiva de probabilidades. Walpole et al. (2007), mencionan la siguiente propiedad de los eventos mutuamente excluyentes: </p>
+<p align="center"><b>Ilustración 34.</b> Propiedad de eventos mutuamente excluyentes.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc9e4a3bbd00feece2df0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">La propiedad en la imagen anterior, tiene fundamento en el axioma 3 de la probabilidad. Si los eventos fueran mutuamente no excluyentes, se realiza la siguiente propiedad aditiva:</p>
+<p align="center"><b>Ilustración 35.</b> Propiedad aditiva.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacca6990786c0fe8985b15" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Retomando la información presentada en la Ilustración 31, respecto a los tipos de probabilidad, veamos la siguiente definición de probabilidad condicional:</p>
+<p align="center"><b>Ilustración 36.</b> Definición de probabilidad condicional.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daccafad14ecb0fc6e2e07d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Derivado de lo anterior, la probabilidad condicional de B, dado A, que se denota con P(A│B), se define como: </p>
+<p align="center"><img src="/upaded/assets/images/u3_f6.PNG" alt=""></p>
+<p align="justify">De la ilustración anterior y despejando P(A∩B)  nos queda:</p>
+<p align="center"><img src="/upaded/assets/images/u3_f7.PNG" alt=""></p>
+<p align="justify">En esta fórmula se aplica la regla multiplicativa.</p>
+<p align="justify">De acuerdo a todo lo expresado anteriormente, Quevedo y Pérez (2014, p. 62), manifiestan el siguiente ejemplo de probabilidad condicional: “Se tiene una urna con 3 bolas rojas, 4 bolas blancas y 5 bolas verdes. Se eligen sucesivamente sin reemplazo las bolas de la urna”. </p>
+<p align="justify">Encontrar la probabilidad que: </p>
+<p align="center"><b>Ilustración 37.</b> Probabilidad condicional.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daccc2a9ab4610fda7baba5" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daccd011f530b0fd1d89ec6" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daccd8c96da780fc0af8ed1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daccdec4a3e8f0fe0d2b644" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacce494a3e8f0fe0d2b64b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>3.4 Distribuciones de probabilidad</h3>
+<p align="justify">Un fenómeno probabilístico tiene muchos elementos a controlar y requiere de funciones más complejas. Es importante estudiar la distribución de probabilidad, para la comprensión de experimentos aleatorios complejos.</p>
+<p align="justify">Un concepto importante para comprender la distribución de probabilidades, es el término densidad de probabilidades, el cual queda definido de la siguiente manera:</p>
+<p align="center"><b>Ilustración 38.</b> Densidad de probabilidades.</p>
 <br/>
 <p align="justify"></p>
 <br/>
