@@ -60,26 +60,60 @@ subject_name: TSATC01EBS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dac9d99c1d5c40fe086b332" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Sánchez (2004), propone la siguiente fórmula de probabilidad bajo un enfoque clásico y un enfoque de frecuencia relativa:</p>
+<p align="center"><img src="/upaded/assets/images/u3_f1.PNG" alt=""></p>
+<p align="justify">También menciona, que en la formula básica de la probabilidad, el número de eventos exitosos puede ser 0,1,2,3, entre otros, por lo que la probabilidad será siempre igual o mayor a cero, P≥0</p>
+<p align="center"><img src="/upaded/assets/images/u3_f2.PNG" alt=""></p>
+<p align="justify">Sánchez (2004) refiere que la probabilidad puede expresarse en términos de porcentaje, lo que puede ser más comprensible. Para obtener el porcentaje solo debe multiplicarse la probabilidad por 100.</p>
+<p align="justify">En la probabilidad, existen otros tipos de eventos y se clasifican de la siguiente manera: </p>
+<p align="center"><b>Ilustración 11.</b> Tipos de eventos.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dac9fcd4a3e8f0fe0d2a631" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify"><b>Mutuamente excluyentes o disjuntos</b>: Son aquellos que no pueden ocurrir al mismo tiempo. Walpole, Myers, Myers y Ye (2007), describen un teorema respecto a este tipo de eventos:</p>
+<p align="center"><b>Ilustración 12.</b> Teorema de eventos mutuamente excluyentes.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca07974b0810fdacbbe0b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Ahora, veamos algunos ejemplos de eventos mutuamente excluyentes o disjuntos:</p>
+<p align="center"><b>Ilustración 13.</b> Ejemplos de eventos excluyentes.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca0bddfb0a80fe68bc708" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Los ejemplos anteriores, son mutuamente excluyentes porque o se obtiene una pelota verde o una roja, pero no las dos al mismo tiempo. Estas probabilidades suelen sumarse para obtener una probabilidad total.</p>
+<p align="justify"><b>Independientes</b>. Son aquellos que no se ven afectados por otros eventos. Walpole et al. (2007), explican el siguiente teorema:</p>
+<p align="center"><b>Ilustración 14.</b> Teorema de eventos independientes.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca151dfb0a80fe68bc754" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Algunos ejemplos sobre eventos independientes, son los que se muestran a continuación: </p>
+<p align="center"><b>Ilustración 15.</b> Ejemplos de eventos independientes.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca1f89ab4610fda7b9320" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Como vemos en el ejemplo anterior, si cada vez que se saca alguna de las pelotas de cualquier color y se regresa a la bolsa, se le conoce como evento independiente con reemplazo.</p>
+<p align="justify"><b>Dependientes</b>: Se refiere a aquel evento que afecta la probabilidad de que suceda otro, como el ejemplo siguiente: </p>
+<p align="center"><b>Ilustración 16.</b> Teorema de eventos dependientes.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca26f1f530b0fd1d89453" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">En la ilustración 17, se muestra un ejemplo de eventos dependientes:</p>
+<p align="center"><b>Ilustración 17.</b> Ejemplo de eventos dependientes.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca2fa9ab4610fda7b9332" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">El ejemplo presentado, es un evento dependiente porque el resultado del segundo intento, dependerá del color que se extraiga en el primer intento, por lo que lo convierte en un evento dependiente.</p>
+<p align="justify"><b>No excluyentes entre sí</b>: Cuando la ocurrencia de uno de ellos no impide que también el otro suceda. </p>
+<p align="center"><b>Ilustración 18.</b> Ejemplo de eventos no excluyentes entre sí.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca38429a09a0fd451c25d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Son eventos no excluyentes entre sí, ya que se pueden obtener ambos casos; es decir, que pueden suceder ambos eventos al mismo tiempo.</p>
+<p align="justify"><b>Espacio muestral y variable aleatoria</b></p>
+<p align="justify">En diferentes problemas de probabilidad, se debe estudiar algún aspecto numérico de espacio muestral, Quevedo y Pérez (2014, p. 76), proponen el siguiente ejemplo: “Se considera el lanzamiento de 3 monedas no cargadas, el espacio muestral del experimento es…”</p>
+<p align="center"><b>Ilustración 19.</b> Espacio muestral.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca422c1d5c40fe086b5ab" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Si se considera el lanzamiento de tres monedas comunes, el espacio muestral del experimento es:  </p>
+<p align="center"><b>Ilustración 20.</b> Espacio muestral.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca4f9e592df0fc7a862e0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Respecto al ejemplo anterior, se asocia el espacio muestral con un valor numérico que corresponde a la cantidad de águilas obtenidas, función que asocia un número real a cada elemento del espacio muestral, se le llama variable aleatoria. Usualmente es denotada con las últimas letras mayúsculas del alfabeto (Quevedo y Pérez, 2014).</p>
+<p align="justify">En este ejemplo, se llamará X a cada variable aleatoria: </p>
+
+<p align="justify">Si seguimos con el ejemplo, observamos que una variable aleatoria puede tomar valores como X = 0, 1, 2 y 3, y la probabilidad está asociada con cada uno de estos valores y se relaciona con la probabilidad del evento, relacionada con esos valores:</p>
+
 <br/>
 <p align="justify"></p>
 <br/>
