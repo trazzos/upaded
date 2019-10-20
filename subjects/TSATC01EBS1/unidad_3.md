@@ -111,9 +111,101 @@ subject_name: TSATC01EBS1
 <br/>
 <p align="justify">Respecto al ejemplo anterior, se asocia el espacio muestral con un valor numérico que corresponde a la cantidad de águilas obtenidas, función que asocia un número real a cada elemento del espacio muestral, se le llama variable aleatoria. Usualmente es denotada con las últimas letras mayúsculas del alfabeto (Quevedo y Pérez, 2014).</p>
 <p align="justify">En este ejemplo, se llamará X a cada variable aleatoria: </p>
-
+<p align="center"><img src="/upaded/assets/images/u3_f3.PNG" alt=""></p>
 <p align="justify">Si seguimos con el ejemplo, observamos que una variable aleatoria puede tomar valores como X = 0, 1, 2 y 3, y la probabilidad está asociada con cada uno de estos valores y se relaciona con la probabilidad del evento, relacionada con esos valores:</p>
+<p align="center"><img src="/upaded/assets/images/u3_f4.PNG" alt=""></p>
+<p align="justify">Di Rienzo et al. (2005), afirman que:</p>
+<ul class="unorder-list">
+    <p align="justify"><i>El concepto de variable aleatoria está íntimamente ligado a la función de densidad y función de distribución. Por lo general, la forma o expresión matemática de la función que describe a la variable aleatoria no se conoce, por lo que los técnicos e investigadores, suelen proceder a recolectar datos mediante estudios observacionales o experimentales, y a partir de ellos, buscar cual es la función que mejor describe la o las variables aleatorias en estudio (p. 63).</i></p>
+</ul>
+<p align="justify">Dicha variable puede adquirir diferentes valores, y se le llama aleatoria porque los valores que puede tomar son al azar, y es medible por ser posible el cálculo de su probabilidad.</p>
+<p align="center"><b>Ilustración 21.</b> Para reflexionar.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca6d2dfb0a80fe68bc8b3" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="center"><b>Ilustración 22.</b> ¿Sabías qué?</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca6dae592df0fc7a8634e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca801d65a790fdab9eb26" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca8a7044e880fcb6ec5eb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca91f90786c0fe8984ef5" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5daca9771cb2c40fc15cdd5d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacaa8edfb0a80fe68bc976" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>3.2 Definición axiomática</h3>
+<p align="justify">Hasta este punto, se ha visto una conceptualización simple de la probabilidad y es necesario darle un enfoque con base en sus principios y reglas. A continuación, se analizarán los axiomas que fundamentan a la probabilidad básica; definida de una manera más amplia y menos intuitiva, perspectiva que sienta las bases para el desarrollo de la teoría de las probabilidades. Existen definiciones que nos brindan criterios para el cálculo de la probabilidad de un evento (Di Rienzo et al., 2005). Cuando hablamos de definición axiomática, nos referimos a los 3 axiomas que rigen a la probabilidad y que deben cumplirse, tal y como lo vemos a continuación:</p>
+<p align="center"><b>Ilustración 23.</b> Definición axiomática de la probabilidad.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacb96c4a3e8f0fe0d2ad52" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Como vemos en la imagen anterior, el cálculo de la probabilidad es hacia los eventos. Para el evento A, la probabilidad de A se denota como P(A). La probabilidad es una medida de la incertidumbre de que ocurra alguno de los posibles resultados de un experimento. Estos axiomas rigen a la probabilidad y deben cumplirse. Veamos la aportación de Cáceres (2007) respecto a dos axiomas:</p>
+<p align="center"><b>Ilustración 24.</b> Axiomas según Cáceres (2007).</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacbb2bc1d5c40fe086bb53" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Un tercer axioma, es presentado por Devore (2008), descrita a continuación: </p>
+<p align="center"><b>Ilustración 25.</b> Tercer axioma, según Devore (2008).</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacbc95dfb0a80fe68bcd39" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Este último axioma, habla de la propiedad de la suma, ya que se trata de eventos mutuamente excluyentes, cuya intersección sabemos que es igual a cero, es decir, A ∩ B = 0.  </p>
+<p align="justify">La definición axiomática de la probabilidad, también implica el conocimiento de otros términos, como los que se presentan en las ilustraciones 26 y 27; veamos el primero de ellos:</p>
+<p align="center"><b>Ilustración 26.</b> Definición de intersección.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacbd3c74b0810fdacbd04b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">El siguiente término se llama unión. El cual te permitirá comprender la generalidad que implica la realización de determinadas operaciones:</p>
+<p align="center"><b>Ilustración 27.</b> Definición de unión.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacbdf11f530b0fd1d89cdd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Con base en los siguientes datos y los conceptos anteriormente descritos, podemos realizar las siguientes operaciones:</p>
+<p align="justify">Los eventos <b>A</b> y <b>B</b>, en el cual <b>A</b> = {2, 4, 6} y <b>B</b> = {4, 5, 6}, son el resultado de lanzar dos dados.</p>
+<p align="justify">Podemos realizar las siguientes operaciones con conjuntos:</p>
+<p align="justify">A∩B = {4,6}, A∪B = {2, 4, 5,6}, como A∩B= No es cero, no son mutuamente excluyentes.</p>
+<p align="justify">De otra forma, Si A= {a,b,c,d} y B{r,s,t}, A∩B= 0, A y B no tienen elementos en común, por lo tanto son mutuamente excluyentes.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacbea9d14ecb0fc6e2d791" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacbf2974b0810fdacbd085" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacbf9f9ab4610fda7ba678" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc02bd65a790fdab9f1c2" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc095d8eb350fd444e40a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc3ce90786c0fe8985879" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<h3>3.3 Tipos de probabilidad</h3>
+<p align="justify">Walpole et al. (2007) refieren que la probabilidad de la ocurrencia de un evento que resulta de un experimento estadístico, se evalúa utilizando un conjunto de números reales denominados pesos o probabilidades, que van desde 0 a 1. La anterior, es considerada la regla más evidente cuando se trata de calcular las probabilidades, y los comprobamos con los axiomas, tratados en el apartado anterior. </p>
+<p align="justify">Sabemos que un evento imposible tiene 0 probabilidad de ocurrir, y un evento posible tiene probabilidad de 1, es decir, puede ocurrir al menos una vez. Para comprender a fondo el cálculo de la probabilidad, veamos una clasificación de ellos, propuesto por Berenson y Levine (1996): </p>
+<p align="center"><b>Ilustración 28.</b> Tipos de probabilidad.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc550044e880fcb6ed182" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify"><b>Probabilidad Simple</b></p>
+<p align="justify">La probabilidad simple, se define de la siguiente manera:</p>
+<p align="center"><b>Ilustración 29.</b> Definición de probabilidad simple.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc5e3dfb0a80fe68bd185" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Con base en la definición anterior, Flores y Fautsch (1981) proponen el siguiente ejemplo de probabilidad simple: “¿Qué probabilidad hay de obtener un dos al tirar una vez un dado? Hay un dado de seis caras. P(2) = 1/6” (P. 239).</p>
+<p align="justify">Otros ejemplos de probabilidad simple, son los siguientes:</p>
+<p align="center"><b>Ilustración 30.</b> Ejemplos de probabilidad simple.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dacc68ec1d5c40fe086c002" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Para calcular la probabilidad, usamos la siguiente fórmula clásica:</p>
 
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
 <br/>
 <p align="justify"></p>
 <br/>
