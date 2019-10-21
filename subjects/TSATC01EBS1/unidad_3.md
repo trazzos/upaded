@@ -238,38 +238,75 @@ subject_name: TSATC01EBS1
 <p align="justify">Un fenómeno probabilístico tiene muchos elementos a controlar y requiere de funciones más complejas. Es importante estudiar la distribución de probabilidad, para la comprensión de experimentos aleatorios complejos.</p>
 <p align="justify">Un concepto importante para comprender la distribución de probabilidades, es el término densidad de probabilidades, el cual queda definido de la siguiente manera:</p>
 <p align="center"><b>Ilustración 38.</b> Densidad de probabilidades.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dade93b3cb4d410135f577d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">De la expresión anterior, la función de densidad se denota con una <i>f</i>, la X mayúscula corresponde al nombre de la variable aleatoria, la x minúscula corresponde al valor de la variable aleatoria (Quevedo y Pérez, 2014). Se expresa de la siguiente manera:</p>
+<p align="center"><i>f(3)</i> = P(X=3), <i>f</i>(5) = P(X=5), entre otras formas. O así sucesivamente.</p>
+<p align="justify">Dado que la función de densidad representa la probabilidad de un evento; Quevedo y Pérez (2014), mencionan que se debe satisfacer las propiedades de la probabilidad:</p>
+<p align="center"><img src="/upaded/assets/images/u3_f8.PNG" alt=""></p>
+<p align="justify"><b>Función de distribución de probabilidad</b></p>
+<p align="justify">Existen diferentes tipos de funciones de distribución de la probabilidad, tales como: distribución discreta de probabilidad, distribución continua de probabilidad, distribución normal, distribución binomial, distribución de Poisson, entre otros.</p>
+<p align="justify">Al igual que en la probabilidad simple, se pueden realizar diversos cálculos mediante las funciones de probabilidad de una variable aleatoria, para diferentes tipos de eventos. </p>
+<p align="justify">Walpole et al. (2007), mencionan que con frecuencia es conveniente representar a todas las probabilidades de una variable aleatoria X, usando una fórmula, la cual necesariamente sería una función de los valores numéricos x que suelen denotarse con <i>f(x), g(x), r(x),</i> y así de manera sucesiva. Por lo que se escribe <i>f(x) = P(X=x), es decir, f (3) = P(x=3)</i>. El conjunto de pares ordenados <i>(x, f(x))</i> se llama <i>función de probabilidad o distribución de probabilidad</i> de la variable aleatoria discreta <i>X</i> si, para cada resultado posible es x.</p>
+<p align="justify">En la siguiente Ilustración, se muestran los axiomas de las distribuciones de probabilidad discretas:</p>
+<p align="center"><b>Ilustración 39.</b> Axiomas de distribuciones de probabilidad de variables discretas.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dadec07e51c0a0fe622b6b0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify"><i><b>Distribución normal de probabilidad</b> </i></p>
+<p align="justify">Walpole et al. (2017), afirman que una variable continua posee una probabilidad cero, de tomar cualquiera de sus valores. Por lo tanto, su distribución de probabilidad no se puede tabular. A pesar de que la distribución de probabilidad de una variable aleatoria continua, no se puede representar de forma tabular, si se establece como una fórmula, la cual necesariamente será función de los valores numéricos de la variable aleatoria continua X y como tal, se representará en una notación de función <i>f(x)</i>. A <i>f(x)</i> se le llama <i>función de densidad de probabilidad</i>. A continuación, se muestran los diferentes casos de densidad de probabilidad:</p>
+<p align="center"><b>Ilustración 40.</b> Casos de densidad de probabilidad.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dadf6256dc2a40fe5b2aed6" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="center"><b>Ilustración 41.</b> Dato importante.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dadf83dff99251008bb5d5c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Di Rienzo et al. (2005), señalan que muchos fenómenos agronómicos, biológicos, químicos, físicos, antropológicos, entre otros, son estudiados a partir de datos distribuidos de manera normal. Y algunas variables continuas como peso, longitud, altura, temperatura, absorbancia óptica, resistencia a la tracción, presentan gráficas de distribuciones de frecuencias que se pueden aproximar muy bien por esta función de densidad. Los mismos autores, argumentan que la distribución normal se puede calcular mediante la siguiente expresión:</p>
+<p align="center"><b>Ilustración 42.</b> Cálculo de distribución normal de probabilidad.</p>
+<p align="center"><img src="/upaded/assets/images/u3_f9.PNG" alt=""></p>
+<p align="center">Fuente: UP@DED (2019), con información de Di Rienzo et al. (2005).</p>
+<p align="justify">La representación gráfica de la función de densidad normal, es una curva simétrica que tiene forma de campana.</p>
 <br/>
-<p align="justify"></p>
+<p align="justify"><b><i>Distribución de Bernoulli</i></b></p>
+<p align="justify">Esta es otra distribución de probabilidad, la cual será viable y aplicada, dependiendo del evento aleatorio de variables discretas que se esté analizando y de sus características.  Di Rienzo et al. (2005), mencionan que en ciertos experimentos suele suceder que existen solo dos resultados posibles: éxito o fracaso, presencia o ausencia, sí o no, entre otros. Este tipo de distribución se usa en experimentos en el que los resultados están entre el número 0 y el número 1, según convenga. Recordemos que son variables discretas, y en otro caso podrían ser experimentos donde el resultado de interés es el “éxito”, se podría tomar como x=1 y si es “fracaso” hacer x=0. Si el resultado de interés es el “fracaso”, se asignaría todo al revés. </p>
+<p align="justify">Una variable aleatoria X tiene distribución Bernoulli, si y sólo si su función de densidad es:</p>
+<p align="center"><img src="/upaded/assets/images/u3_f10.PNG" alt=""></p>
+<p align="justify">Por su parte, Walpole et al. (2007) resumen que el proceso de Bernoulli debe tener las siguientes propiedades:</p>
+<p align="center"><b>Ilustración 43.</b> Proceso de Bernoulli.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dadfd6fb1b81c100751d026" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Walpole et al. (2007), señalan que el número de X éxitos en n experimentos aleatorios de Bernoulli, se llama variable aleatoria binomial. Por tal motivo, la distribución de la probabilidad de esta variable aleatoria discreta se llama <i>distribución binomial</i>.</p>
 <br/>
-<p align="justify"></p>
+<p align="justify"><b><i>Distribución Binomial</i></b></p>
+<p align="justify">Frecuentemente, un experimento consiste en pruebas repetidas, cada una con dos resultados posibles, los cuales pueden ser llamados como éxito o fracaso. Un ejemplo puede ser cuando en una línea de producción, se hace una prueba de los artículos construidos y puede indicar si un artículo está defectuoso o no, podemos elegir definir cualquiera de los resultados como éxito. A este proceso también se le denomina <i>proceso de Bernoulli</i>. Cada ensayo se llama experimento de Bernoulli (Walpole et al., 2007).</p>
+<p align="justify">La distribución binomial se encuentra dentro de las funciones de distribución para variables aleatorias discretas. Di Rienzo, et al. (2005), señalan que esta distribución tiene origen cuando ocurren las siguientes 3 condiciones en forma simultánea:</p>
+<p align="center"><b>Ilustración 44.</b> Tres condiciones de la distribución binomial.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 41.67%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="500px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dadfef03cb4d410135f6f56" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Las condiciones experimentales anteriores, suelen ser muy frecuentes y de manera general, el problema de interés se enfoca en el número de “éxitos” en <i>n</i> casos estudiados, o el número de respuestas “no” en <i>n</i> consultas, o el número de veces que ocurre un cierto fenómeno atmosférico en <i>n</i> observaciones realizadas (Di Rienzo et al., 2005).</p>
+<p align="justify">Di Rienzo et al. (2005), recalcan que la distribución binomial, se emplea cuando se registra la ocurrencia de un fenómeno atmosférico en <i>n</i> observaciones, para poder modelar el número total de ocurrencias del fenómeno. Para poder utilizar la distribución, debe existir independencia entre las observaciones. En caso de que no exista independencia, esta distribución no será la apropiada. Es importante señalar que debe verificarse que las observaciones sean independientes y que la probabilidad de ocurrencia del fenómeno atmosférico (θ) se mantenga constante entre observaciones. </p>
+<p align="justify">Una variable aleatoria X, tiene distribución Binomial sí y solo si su función de densidad es (Di Rienzo et al., 2005):</p>
+<p align="center"><img src="/upaded/assets/images/u3_f11_2.PNG" alt=""></p>
 <br/>
-<p align="justify"></p>
+<p align="justify"><b><i>Distribución Poisson</i></b></p>
+<p align="justify">Di Rienzo et al. (2005), explican que la distribución de Poisson da un modelo para variables de tipo conteo o cuantificables, en el que los conteos se refieren al registro del número de un evento de interés en una unidad de tiempo o espacio dados (holas, minutos, m<sup>2</sup>, entre otros.).</p>
+<p align="justify">Veamos los siguientes ejemplos aplicables para distribuciones Poisson, propuestos por Di Rienzo et al. (2005, p. 89): </p>
+<p align="center"><b>Ilustración 45.</b> Modelo de distribución de Poisson.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dae00d13cb4d410135f7088" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Di Rienzo et al. (2005), afirman que una variable aleatoria X tiene distribución de Poisson si y sólo si su función de densidad es:</p>
+<p align="center"><img src="/upaded/assets/images/u3_f12.PNG" alt=""></p>
+<p align="center"><b>Ilustración 46.</b> Recuerda</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dae04956dc2a40fe5b2c041" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dae07df2535611002621fd5" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dae086609f54b0ffd07b8d9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dae0955b31a120ff3095f73" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dae09b2b31a120ff3095f7a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dae0ae4be15240fe023c9f5" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
-<br/>
-<p align="justify"></p>
-<br/>
+<p align="center"><b>Ilustración 47.</b> Criterios de evaluación.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 25.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="300px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dae0c1b6dc2a40fe5b2c626" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
