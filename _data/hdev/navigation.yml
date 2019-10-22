@@ -3,13 +3,10 @@
   description: "Cambiarme"
 - text: Unidad 1
   url: "/i/hdev/unidad_1"
-  description: "Cambiarme"
+  description: "Herramientas para el trabajo colaborativo"
 - text: Unidad 2
   url: "/i/hdev/unidad_2"
-  description: "Cambiarme"
+  description: "Herramientas para elaborar recursos visuales"
 - text: Unidad 3
   url: "/i/hdev/unidad_3"
-  description: "Cambiarme"
-- text: Unidad 4
-  url: "/i/hdev/unidad_4"
-  description: "Cambiarme"
+  description: "Buscadores de información científica"
