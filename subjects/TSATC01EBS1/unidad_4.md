@@ -145,23 +145,10 @@ subject_name: TSATC01EBS1
 <br/>
 
 <br/>
-<p align="justify"></p>
+
 <br/>
-<p align="justify"></p>
+
 <br/>
-<p align="justify"></p>
+
 <br/>
-<p align="justify"></p>
-<br/>
-<p align="justify"></p>
-<br/>
-<p align="justify"></p>
-<br/>
-<p align="justify"></p>
-<br/>
-<p align="justify"></p>
-<br/>
-<p align="justify"></p>
-<br/>
-<p align="justify"></p>
-<br/>
+<p align="center"><b>Ilustración 15.</b> Criterios de evaluación.</p>
