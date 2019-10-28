@@ -113,21 +113,37 @@ subject_name: TSATC02MIS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db68339a926200faee4dfd5" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <h3>3.4 Proceso para la elaboración del marco teórico</h3>
-<p align="justify"></p>
+<p align="justify">Para elaborar el marco teórico es fundamental seguir una serie de pasos que contribuyen a seleccionar las fuentes de información pertinente y adecuada, cabe señalar que no se basa únicamente en recopilar gran cantidad de información, sino que aporte datos relevantes y confiables. </p>
+<p align="center"><b>Ilustración 15.</b> Elaboración del marco teórico.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 64.29%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1400px" height="900px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db70fc2a926200faee514eb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Después de tener recopilada la información se procede a la integración y construcción del marco teórico. Este proceso ayuda a delimitar el tema de estudio y contribuye a la formulación de nuevas ideas e hipótesis.</p>
+<p align="justify">Hernández, Fernández y Baptista (2014), mencionan que el primer paso para la construcción del marco teórico es la revisión de la literatura acerca del tema que se quiere investigar; posteriormente se procede a seleccionar y recuperar la literatura que resulte relevante para el tema de investigación; se realiza la consulta de las fuentes para la obtención de datos relevantes, mismos que se sistematizan por medio de fichas bibliográficas.</p>
+<p align="justify">En el marco teórico se presenta el análisis e interpretación del investigador, comparándolas con las aportaciones de los autores revisados, para ello se debe analizar detallada y exhaustivamente las teorías y conceptos relacionados con el tema de investigación. </p>
+<p align="justify">Hernández, Fernández & Baptista (2014), en el libro Metodología de la Investigación sugieren dos métodos para iniciar con la redacción del marco teórico, el primero se refiere al mapeo y el segundo es el índice tentativo.</p>
+<p align="center"><b>Ilustración 16.</b> Métodos para el marco teórico. </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7153c9571480fa8f38759" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Ambos se basan en realizar esquemas para organizar las ideas antes de iniciar la construcción del marco teórico, con la finalidad de que el investigador considere las temáticas que puede incluir en su trabajo y la organización de la información.</p>
+<p align="center"><b>Ilustración 17.</b> Mapeo.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db71622c60f880f745b628f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">En el índice tentativo se colocan los temas y subtemas que considere conveniente el investigador y este puede ir cambiando o modificándose conforme se avance en la recopilación de información.</p>
+<p align="center"><b>Ilustración 18.</b> Índice tentativo.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db716553cb1800fd604be52" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Otro elemento a considerar en la redacción del trabajo de investigación es la construcción de las referencias de las fuentes de información, procedimiento que permite darle los créditos al autor del texto original, además permite evitar el plagio de ideas que puede conducir a problemas legales para el investigador.</p>
+<p align="justify">Las referencias son los datos que proporcionan información acerca de las fuentes consultadas en el proceso de investigación. En el marco teórico es fundamental establecer las referencias bibliográficas por las siguientes razones:</p>
+<p align="center"><b>Ilustración 19.</b> Beneficios de las referencias bibliográficas.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 41.67%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="500px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db716c9498d200fe48f2bad" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7180b9571480fa8f38a7e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7187fd760360fc5a80e77" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db719b4a926200faee52127" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db71b86bda6ea0fd0f8f80f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
+<p align="center"><b>Ilustración 20.</b> Criterios de evaluación.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 25.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="300px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db661f77a71ee0fcc617000" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
