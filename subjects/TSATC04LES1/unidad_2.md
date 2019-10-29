@@ -119,21 +119,59 @@ subject_name: TSATC04LES1
 <p align="justify">Por su parte, una contingencia positiva alienta frecuentemente el reforzamiento de un comportamiento deseado. </p>
 <p align="justify">En este sentido, un gerente puede recurrir al castigo porque produce resultados rápidos a corto plazo. Asimismo, debe utilizar el refuerzo que permita el aprendizaje así como lograr los comportamientos deseados para mejorar la efectividad en la organización. </p>
 <p align="center"><b>Ilustración 19.</b> Actitud del gerente ante la meta </p>
-
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7bdaaa926200faee5b4ee" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="center"><b>Ilustración 20.</b> Recuerda</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c012bda6ea0fd0f98412" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Existen dos tipos de aprendizajes, 1) exploración y 2) explotación (Ver Ilustración 22); los cuales pretenden incluir nuevas formas de administrar el ambiente y diseñar estructuras organizacionales.</p>
+<p align="center"><b>Ilustración 21.</b> Tipos de aprendizaje organizacional</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c0b87a71ee0fcc6244ca" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c16fe0f7440f6e185e53" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c1cc9571480fa8f427eb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c225d760360fc5a8a784" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c2806c1b2e0fd2757204" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c2d37a71ee0fcc6245c9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<h3>2.4 Motivación</h3>
+<p align="justify">Toda empresa requiere de empleados comprometidos que contribuyan con el logro de las metas y fines de la organización. Sin embargo, cuando existe desmotivación se pierde el entusiasmo y la ilusión con la que inició el trabajo, ocasionando bajo rendimiento, ineficiencias en las tareas y descuido de la calidad.</p>
+<p align="center"><b>Ilustración 22.</b> ¿Sabías qué?</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c3197a71ee0fcc624632" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
+<p align="justify">La motivación es un factor que influye en la mejora de la productividad de la organización, sin embargo esta no es equiparable al desempeño, en ocasiones existen empleados motivados con bajo rendimiento. </p>
+<p align="center"><b>Ilustración 23.</b> Proceso de motivación.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c369d10ab40fd2efa828" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">El proceso de motivación inicia cuando aparece un estímulo y genera una necesidad. Sin embargo, cuando aún está insatisfecha produce un estado de tensión, lo que conlleva a redirigir la conducta para garantizar el logro de la meta. Cuando se satisface la necesidad el organismo logra un estado de equilibrio, el cual se rompe cuando se presenta un nuevo estímulo. </p>
+<p align="center"><b>Ilustración 24.</b> Influencia de motivación con los empleados.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c5f79571480fa8f42877" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Trabajar los procesos de motivación permite ordenar tareas, generar aspiraciones, crear identidad, así como establecer modelos que garanticen el logro de las metas de la organización. El modelo más empleado en la teoría de motivación, es la jerarquía de necesidades de Abraham H. Maslow (Hellriegel, 2009), quien concibe que las personas tienen un conjunto complejo de necesidades que se pueden ordenar a través de niveles jerárquicos (Ver Ilustración 25).</p>
+<p align="center"><b>Ilustración 25.</b> Jerarquía de necesidades de Maslow.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c6b6d760360fc5a8a827" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">Las aportaciones de Maslow (Hellriegel, 2009), han repercutido en el ámbito organizacional, sus investigaciones revelaron que los gerentes de niveles altos pueden satisfacer mejor sus necesidades de estima y autorrealización, en contraste con aquellos que se desempeñan en niveles bajos. A partir de los resultados de las investigaciones en el campo de la psicología organizacional, se han establecido estrategias de intervención para mejorar el ambiente, procedimientos y estímulos ofrecidos a los empleados.</p>
+<p align="justify">Frederick Herzberg (Hellriegel, 2009) y sus colegas adoptaron el enfoque de motivación que hace énfasis en los empleados, para ello estudiaron el perfil de puestos y la percepción positiva o negativa de la persona con relación a la función que desempeñan. Los resultados de las investigaciones permitieron diseñar el modelo de factores higiénicos motivadores, que permite fundamentar las causas básicas de  satisfacción e insatisfacción respecto al puesto. </p>
+<p align="justify">A continuación se presentan los factores motivadores e higienicos que pueden generar la satisfacción o insatisfacción de los empleados. </p>
+<p align="center"><b>Ilustración 26.</b> Factores de satisfacción y de insatisfacción del puesto.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c8be7a71ee0fcc62474c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c97abda6ea0fd0f988a2" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7c9d093cea30fd1b16538" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7ca237a88bd0fcba1d9a7" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7ca87e0f7440f6e1862fa" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7cad07a88bd0fcba1d9b9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7cb2293cea30fd1b1656a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="center"><b>Ilustración 27.</b> Criterios de evaluación.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 25.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="300px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db7cb8593cea30fd1b16571" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
