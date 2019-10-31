@@ -133,31 +133,69 @@ subject_name: TSATC03DSS1
 <p align="justify">En este mismo contexto encontramos el ODS 12, Producción y consumo responsable, que busca el uso eficiente de los recursos, energía, infraestructura poblacional y servicios para todos; así como la mejora de los empleos. Las estrategias planteadas por el Objetivo 12,  buscan desde la perspectiva de la responsabilidad social coadyuvar a garantizar la calidad de vida del individuo y las poblaciones.</p>
 <p align="justify">Para comprender este Objetivo 12, se hace necesario definir dos conceptos fundamentales, consumo y consumismo.</p>
 <p align="center"><b>Ilustración 15.</b> Consumo y consumismo</p>
-
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb1b77045b3c0fca707050" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">El Objetivo 12 hace referencia a un concepto específico, consumo responsable, definido de la siguiente manera:  </p>
+<p align="center"><b>Ilustración 16.</b> Consumo responsable</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb1cbf89525e0fa8774712" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">La Agenda 2030, concibe el consumo responsable y producción sostenible como “hacer más y mejor, con menos”, invita a utilizar sabiamente los recursos naturales para evitar la producción y generación de contaminantes, así como la degradación de los ecosistemas, flora y fauna. Entre las estrategias implementadas, se encuentra la promoción del consumo planificado y educar con enfoque de sostenibilidad.</p>
+<p align="justify">Se enfatiza que es necesario dirigir todos los esfuerzos hacia un cambio de actitud, desde tomar una decisión sencilla al comprar un producto; elegir meticulosamente si se necesita o no; verificar el producto, las características de elaboración, responsabilidad ecologista y ética de consumo; así como evitar el despilfarro y excesos.</p>
+<p align="justify">A continuación, se presentan las áreas de oportunidad y metas para el logro exitoso del ODS 12.</p>
+<p align="center"><b>Ilustración 17.</b> Metas del ODS 12, Consumo y producción responsable</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb1d37045b3c0fca70736d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb1deaa1604e0fa8bcbc0c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb1e407366d00fbfb701e7" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">El consumismo y producción irresponsable ha superado por mucho los sistemas de vida capitalista, en este escenario es importante reflexionar y tomar conciencia de los hábitos de consumo; procurar la solidaridad global y comportamiento ético que desechen actitudes materialistas superfluas, las cuales dañan tanto a la naturaleza como al ser humano.</p>
 <br/>
-<p align="justify"></p>
+<h3>3.4 Medio Ambiente</h3>
+<p align="justify">Uno de los temas más frecuentes y eje transversal en la Agenda 2030 es el medio ambiente; todas las acciones, metas y programas están enfocados a su preservación, incluyendo a las especies de flora, fauna y seres humanos.</p>
+<p align="justify">Los Objetivos de Desarrollo Sostenible 13, 14 y 15; focalizan de manera particular el cuidado ambiental en sectores específicos.</p>
+<p align="center"><b>Ilustración 18.</b> Sectores de aplicación para la protección medioambiental</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 41.67%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="500px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb224ddfcf280fc42a860d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="center"><b>Ilustración 19.</b> Problemas del medio ambiente</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 54.17%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="650px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb274f28844f0fc0b60217" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<p align="justify">El panorama es desolador, realmente se ha dañado el ambiente y desvalorizado los beneficios que obtenemos de la vida submarina y terrestre; así como el impacto de las condiciones climáticas y los recursos que requiere la humanidad para su supervivencia.</p>
+<p align="justify">La Agenda 2030 y los países que la han suscrito desarrollan acciones para fortalecer la protección y cuidado del ambiente; así como la prevención de su destrucción. Actualmente, los esfuerzos están dirigidos a “Transformar nuestro mundo”, que busca hacer frente a problemáticas derivadas de los efectos de la contaminación, es importante considerar que las grandes ciudades son las más afectadas ante el deterioro de las áreas verdes y las emisiones de gases y dióxido de carbono; las cuales generan en la población enfermedades y disminución del tiempo de vida de las personas.</p>
+<p align="justify">Sin duda, el cambio climático impacta a comunidades pobres y limitadas económicamente, dado que son susceptibles a fenómenos naturales como temblores, tsunamis, inundaciones y desprendimiento de tierras, entre otros. Desafortunadamente son precisamente las poblaciones más pobres, las menos preparadas para enfrentar los riesgos. También es difícil para este sector garantizar la seguridad y los procedimientos en momentos de contingencia. </p>
+<p align="center"><b>Ilustración 20.</b> Metas para el mejoramiento del clima</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 64.29%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1400px" height="900px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb2d7349c4140fc709db00" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb313c9966b60fba76868a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="center"><b>Ilustración 21.</b> Reflexiona</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb319bfbd8060fa535b67a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Los ecosistemas acuáticos son otro ámbito de aplicación del cuidado medioambiental, por lo tanto es importante impulsar acciones para proteger la vida submarina, por ejemplo, es urgente reciclar más, utilizar menos plásticos y procurar los ecodiseños; es decir, dar una segunda vida útil a productos, envases, artículos y recursos que minimicen la generación de basura y contaminantes; así como procurar la limpieza de  océanos, mares, ríos y aguas en general e invertir en tecnología práctica, productiva y sostenible.</p>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb321bfbd8060fa535b6bc" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb327453b6eb0fabc1982f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">A continuación, se presentan algunas organizaciones internacionales que coadyuvan al logro del ODS 14: </p>
+<ul class="unorder-list">
+    <li>Organización de las Naciones Unidas para la Alimentación y la Agricultura Departamento de Pesca y Acuicultura (FAO).</li>
+    <li>Programa de las Naciones Unidas para el Medio Ambiente Manejo de ecosistemas (PNUMA).</li>
+    <li>ONU Océanos.</li>
+    <li>Comisión Oceanográfica Ingubernamental (UNESCO-COI).</li>
+    <li>Organización Marítima Internacional (OMI).</li>
+    <li>División de Asuntos Oceánicos y del Derecho del Mar (DOALOS).</li>
+</ul>
+<p align="justify">Otro espacio importante de intervención son los ecosistemas terrestres, que brindan recursos necesarios para vivir y convivir con diversidad de especies. Los bosques cubren el 31 % de la superficie terrestre, son fuente de ingresos de al menos 1000 millones de personas y alojan aproximadamente el 18% de la población mundial (FAO, 2019).</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb332fdfcf280fc42a90c2" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb343f53b6eb0fabc1994b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">A continuación, se describen las metas deseables a  lograr al  2030:</p>
+<p align="center"><b>Ilustración 22.</b> Metas para ecosistemas terrestres</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb365badf5860fc0ce3380" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="justify">La FAO (2019) propone mejorar la calidad del aire; realizar la detección de gases contaminantes; prevenir fenómenos naturales; regular flujos acuáticos y de aguas residuales; propiciar ambientes aptos para la polinización; impulsar actividades de control de plagas y depredadores; así como establecer políticas para mejorar, sancionar a quienes atacan o desfavorezcan estas acciones.</p>
+<p align="justify">Como veras aún falta mucho por hacer y todos debemos contribuir a mejorar nuestro planeta, seguramente desde tu campo profesional podrás difundir, proponer estrategias y llevar a cabo acciones que fortalezcan cada área de los Objetivos de Desarrollo Sostenible.</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb395b9966b60fba768bac" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 25.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="300px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbb39b7fbd8060fa535bafb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
