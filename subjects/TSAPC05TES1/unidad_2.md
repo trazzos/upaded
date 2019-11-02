@@ -1,6 +1,6 @@
 ---
 layout: upaded
-title: 'Unidad 2 - Evolución de la Administración'
+title: 'Unidad 2 - Teorías económicas contemporáneas'
 description: Contenido de la unidad 2
 date: 2019-08-28T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png

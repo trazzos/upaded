@@ -1,6 +1,6 @@
 ---
 layout: upaded
-title: 'Unidad 4 - Áreas funcionales de la empresa'
+title: 'Unidad 4 - Fundamentos de la macroeconomía de una economía abierta'
 description: Contenido de la unidad 4
 date: 2019-08-28T02:14:30.000+00:00
 post_image: assets/images/service-icon3.png

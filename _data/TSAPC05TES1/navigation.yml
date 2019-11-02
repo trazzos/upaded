@@ -3,13 +3,13 @@
   description: "Teorías económicas"
 - text: Unidad 1
   url: "/subjects/TSAPC05TES1/unidad_1"
-  description: "Fundamentos de Administración"
+  description: "Evolución y principios de la teoría económica"
 - text: Unidad 2
   url: "/subjects/TSAPC05TES1/unidad_2"
-  description: "Evolución de la Administración"
+  description: "Teorías económicas contemporáneas"
 - text: Unidad 3
   url: "/subjects/TSAPC05TES1/unidad_3"
-  description: "Proceso administrativo"
+  description: "Fundamentos de microeconomía"
 - text: Unidad 4
   url: "/subjects/TSAPC05TES1/unidad_4"
-  description: "Áreas funcionales de la empresa"
+  description: "Fundamentos de la macroeconomía de una economía abierta"
