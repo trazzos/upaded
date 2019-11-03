@@ -17,5 +17,8 @@ Tarda como 1 minuto y de ahi podras ver los cambios
 
 Importante: Asegurate de terminar la tarea de gulp con ctrl + C. De lo contrario los cambios a Jekyll no se reflejan!!
 
+#Uso de tablas
+El template utiliza bootstrap por lo que cualquier clase de boostrap funciona. En este caso para tablas.
+https://getbootstrap.com/docs/4.3/content/tables/
 
 
