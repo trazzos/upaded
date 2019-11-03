@@ -3,13 +3,13 @@
     <div class="footer-wrapper section-spacing bminus-30">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 col-lg-4">
+                <div class="col-md-4 col-lg-4">
                     <div class="footer-widget wow fadeIn" data-wow-duration="1s">
                         <h5 class="footer-title heading-5">UPADED</h5>
                         <p>Universidad Pública, Abierta y a Distancia del Estado de Durango</p>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-2">
+                <div class="col-md-4 col-lg-4">
                     <div class="footer-widget wow fadeIn" data-wow-duration="2s">
                         <h5 class="footer-title heading-5">Páginas</h5>
                         <ul class="footer-category list-inline">
@@ -27,7 +27,24 @@
                         </ul>
                     </div>
                 </div>
-                
+                {% if page.subject_name and site.data[page.subject_name].references %}
+                <div class="col-md-4 col-lg-4">
+                    <div class="footer-widget wow fadeIn" data-wow-duration="1s">
+                        <h5 class="footer-title heading-5">Referencias</h5>
+                        <ul class="footer-category list-inline">
+                                {% for link in site.data[page.subject_name].references %}
+                                    {% assign active = nil %}
+                                    {% if page.url contains link.url %}
+                                        {% assign active = 'active' %}
+                                    {% endif %}
+                                    <li class="{{ active }}{% if link.submenu %} themeix-dropdown has-children{% endif %}">
+                                        <a target="_blank" href="{{ link.url }}">{{ link.text }}</a>
+                                    </li>
+                                {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                {% endif %}
             </div>
         </div>
     </div>
