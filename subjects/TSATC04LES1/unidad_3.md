@@ -10,6 +10,73 @@ subject_folder: /subjects/
 subject_name: TSATC04LES1
 
 ---
-<p align="justify"></p>
+<p align="justify">Para comenzar esta unidad, observa el siguiente video:</p>
 
+<br/>
+<p align="justify">A continuación, te presentamos la competencia genérica y las competencias específicas de esta unidad:</p>
+
+<br/>
+<p align="center"><b>Ilustración 1.</b> Mapa de contenido de la Unidad 3</p>
+
+<br/>
+<h3>3.1 </h3>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
+<br/>
+<p align="justify"></p>
 <br/>
