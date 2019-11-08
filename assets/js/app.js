@@ -10,13 +10,20 @@
     });
     // Preloader
     if ($('.loading-main').length > 0) {
-        $(window).on('load', function() {
+        setTimeout(function() {
             $('.loading-main').fadeOut();
             $('.pre-loader').delay(350).fadeOut("slow", 0.0);
             $('body').css({
                 'overflow-y': 'scroll'
             });
-        });
+        }, 3000);
+        /*$(window).on('load', function() {
+            $('.loading-main').fadeOut();
+            $('.pre-loader').delay(350).fadeOut("slow", 0.0);
+            $('body').css({
+                'overflow-y': 'scroll'
+            });
+        });*/
     }
     // Responsive menu
     $('.slimmenu').slimmenu({
