@@ -40,7 +40,7 @@ sections:
   label: Team members
   create: all
   match: "**/*"
-- type: directory
+- type: jekyll-pages
   path: subjects
   label: Subjects
   create: all
