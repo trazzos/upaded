@@ -22,7 +22,7 @@ subject_name: TSAPE06ADS1
 <h3>3.1 Planeación </h3>
 <p align="justify">La administración como  disciplina científica tiene métodos, principios y técnicas que permiten a quien las aplica llevar a cabo el proceso administrativo.</p>
 <p align="justify">Según Munch (2010) el proceso administrativo está conformado por la sucesión de etapas o fases que conducen a la administración de cualquier empresa:</p>
-<ul>
+<ul>config
     <li>Planeación,</li>
     <li>Organización,</li>
     <li>Integración,</li>

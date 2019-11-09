@@ -2163,3 +2163,8 @@ ul#results-container {
   opacity: 0;
   height: 0;
   transation: all .4s linear 0s; }
+
+.layout-wrapper .container {
+  text-align: justify; }
+  .layout-wrapper .container .center {
+    text-align: center; }

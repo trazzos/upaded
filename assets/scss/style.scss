@@ -2199,3 +2199,13 @@ ul#results-container {
   height:0;
   transation: all .4s linear 0s;
 }
+
+.layout-wrapper {
+  .container {
+    text-align: justify;
+
+    .center {
+      text-align: center;
+    }
+  }
+}
