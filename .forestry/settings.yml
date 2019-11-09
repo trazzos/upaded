@@ -12,6 +12,11 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
+- type: directory
+  path: subjects
+  label: Subjects
+  create: all
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
@@ -38,11 +43,6 @@ sections:
 - type: directory
   path: _team_members
   label: Team members
-  create: all
-  match: "**/*"
-- type: jekyll-pages
-  path: subjects
-  label: Subjects
   create: all
   match: "**/*"
 - type: directory
