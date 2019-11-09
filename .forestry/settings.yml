@@ -41,6 +41,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: subjects
+  label: Subjects
+  create: all
+  match: "**/*"
+- type: directory
   path: assets
   label: Assets
   create: all
