@@ -41,7 +41,7 @@ subject_name: TSAEC06BGS1
 <br/>
 <p align="justify">A lo largo de la historia, la microbiología no ha frenado su marcha, generalmente los investigadores se han abocado a desarrollar trabajos relacionados a la medicina, sin menospreciar alcances importantes en otras áreas.</p>
 <p align="justify">A continuación se presentan diversos aportes relevantes del siglo XX:</p>
-<ul>
+<ul class="unorder-list">
     <li><b>Carl Woese, </b>quien estableció un nuevo árbol filogenético: a través de las similitudes del rARN 16s, además de añadir el nuevo reino: arqueas</li>
     <li><b>Fred Sanger, </b>quien propone la secuenciación del ADN </li>
     <li><b>Stanley Prusiner, </b>quien contribuyó con el descubrimiento y caracterización de los priones, partículas infecciosas de naturaleza proteica que tiene la capacidad de transformar otras proteínas celulares normales en priones anómalos, los cuales se encuentran en el origen de algunas enfermedades degenerativas del sistema nervioso central</li>
@@ -64,7 +64,7 @@ subject_name: TSAEC06BGS1
 <br/>
 <h3>3.2 Tipos de microbiología</h3>
 <p align="justify">A partir del uso del microscopio, la microbiología se dividió en varias subdisciplinas, de acuerdo a su aplicación, entre ellas: </p>
-<ul>
+<ul class="unorder-list">
     <li><b>Fisiología microbiana: </b>rama de la microbiología que se encarga del estudio de las propiedades físicas y químicas de organismos procariotas como bacterias, considerando su diversidad, ecología y evolución (Benitende, Pretto y Musante, 2019). </li>
     <li><b>Genética microbiana: </b>se encarga del estudio del genoma bacteriano, análisis de la fisión binaria como forma de reproducción de las bacterias, así como sus variaciones (Benitende, Pretto y Musante, 2019).</li>
     <li><b>Microbiología clínica: </b>estudia la morfología de los microbios, además identifica agentes etiológicos de una infección y determina la susceptibilidad a determinados antimicrobianos (Mühlhauser, 2014).</li>
@@ -136,7 +136,7 @@ subject_name: TSAEC06BGS1
 <br/>
 <p align="justify"><b>Aplicaciones de la nanotecnología</b></p>
 <p align="justify">A continuación se presenta algunas de las áreas de aplicación de la nanotecnología (Orozco, 2018):</p>
-<ul>
+<ul class="unorder-list">
     <li><b>Medioambiente: </b>son algunas de las aplicaciones de la nanotecnología el desarrollo de materiales, energías y procesos no contaminantes; tratamiento de aguas residuales, desalinización de agua, descontaminación de suelos, tratamiento de residuos, reciclaje de sustancias, nanosensores para la detección de sustancias químicas dañinas o gases tóxicos.</li>
     <li><b>Sector energético, </b>busca mejorar los sistemas de producción y almacenamiento de energía, en especial las renovables, como la solar, o aquellas basadas en el hidrógeno; también tecnologías que disminuyan el consumo de energía por medio del desarrollo de innovadores aislantes térmicos más eficientes basados en nanomateriales.</li>
     <li><b>Medicina, </b>en esta área encontramos el desarrollo de nanotransportadores de fármacos dirigidos a sitios específicos del cuerpo, que pueden ser útiles en el tratamiento del cáncer u otras enfermedades complejas; biosensores moleculares con capacidad para detectar alguna sustancia de interés como glucosa o un biomarcador de alguna enfermedad; nanobots programados para reconocer y destruir células tumorales o bien reparar algún tejido como el óseo a raíz de un fractura y nanopartículas con propiedades antisépticas y desinfectantes, entre otras.</li>
