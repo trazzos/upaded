@@ -93,6 +93,7 @@ análisis – básicamente sus tiempos y movimientos-, lo que conlleva la especi
 {% include iframe.html id="5dc72939d516280fb1f422e2" %}
 
 Una vez que has revisado el contenido del Tema 2.1. Participa en el Foro 2:
+{% include iframe.html id="5dc727d48101d90f9e9d805a" %}
 
 ### 2.2. Teoría de Henry Fayol
 
@@ -167,6 +168,7 @@ cumplan de acuerdo a lo planeado.
 
 Excelente, has concluido de manera satisfactoria los temas 2.1. y 2.2, por lo tanto, se te
 invita a realizar la Actividad 3.
+{% include iframe.html id="5dc7275b8101d90f9e9d8053" %}
 
 ### 2.3 Enfoque humanista: Elton Mayo
 
@@ -308,6 +310,7 @@ en la organización.
 
 Excelente, has concluido de manera satisfactoria los temas 2.3. y 2.4, por lo tanto, se te
 invita a realizar la Actividad 4
+{% include iframe.html id="5dc727528101d90f9e9d804c" %}
 
 <p class="center"><b>Ilustración 19.</b> Criterios de evaluación</p>
 {% include iframe.html id="5dc5dc06da9d3c0fab992e70" %}
