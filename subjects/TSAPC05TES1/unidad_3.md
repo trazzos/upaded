@@ -144,7 +144,7 @@ subject_name: TSAPC05TES1
 <p align="justify">El costo total (CT) de una empresa se obtiene sumando el costo que implica movilizar todos los factores de producción que se utilizan. Lo que significa que se suman los costos fijos totales y los costos variables totales, tal y como se muestra en la siguiente ecuación: </p>
 <p align="center"><b><i>CT = CFT + CVT</i></b></p>
 <p align="justify">Teniendo en mente cómo se calculan los costos de la producción, vamos a profundizar en la definición de los principales tipos de costos asociados a la producción, para eso, te invitamos a observar la Ilustración 26:</p>
-<p align="center"><b>Ilustración 25.</b> Ley de rendimientos decrecientes</p>
+<p align="center"><b>Ilustración 26.</b> Análisis de costos</p>
 
 <div class="row">
     <div class="col-md-8 offset-md-2">
@@ -175,7 +175,7 @@ subject_name: TSAPC05TES1
                     <td colspan="2">Representa los gastos que varían con el nivel de producción. Por ejemplo: materia prima, salarios y combustible, e incluye todos los costos que no son fijos. </td>
                 </tr>                                                        
               <tr>
-                    <th scope="row">Coste marginal (CMg)</th>
+                    <th scope="row">Costo marginal (CMg)</th>
                     <td colspan="2">Coste adicional por producir una unidad adicional de producir una unidad adicional de producto.</td>
                 </tr>
                 <tr>
