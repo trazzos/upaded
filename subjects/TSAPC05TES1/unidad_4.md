@@ -133,6 +133,7 @@ subject_name: TSAPC05TES1
 <p align="justify">En el párrafo previo se menciona el concepto exportaciones netas, ese componente de la demanda agregada, en realidad engloba dos términos: exportaciones e importaciones, recordarás que al inicio del apartado señalábamos que la economía es abierta, lo que significa que interactúa de dos formas con otras economías: compra y vende servicios en los mercados de productos del mundo; y compra y vende activos de capital en los mercados financieros mundiales. Nosotros analizamos, en el presente subapartado. Ambas actividades, exportaciones e importaciones, las precisamos en las ilustraciones 8 y 9: </p>
 <p align="center"><b>Ilustración 8.</b> Definición de exportaciones</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcb881289d2cf0fc00513ea" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
 <p align="center"><b>Ilustración 9.</b> Definición de importaciones</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcb89443508d50fb430b4af" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
@@ -270,75 +271,314 @@ subject_name: TSAPC05TES1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcb99bd31e53d0fe0898de0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <h3>4.2 Oferta y demanda agregada</h3>
-<p align="justify"></p>
+<p align="justify">La actividad económica varía de un año a otro. Seguramente has tenido oportunidad de escuchar términos como recesión o depresión en las noticias. Básicamente las fluctuaciones son el pan de cada día de las economías. Es más, la propia historia económica demuestra que la economía no crece con un patrón continuo y homogéneo. Justo esos movimientos o variaciones en la producción, inflación, tasa de interés y empleo forman el ciclo económico que caracteriza a las economías de mercado (Dornbusch, Fischer, & Startz, 2014). Para entender estos problemas, comencemos por definir qué se entiende por ciclo económico, y para ello te invitamos a revisar la ilustración 31: </p>
+<p align="center"><b>Ilustración 31.</b> Definición de ciclos económicos</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc4a199b692b0fc66b3d53" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Habitualmente, los economistas dividen los ciclos económicos en dos fases principales recesión y expansión. La caída de un ciclo económico se denomina recesión, y su definición la encuentras en la ilustración 32: </p>
+<p align="center"><b>Ilustración 32.</b> Definición de recisión </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc4a667a2d590fdad32fcd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Cuando la actividad económica, de manera global, no logra recuperarse, entramos en la fase de depresión, en la ilustración 33 se muestra su definición:</p>
+<p align="center"><b>Ilustración 33.</b> Definición de depresión </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc4ab49a45840fa707ba0c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">A continuación, en la ilustración 34, te mostramos las características comunes, más no únicas, que avizoran una posible recesión: </p>
+<p align="center"><b>Ilustración 34.</b> Señales de alerta de una posible recesión</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc4b0e427bab0fd8837d3b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Si bien existe un cierto consenso respecto a las señales de una posible recesión, no hay una teoría unificada sobre las cusas que originan los ciclos en las economías. Para darle un orden o una línea argumentativa a esas explicaciones recurrimos a dos categorías: causas internas y externas. Las teorías externas buscan la raíz del ciclo económico en las fluctuaciones que se encuentran fuera del sistema económico (guerras, revoluciones y elecciones; descubrimientos de recursos, entro otras). En cambio, las teorías internas buscan identificar los mecanismos dentro del propio sistema económico que dan lugar a ciclos económicos que se autogeneran. En este enfoque, toda expansión produce una recesión y una contracción y toda contracción produce una reanimación y una expansión en una cadena (Samuelson & Nordhaus, 2019).</p>
+<p align="justify">Para un grupo de economistas las fluctuaciones que sufre la economía se derivan de la demanda agregada, te invitamos a revisar la siguiente ilustración, para que observes con mayor precisión la relación entre la demanda agregada y los ciclos económicos.</p>
+<p align="center"><b>Ilustración 35.</b> Dato importante </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc4bf86ebbfc0fa81d9056" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Así pues, todas las economías experimentan fluctuaciones económicas las cuales se caracterizan por ser irregulares y en muchos casos, prácticamente impredecibles. Un recurso analítico con que cuentan los economistas para estudiar las fluctuaciones en el corto plazo es el modelo de demanda y oferta agregada. El objetivo principal es aprender a usar este modelo para examinar los efectos a corto plazo de algunos acontecimientos y medidas económicas (Mankiw, 2017). </p>
+<p align="justify">Además, el modelo de oferta y demanda agregadas es el principal instrumento macroeconómico para estudiar las fluctuaciones de la producción y determinación del nivel de precios y la tasa de inflación, los economistas los usan para comprender por qué se aleja la economía de la senda de crecimiento y averiguar las consecuencias de las medidas económicas destinadas a reducir el desempleo, suavizar las fluctuaciones de la producción y mantener estables los precios (Dornbusch, Fischer, & Startz, 2014). </p>
+<p align="justify">Ha llegado el momento de explorar con profundidad las bases de la demanda agregada. Como recordarás, en el apartado anterior mencionamos los componentes del PIB y su papel en la conformación de la demanda agregada. Empecemos por plantear su definición, la cual puedes observar en la ilustración 36: </p>
+<p align="center"><b>Ilustración 36.</b> Definición de demanda agregada (DA)</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc4c617a2d590fdad331b4" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">La demanda agregada se compone de 4 variables que se desarrollan de la ilustración 37: </p>
+<p align="center"><b>Ilustración 37.</b> Componentes de la Demanda Agregada (DA)</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc512900de960fa2f4165a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Te invitamos a revisar la ilustración 38, en la cual resumimos las principales características de las variables que componen a la demanda agregada: </p>
+<p align="center"><b>Ilustración 38.</b> Componentes de la Demanda Agregada (DA)</p>
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th scope="col" class="text-center">Componente</th>
+        <th scope="col" class="text-center">Definición </th>
+        <th scope="col" class="text-center">Determinantes </th>
+    </tr>
+    </thead>
+    <tbody>
+<tr>
+    <td rowspan="3" class="align-middle"><b>Consumo</b></td>
+    <td rowspan="3">Gasto de los hogares en bienes y servicios</td>
+    <td>Ingreso disponible de los consumidores</td>
+  </tr>
+  <tr>
+    <td>Riqueza de la familia</td>
+  </tr>
+  <tr>
+    <td>Nivel agregado de precios</td>
+  </tr>
+  <tr>
+    <td rowspan="5" class="align-middle"><b>Inversión</b></td>
+    <td rowspan="5">Gasto destinado a la adquisición de edificios, software y equipos diversos, así<br>  como acumulación de inventario</td>
+    <td>Nivel de producción</td>
+  </tr>
+  <tr>
+    <td>Costo del capital</td>
+  </tr>
+  <tr>
+    <td>Políticas impositivas</td>
+  </tr>
+  <tr>
+    <td>Expectativas</td>
+  </tr>
+  <tr>
+    <td>Política monetaria</td>
+  </tr>
+  <tr>
+    <td><b>Compras del Estado</b></td>
+    <td>Gasto destinado a la compra de bienes como tanques o equipos; contratación de<br>  maestros o jueces.</td>
+    <td>Determinado en forma directa por las decisiones de gasto del gobierno</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="align-middle"><b>Exportaciones Netas</b></td>
+    <td rowspan="2">Igual al valor de las exportaciones menos el de las importaciones.</td>
+    <td>Las importaciones están determinadas por la relación de los precios internos y<br>  externos y por el tipo de cambio.</td>
+  </tr>
+  <tr>
+    <td>Las exportaciones se determinan por los ingresos internos y externos, los precios<br>  relativos y los tipos de cambio.</td>
+  </tr>
+    </tbody>
+</table>
+</div></div>
+<p align="center">Fuente: UP@DED (2019), con información de Dornbusch, Fischer, y Startz (2014)</p>
+<p align="justify">La demanda agregada se desplaza cuando se producen cambios en las políticas macroeconómicas o bien, al presentarse eventos exógenos que modifican el gasto. A continuación, en la ilustración 39, observarás una síntesis del comportamiento de la demanda agregada:</p>
+<p align="center"><b>Ilustración 39.</b> Dato importante </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc5a9a427bab0fd8838b1a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Mientras que en general, los economistas coinciden en los factores que influyen sobre la demanda, difieren en la relevancia que tienen esas fuerzas. Para fines prácticos te mostramos en la ilustración siguiente una serie de factores que inciden sobre la demanda agregada:</p>
+<p align="center"><b>Ilustración 40.</b> Factores que pueden aumentar la demanda agregada</p>
+
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th scope="col" class="text-center">Variable</th>
+        <th scope="col" class="text-center">Efecto sobre la demanda agregada</th>
+    </tr>
+    </thead>
+    <tbody>
+<tr>
+    <td colspan="2" class="text-center"><b>Variables de política</b></td>
+  </tr>
+  <tr>
+    <td><b>Política monetaria</b></td>
+    <td>El aumento de la oferta monetaria provoca la disminución de las tasas de interés y<br>relaja las condiciones de crédito, lo cual induce mayores niveles de inversión<br>y de consumo de bienes durables. En una economía abierta, la política monetaria<br>afecta el tipo de cambio y las exportaciones netas.</td>
+  </tr>
+  <tr>
+    <td><b>Política fiscal</b></td>
+    <td>Los aumentos de las compras del Estado en bienes y servicios incrementan el gasto<br>en forma directa; las reducciones o aumentos de impuestos o las transferencias<br>inciden positivamente en el ingreso disponible, e induce mayor consumo. Los<br>incentivos fiscales pueden inducir un mayor gasto en determinado sector<br>económico.</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="text-center"><b>Variables exógenas</b></td>
+  </tr>
+  <tr>
+    <td><b>Producción extranjera</b></td>
+    <td>El crecimiento de la producción extranjera conduce a un aumento de las exportaciones netas.</td>
+  </tr>
+  <tr>
+    <td><b>Valores accionarios</b></td>
+    <td>El aumento en el mercado accionario hace aumentar la riqueza familiar y, en consecuencia, aumenta el consumo; también provoca menores costos de capital y aumento de  inversión en las empresas.</td>
+  </tr>
+  <tr>
+    <td><b>Avances de la tecnología</b></td>
+    <td>Los avances de la tecnología pueden abrir nuevas posibilidades para inversiones empresariales.</td>
+  </tr>
+  <tr>
+    <td><b>Otros</b></td>
+    <td>Los eventos políticos que incrementan la confianza de empresas y consumidores.</td>
+  </tr>
+    </tbody>
+</table>
+</div></div>
+<p align="center">Fuente: UP@DED (2019), con información de Dornbusch, Fischer, y Startz (2014).</p>
+<p align="justify">Ahora, pasemos a analizar la curva de oferta agregada, que indica la cantidad de bienes y servicios que producen y venden las empresas en cualquier nivel dado de precios. A diferencia de la curva de demanda agregada, la curva de oferta agregada muestra una relación que depende fundamentalmente del horizonte temporal examinado. A largo plazo, la curva de oferta agregada es vertical, mientras que a corto plazo tiene pendiente positiva (Mankiw, 2017). Te invitamos a revisar la ilustración 41 para reafirmar el concepto:</p>
+<p align="center"><b>Ilustración 41.</b> Definición de curva de oferta agregada (OA)</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc5cd6c407d50fd2bf9f46" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Como podrás imaginar, existe una propuesta de análisis diferente para la curva de oferta, dependiendo de la escuela que hagamos referencia. En la ilustración 42, te mostramos los dos tipos de curva de oferta: </p>
+<p align="center"><b>Ilustración 42.</b> La curva de oferta clásica y oferta agregada keynesiana</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 54.17%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="650px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc5d56dfd09f0fadab396c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Ahora bien, en el caso de la oferta cuáles son los posibles factores que podrían desplazar la curva de oferta agregada a corto plazo. Te invitamos a observar la ilustración siguiente: </p>
+<p align="center"><b>Ilustración 43.</b> Factores que pueden modificar la curva de oferta agregada</p>
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th scope="col" class="text-center">Variable</th>
+        <th scope="col" class="text-center">Proceso</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th scope="row">Desplazamientos provocados por el trabajo </th>
+        <td>Un aumento o disminución de la cantidad de trabajo existente desplaza la curva de oferta agregada. </td>
+    </tr>
+    <tr>
+        <th scope="row">Desplazamiento provocado por el capital</th>
+        <td>Un aumento o disminución del capital físico o humano desplaza la curva de oferta agregada.</td>
+    </tr>
+    <tr>
+        <th scope="row">Desplazamientos provocados por los recursos naturales</th>
+        <td>Un aumento o disminución de la existencia de recursos naturales desplaza la curva de oferta agregada. </td>
+    </tr>
+    <tr>
+        <th scope="row">Desplazamiento provocado por la tecnología</th>
+        <td>Un avance tecnológico desplaza la curva de oferta agregada. </td>
+    </tr>
+    <tr>
+        <th scope="row">Desplazamientos provocados por el nivel esperado de precios</th>
+        <td>Un descenso del nivel esperado de precios desplaza la curva de oferta agregada a corto plazo. </td>
+    </tr>    
+    </tbody>
+</table>
+</div></div>
+<p align="center">Fuente: UP@DED (2019), con información de Mankiw (2012).</p>
+<p align="justify">Para cerrar el tema de oferta agregada, señalaremos que experiencias pasadas de varias economías han señalado dos importantes implicaciones derivadas de los desplazamientos de la oferta agregada, los cuales puedes observarlos en la ilustración 44:</p>
+<p align="center"><b>Ilustración 44.</b> Factores que pueden modificar la curva de oferta agregada</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc5f1b89d2cf0fc0058353" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Teniendo en mente cómo funciona la economía en su conjunto, es decir, tras conocer sus principales agregados, así como la relación entre ellos, estamos listos para hablar sobre la política macroeconómica. La política macroeconómica se plantea lograr un alto nivel de crecimiento, bajo desempleo y precios estables, en consecuencia, el objetivo principal de la actividad económica,  consiste en proporcionar los bienes y servicios que la población desea. </p>
+<p align="justify">Los encargados de la política modifican los instrumentos de ésta para afectar la velocidad y la dirección de la actividad económica (Dornbusch, Fischer, & Startz, 2014). En la ilustración siguiente, se presentan los principales objeticos de la política macroeconómica.</p>
+<p align="center"><b>Ilustración 45.</b> Objetivos e instrumentos de la política macroeconómica </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 54.17%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="650px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc60b831e53d0fe089fe23" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Hemos finalizado nuestro apartado 4.2 y precisamente los temas de política monetaria y política fiscal serán el objeto de análisis de nuestras próximas secciones. </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc626ac407d50fd2bfa282" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc6277d3d3090fbe99fa08" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc634989d2cf0fc0058442" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc63a3427bab0fd88391a0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc66d200de960fa2f41db9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<h3>4.3 Política monetaria</h3>
+<p align="justify">Como veíamos en el tema anterior, los agregados económicos están estrechamente vinculados y los gobiernos intentan, en la medida de lo posible, generar condiciones estables para el desarrollo saludable de la economía. En consecuencia, los encargados de la política económica echan mano de la política macroeconómica para estimular el crecimiento económico y mantener estable el nivel de precios, es decir, incidir en la velocidad y la dirección de la actividad económica (Dornbusch, Fischer, & Startz, 2014). Para incidir en la economía, las autoridades cuentan con dos políticas claves: la política monetaria y la política fiscal. Empecemos por definir qué se entiende por política monetaria, en la ilustración 46, encontrarás la definición:</p>
+<p align="center"><b>Ilustración 46.</b> Política monetaria</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc6ad13508d50fb43120d3" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">En la ilustración previa, se hizo alusión a los términos banco central, este banco es particularmente diferente a los bancos comerciales, ya que es la entidad autorizada para imprimir los billetes que lubrican a una determinada economía, te invitamos a revisar la ilustración 47: </p>
+<p align="center"><b>Ilustración 47.</b> ¿Sabías qué?</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc6b3b31e53d0fe08a0381" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">En el caso específico de nuestro país, la banca central es el Banco de México y es el encargado de instrumentalizar la política monetaria. Te invitamos a revisar la siguiente ilustración. </p>
+<p align="center"><b>Ilustración 48.</b> Indaga </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc6b9310b2480fbbe5dc02" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">La definición de los objetivos que debe perseguir la política monetaria ha sido un tema que ha ocupado a los economistas y a la opinión pública en general, y como te imaginarás no existe un consenso como tal.  Al respecto, y en paralelo con los avances académicos y la experiencia en la materia, el entendimiento sobre la política monetaria ha evolucionado considerablemente en las últimas décadas. Un grupo de economista en particular, señalan que la mejor contribución que la política monetaria puede hacer para fomentar el crecimiento económico sostenido es procurar la estabilidad de precios. Por tanto, en años recientes muchos países, incluyendo  México, han reorientado los objetivos de la política monetaria de forma que la prioridad del banco central sea procurar la estabilidad de precios. Este objetivo se ha formalizado, en la mayoría de los casos, con el establecimiento de metas de inflación en niveles bajos (Banxico, 2019). </p>
+<p align="justify">Es importante señalar que el banco central no tiene un control directo sobre los precios ya que éstos se determinan como resultado de la interacción entre  oferta y demanda de diversos bienes o servicios. No obstante, a través de la política monetaria el banco central puede influir sobre el proceso de determinación de precios y así cumplir con su meta de inflación. En general, los bancos centrales conducen su política monetaria afectando las condiciones bajo las cuales satisfacen las necesidades de liquidez en la economía. Es decir, la banca central proporciona liquidez a los participantes en el mercado de dinero, ya sea mediante modificaciones en ciertos rubros del balance del banco central o con algunas medidas que influyan de manera más directa sobre las tasas de interés de corto plazo (Banxico, 2019). </p>
+<p align="center"><b>Ilustración 49.</b> ¿Sabías qué?</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc6c2a7a2d590fdad34848" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Así pues, la política monetaria puede incidir en la demanda agregada y con ello provocar fluctuaciones a corto plazo en la producción y en el nivel de precios ya que un incremento en la oferta de dinero reduce la tasa de interés a corto plazo, generando que el crédito sea menos caro, lo que, a su vez, estimula el gasto de inversión y, con ello, se desplaza la curva de demanda agregada. En contraste, cuando el banco central contrae la oferta de dinero, incrementa la tasa de interés y reduce la cantidad demandada de bienes y servicios a cualquier nivel de precios, modifica la curva de demanda agregada (Mankiw, 2017). </p>
+<p align="justify">Hemos finalizado el aparatado correspondiente a la política monetaria y sus implicaciones en la economía y particularmente en la curva de demanda agregada. Ahora, te invitamos a revisar las siguientes lecturas con información práctica y sobre todo enfocada en la economía mexicana. </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc6c94f2f6f70fbaa35d02" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc6cf331e53d0fe08a03b9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc6d9f6ebbfc0fa81db4ca" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc6e11c407d50fd2bfae9e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<h3>4.4 Política fiscal</h3>
+<p align="justify">La política monetaria revisada en el apartado anterior, así como la política fiscal que veremos a continuación, conforman los principales instrumentos de política económica. Por supuesto, esto no quiere decir que no existan otros tipos de política, pero si son los campos de acción más importantes. Particularmente en el caso de la política fiscal, el gobierno puede incidir en el comportamiento de la economía mediante la política fiscal, la cual hace referencia a las decisiones del gobierno respecto a los niveles generales de impuestos y las compras gubernamentales. </p>
+<p align="justify">Las elecciones económicas realizadas por los agentes son de dos tipos: privadas y públicas. Una elección privada es una decisión que tiene consecuencias sólo para la persona que  la toma; sin embargo, una elección pública es una decisión que implica consecuencia para muchas personas, y muy probablemente para  la sociedad. Desde la perspectiva de la teoría neoclásica, los gobiernos desempeñan tres funciones económicas fundamentales, las cuales se enumeran en la ilustración 50: </p>
+<p align="center"><b>Ilustración 50.</b> Funciones económicas fundamentales del gobierno </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 41.67%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="500px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc6f4b31e53d0fe08a04f7" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">En ese sentido, los derechos de propiedad y el sistema legal que hace que se respeten dichos preceptos son la base de la economía del mercado, que en muchas ocasiones funciona de manera correcta y asigna los recursos de manera eficaz; sin embargo, no siempre logra la economía de mercado funcionar de manera eficiente. Cuando ocurre una falla de mercado, las elecciones que se han tomado por interés propio no han coadyuvado al interés social; en este contexto el gobierno puede jugar un papel importante para corregir esas fallas de mercado, tarea, que cabe mencionar, no es sencilla. Ya que el gobierno también puede tomar decisiones que terminen siendo fallas (Parkin & Loría, 2010). </p>
+<p align="justify">En resumen, para los neoclásicos el papel del gobierno es más de tipo administrativo y sobre todo hacer respetar la ley; para esta corriente del pensamiento económico el gobierno genera distorsiones en la economía y es mejor que su papel se enfoque en garantizar el orden legal de una sociedad. No obstante, el papel del gobierno no tiene las mismas implicaciones para los keynesianos, quienes ven, justamente, en el gobierno al agente que puede brindar estabilidad a la economía. </p>
+<p align="justify">Empecemos por definir, qué se entiende, en términos conceptuales, el término política fiscal, para ello te invitamos a revisar la imagen 51:</p>
+<p align="center"><b>Ilustración 51.</b> Política fiscal</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc700a7a2d590fdad348f1" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Ahora bien, la política fiscal es un asunto que afecta la vida de todos los ciudadanos. La política fiscal es el uso del gasto y  los impuestos para influir en la producción nacional, el empleo y el nivel de precios. Nuevamente, en el caso de la política fiscal hay dos enfoques diferentes. Los economistas keynesianos se enfocan en la demanda, y plantean que la política fiscal permite ajustar la demanda agregada para que la economía crezca y logre el pleno empleo con un nivel de precios más alto. En contraste, los economistas ortodoxos se enfocan en la oferta y consideran que la oferta agregada es mucho más importante, y además, la política fiscal busca aumentar la oferta agregada para que la economía crezca y logre el pleno empleo con un nivel de precios más bajo (Krugman, Wells, & Graddy, 2013). </p>
+<p align="justify">Keynes proponía utilizar una política fiscal discrecional para influir en el desempeño de la economía, en la ilustración 52 encontrarás su definición y, además, en la ilustración subsiguiente los dos tipos de políticas fiscales discrecionales: </p>
+<p align="center"><b>Ilustración 52.</b> Política fiscal discrecional </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc708d6ebbfc0fa81db747" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="center"><b>Ilustración 53.</b>Tipos de política fiscal discrecional </p>
+<div class="row">
+    <div class="col-md-8 offset-md-2">
+<table class="table table-striped">
+    <thead>
+    <tr>
+        <th scope="col" class="text-center">Política fiscal expansiva</th>
+        <th scope="col" class="text-center">Política fiscal restrictiva</th>
+    </tr>
+    </thead> 
+    <tbody>
+    <tr>
+        <td>Aumento del gasto público</td>
+        <td>Disminución del gasto público</td>
+    </tr>
+    <tr>
+        <td>Disminución de los impuestos</td>
+        <td>Aumento de los impuestos</td>
+    </tr>
+    <tr>
+        <td>Aumento del gasto público y de los impuestos en igual cantidad</td>
+        <td>Disminución del gasto público y de los impuestos en igual cantidad</td>
+    </tr>            
+    </tbody>
+</table>
+</div></div>
+<p align="center">Fuente: UP@DED (2019), con información de Krugman, Wells, y Graddy (2013:326 ).</p>
+<p align="justify">A diferencia de la política fiscal discrecional, los estabilizadores automáticos son herramientas incorporadas al presupuesto federal que coadyuvan a combatir el desempleo y la inflación, mientras el gasto y las leyes fiscales permanecen constantes (Krugman, Wells, & Graddy, 2013). En la ilustración 54:</p>
+<p align="center"><b>Ilustración 54.</b>Estabilizadores automáticos</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc7151d3d3090fbe99ff43" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Derivado de los gastos que ejerce el gobierno, se pueden identificar tres posibles escenarios de las finanzas gubernamentales, los cuales te presentamos en la ilustración 55:</p>
+<p align="center"><b>Ilustración 55.</b>Relación entre el presupuesto y los ingresos del gobierno</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc71f031e53d0fe08a05e2" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Ahora bien, particularmente a los economistas les interesa analizar el efecto multiplicador que desencadenan las decisiones del gobierno, las compras que hace el gobierno en la economía se traducen en el incremento de la demanda de productos de muchas otras empresas en la economía. Cada unidad monetaria que gasta el gobierno puede incrementar la demanda agregada de bienes y servicios en más de una unidad monetaria, entonces, se dice que las compras gubernamentales tienen un efecto multiplicador en la demanda agregada (Mankiw, 2017). </p>
+<p align="justify">Otro importante instrumento de política fiscal, además de las compras gubernamentales, es el nivel de impuestos. Por ejemplo, cuando el gobierno reduce el impuesto al ingreso, incrementa el dinero que tienen los individuos para gastar, lo que se traduce en un incremento del gasto de consumo y modifica la curva de demanda agregada; y a la inversa, un incremento de impuestos deprime el gasto de consumo y desplaza hacia la izquierda la curva de demanda agregada Mankiw, 2017).</p>
+<p align="justify">Los instrumentos de política económica tienen efectos a corto plazo en la economía, cuando se reduce el gasto gubernamental con el objetivo de equilibrar el presupuesto hay que tener en cuenta, tanto los efectos a largo plazo en ahorro y crecimiento como los efectos a corto plazo en la demanda agregada y el empleo. Por otro lado, cuando el banco central reduce la tasa de crecimiento de la oferta de dinero, debe tomar en cuenta los efectos a largo plazo en la inflación y los efectos a corto plazo en la producción (Mankiw, 2017). </p>
+<p align="center"><b>Ilustración 56.</b>Recuerda</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc734e89d2cf0fc0058c61" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Para ir cerrando nuestro último tema y también la unidad, te invitamos a reflexionar sobre la relación entre demanda agregada y política fiscal: </p>
+<p align="center"><b>Ilustración 57.</b>Reflexiona</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc73b289d2cf0fc0058cb0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<p align="justify">Para finalizar, te invitamos a reflexionar sobre el papel que juega la política fiscal y monetaria en México, y en nuestro estado. Particularmente en el caso de América Latina, luego del “ajuste convulsivo” de los ochenta; la década de los noventa se caracterizó por procesos acelerados de expansión de la seguridad social y descentralización de algunas funciones del Estado. Esta dinámica de gasto, desafortunadamente, no fue acompañada de progresos permanentes en materia de recaudación tributaria, con el consiguiente impacto en el saldo público. En la mayoría de los países de América Latina, se registran problemas agudos de sostenibilidad de las cuentas públicas (Martner, 2003). </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc743389d2cf0fc0058cb9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc74de6ebbfc0fa81dbb4d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc753331e53d0fe08a097e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify"></p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc75a100de960fa2f42d61" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc76177a2d590fdad35308" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc761cc407d50fd2bfb482" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc7625e389eb0fc4af7fe2" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<br/>
+<p align="center"><b>Ilustración 58.</b>Criterios de evaluación </p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 50.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="600px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc762ad3d3090fbe9a04fb" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
