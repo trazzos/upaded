@@ -75,6 +75,11 @@ análisis – básicamente sus tiempos y movimientos-, lo que conlleva la especi
 
 <p>A continuación, explicaremos brevemente en que consiste cada uno de estos principios (Chiavenato, 2006):</p>
 
+* test
+* test2
+
+aaaa
+
 * Principio de planeación: cambia la improvisación, la práctica empírica y el individualismo por métodos desarrollados con base en procesos científicos.
 * Principio de preparación: propone la selección de los trabajadores considerando sus aptitudes, preparación y entrenamiento para aumentar la producción y calidad.
 * Principio de control: Supervisión del trabajo en estricto apego a las normas y el plan establecido.
