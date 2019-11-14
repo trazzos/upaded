@@ -92,7 +92,7 @@ Las funciones que deberá realizar el administrador se pueden clasificar en 3 gr
 <p>Según Montoya (2006) la función interpersonal para el administrador implica el desarrollo
 de habilidades para el entendimiento del personal con sentido humano; es decir, de forma
 integral. Reconocer la complejidad del ser humano, lleva implícito concebir al ser humano
-como un ser racional y con emociones en constante búsqueda de la felicidad.<p>
+como un ser racional y con emociones en constante búsqueda de la felicidad.</p>
 
 <p>Entonces, el administrador se enfrenta al reto de alcanzar los objetivos propuestos para la
 empresa al tiempo que deberá valorar al equipo de trabajo a través de acciones que
