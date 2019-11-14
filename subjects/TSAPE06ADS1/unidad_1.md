@@ -195,7 +195,6 @@ solidaridad, sentido de justicia, actitud de servicio, entre otras.</p>
 <p>Excelente, has concluido de manera satisfactoria los temas 1.1. y 1.2, por lo tanto, se te
 invita a realizar la Actividad 1.
 
-{% include iframe.html id="5da8c317c1d5c40fe0854b11" %}
 
 ## Test
   
