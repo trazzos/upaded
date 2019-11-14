@@ -66,7 +66,7 @@ destacaron: Frederick Taylor, Henry Gantt, Frank Gilberth, Harrison Emerson, ent
 
 <p>La administración científica se centra en incrementar la productividad de la empresa; para
 lograrlo se establecen acciones, como la división del trabajo en relaciòn al puesto y su
-análisis – básicamente sus tiempos y movimientos-, lo que conlleva la especialización.<p>
+análisis – básicamente sus tiempos y movimientos-, lo que conlleva la especialización.</p>
 
 <p>Los principios de la administración científica según Taylor son:</p>
 
