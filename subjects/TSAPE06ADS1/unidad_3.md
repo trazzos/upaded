@@ -17,12 +17,12 @@ subject_name: TSAPE06ADS1
 {% include iframe.html id="5dc5dbeefa23790fbe528503" %}
 
 <p class="center"><b>Ilustración 1.</b> Mapa de contenido de la Unidad 3</p>
-{% include iframe.html id="5dc5e8c829b0cd0fb781b22e" %}
+{% include iframe.html id="5dcda30e61e5600f8c20d61f" %}
 
 <h3>3.1 Planeación </h3>
 <p>La administración como  disciplina científica tiene métodos, principios y técnicas que permiten a quien las aplica llevar a cabo el proceso administrativo.</p>
 <p>Según Munch (2010) el proceso administrativo está conformado por la sucesión de etapas o fases que conducen a la administración de cualquier empresa:</p>
-<ul>config
+<ul>
     <li>Planeación,</li>
     <li>Organización,</li>
     <li>Integración,</li>
@@ -79,7 +79,7 @@ subject_name: TSAPE06ADS1
     <li>El programa establece acciones,  responsabilidades y tiempos que deberán considerarse para lograr la implementación de estrategias.</li>
 </ul>
 <!--lectura 1-->
-{% include iframe.html id="5dc5dd49ac4d580fc3e86b05" %}
+{% include iframe.html id="5dc5d24f691e7f0fc90450a6" %}
 <br/>
 <!-- video 1-->
 {% include iframe.html id="5dc7291efd67900fa17432d8" %}
