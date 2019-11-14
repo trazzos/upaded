@@ -50,30 +50,7 @@ altamente competitivo.</p>
 
 ### 2.1. Administración científica: Frederick Taylor
 
-<p>Con el desarrollo industrial, surgen diversas teorías administrativas; la primera de ellas es la
-Teoría de la Administración Científica, su principal representante es Frederick Taylor, un
-ingeniero y economista estadounidense al que se considera el padre de la administración
-científica.<p>
 
-<p class="center"><b>Ilustración 3.</b> Dato importante</p>
-{% include iframe.html id="5dc5d7adfd67900fa173d1f2" %}
-
-<p>La escuela de la administración científica estaba integrada por ingenieros, entre los que
-destacaron: Frederick Taylor, Henry Gantt, Frank Gilberth, Harrison Emerson, entre otros.</p>
-
-<p class="center"><b>Ilustración 4.</b> ¿Sabías qué?</p>
-{% include iframe.html id="5dc5d6be7ea65b0fa42a954d" %}
-
-<p>La administración científica se centra en incrementar la productividad de la empresa; para
-lograrlo se establecen acciones, como la división del trabajo en relaciòn al puesto y su
-análisis – básicamente sus tiempos y movimientos-, lo que conlleva la especialización.<p>
-
-<p>Los principios de la administración científica según Taylor son:</p>
-
-<p class="center"><b>Ilustración 5.</b> Principios de la administración científica según Taylor</p>
-{% include iframe.html id="5dc5c157d516280fb1f3c7e7" %}
-
-<p>A continuación, explicaremos brevemente en que consiste cada uno de estos principios (Chiavenato, 2006):</p>
  
 * test
 * test2
