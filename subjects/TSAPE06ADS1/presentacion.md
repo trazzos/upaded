@@ -24,13 +24,13 @@ subject_name: TSAPE06ADS1
 <h3 class="center">TABLA DE EVALUACIÓN</h3> 	
 <p>Para acreditar esta asignatura toma en cuenta los siguientes puntajes: </p>	 	
 
-{% include iframe.html id="5dc5dc06da9d3c0fab992e70" %}
+{% include iframe.html id="5dcd96b77fc1930f8123a9e2" %}
 
 <h3 class="center">METODOLOGÍA</h3>
 
 {% include iframe.html id="5da8c2ced65a790fdab8a16f" %}
 
-<h3 class="center">>ÁREA DE FORMACIÓN</h3>
+<h3 class="center">ÁREA DE FORMACIÓN</h3>
 <p>La Unidad de Aprendizaje <b>Administración</b>, correspondiente al primer semestre, pertenece al área de formación: </p>
 
 {% include iframe.html id="5da8c2f6c1d5c40fe0854afc" %}
