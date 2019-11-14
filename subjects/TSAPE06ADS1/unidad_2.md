@@ -74,7 +74,7 @@ análisis – básicamente sus tiempos y movimientos-, lo que conlleva la especi
 {% include iframe.html id="5dc5c157d516280fb1f3c7e7" %}
 
 <p>A continuación, explicaremos brevemente en que consiste cada uno de estos principios (Chiavenato, 2006):</p>
-
+ 
 * test
 * test2
 
