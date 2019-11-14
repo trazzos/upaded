@@ -215,11 +215,9 @@ toma de decisiones; por tanto es conveniente estudiarla así como definir su cla
 <p>Las empresas se clasifican según diversos criterios:</p>
 
 <p class="center"><b>Ilustración 12.</b> Criterios de clasificación de las empresas</p>
-{% include iframe.html id="5db7614ed760360fc5a8690e" %}
 
 <p>Las empresas por su actividad económica se clasifican de la siguiente forma:</p>
 <p class="center"><b>Ilustración 13.</b> Clasificación de las empresas por su actividad económica</p>
-{% include iframe.html id="5db74f69e0f7440f6e1800f1" %}
 
 <p>Estas empresas también pueden clasificarse por su tamaño en empresas grandes, medianas
 y pequeñas, dependiendo el número de empleados que tengan y su impacto en el mercado.</p>
@@ -231,13 +229,10 @@ y pequeñas, dependiendo el número de empleados que tengan y su impacto en el m
 <p>También podemos clasificar a las empresas según su capital de la siguiente forma:</p>
 
 <p class="center"><b>Ilustración 14.</b> Clasificación de las empresas según el origen de su capital</p>
-{% include iframe.html id="5db89523660ff50fd2914f7d" %}
 
 <!--lectura 4-->
-{% include iframe.html id="5dc5d7ff37333f0fb4c317b2" %}
 
 <!--video 4-->
-{% include iframe.html id="5dc5d172da9d3c0fab9928aa" %}
 
 ### 1.4. Áreas funcionales de la empresa
 
