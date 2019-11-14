@@ -87,34 +87,6 @@ competencias necesarias para ejercer de manera adecuada la función de administr
 Las funciones que deberá realizar el administrador se pueden clasificar en 3 grupos:</p>
 
 
-<p class="center"><b>Ilustración 7</b> Funciones informativas</p>
-{% include iframe.html id="5db0c245a926200faee25d33" %}
-
-<p>En la función como portavoz, el administrador deberá rendir informes a personas fuera de
-la organización, como en el caso de ruedas de prensa, cabildos y otras relaciones públicas.</p>
-
-<p>En la función de difusión, el administrador transmite información a los propios miembros
-de la organización, de manera grupal o individual, y de forma escrita o verbal.</p>
-
-<p>Entre las funciones de supervisión de la información que realiza el administrador, se
-encientran la resolución de problemas, anticipación de dificultades, revisión de informes,
-asistencia a juntas, entre otros.</p>
-
-Finalmente, entre las funciones que un administrador debe realizar se encuentran las
-referentes a la toma de decisiones, una labor nada sencilla y que según Moody (citado por
-Solano, 2003) inician con la identificación del problema, su estudio y reconocimiento para
-culminar con la definición de la solución al problema que requiere de la toma de decisión.</p>
-
-<p class="center"><b>Ilustración 8</b> Recuerda</p>
-{% include iframe.html id="5db0c8ff4e23080fd83afc92" %}
-
-<p>Chiavenato (2006) menciona que las funciones relativas a la toma de decisión deben
-realizarse desde principios éticos y consideraciones laborales, legales y de conducta; de
-forma semejante a los grupos de funciones anteriores, propone una división para este tipo
-de funciones:</p>
-
-<p class="center"><b>Ilustración 9.</b> Funciones decisoras</p>
-{% include iframe.html id="5db75aa72f25c30fde21f5b9" %}
 
 <p>En el manejo de conflictos, el administrador deberá planificar y aplicar acciones para la
 solución de momentos críticos como huelgas, fallas técnicas, demoras en abastos e
