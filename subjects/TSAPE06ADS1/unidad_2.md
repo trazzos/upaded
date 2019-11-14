@@ -11,13 +11,10 @@ subject_name: TSAPE06ADS1
 
 ---
 <p>Para comenzar esta unidad, observa el siguiente video:</p>
-{% include iframe.html id="5dc84e62fa23790fbe531911" %}
 
 <p>A continuación, te presentamos la competencia genérica y las competencias específicas de esta unidad:</p>
-{% include iframe.html id="5dc7295837333f0fb4c3673c" %}
 
 <p class="center"><b>Ilustración 1.</b> Mapa de contenido de la Unidad 1</p>
-{% include iframe.html id="5dc5b2ba1e0fb40f9e6ac79b" %}
 
 ### 1.1 Evolución de la administración
 
@@ -45,7 +42,6 @@ altamente competitivo.</p>
 época primitiva hasta el siglo XXI; que se presenta a continuación:</p>
 
 <p class="center"><b>Ilustración 2.</b> Evolución de la administración a través de la historia</p>
-{% include iframe.html id="5dc5b727fd67900fa173bc70" %}
 
 
 ### 2.1. Administración científica: Frederick Taylor
@@ -56,13 +52,11 @@ ingeniero y economista estadounidense al que se considera el padre de la adminis
 científica.</p>
 
 <p class="center"><b>Ilustración 3.</b> Dato importante</p>
-{% include iframe.html id="5dc5d7adfd67900fa173d1f2" %}
 
 <p>La escuela de la administración científica estaba integrada por ingenieros, entre los que
 destacaron: Frederick Taylor, Henry Gantt, Frank Gilberth, Harrison Emerson, entre otros.</p>
 
 <p class="center"><b>Ilustración 4.</b> ¿Sabías qué?</p>
-{% include iframe.html id="5dc5d6be7ea65b0fa42a954d" %}
 
 <p>La administración científica se centra en incrementar la productividad de la empresa; para
 lograrlo se establecen acciones, como la división del trabajo en relaciòn al puesto y su
@@ -71,7 +65,6 @@ análisis – básicamente sus tiempos y movimientos-, lo que conlleva la especi
 <p>Los principios de la administración científica según Taylor son:</p>
 
 <p class="center"><b>Ilustración 5.</b> Principios de la administración científica según Taylor</p>
-{% include iframe.html id="5dc5c157d516280fb1f3c7e7" %}
 
 <p>A continuación, explicaremos brevemente en que consiste cada uno de estos principios (Chiavenato, 2006):</p>
  
@@ -81,7 +74,6 @@ análisis – básicamente sus tiempos y movimientos-, lo que conlleva la especi
 * Principio de ejecución: establecer las facultades y responsabilidades en el trabajo.
 
 <p class="center"><b>Ilustración 6.</b> Recuerda</p>
-{% include iframe.html id="5dc5d6777ea65b0fa42a94f0" %}
 
 <!--lectura 1-->
 {% include iframe.html id="5dc5d244ac4d580fc3e86486" %}
