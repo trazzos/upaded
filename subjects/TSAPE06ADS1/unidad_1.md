@@ -80,38 +80,7 @@ las siguientes:</p>
 * Dirección del personal, y
 * Evaluación del desempeño.
 
-<p>Todas estas acciones requieren –como ya se mencionó con anterioridad- de una persona
-capacitada para su desarrollo; preferentemente un profesional de la administración con las
-competencias necesarias para ejercer de manera adecuada la función de administrar.
-<br>
-Las funciones que deberá realizar el administrador se pueden clasificar en 3 grupos:</p>
 
-
-
-<p>En el manejo de conflictos, el administrador deberá planificar y aplicar acciones para la
-solución de momentos críticos como huelgas, fallas técnicas, demoras en abastos e
-insumos, entre otras.</p>
-
-<p>En las funciones de negociador, llevará a cabo acuerdos con clientes, proveedores y
-autoridades; negociará contratos con el personal o sindicatos.</p>
-
-<p>Como emprendedor, el administrador debe planear, crear, innovar y mejorar productos,
-servicios y procesos.</p>
-
-<p>Y finalmente al asignar recursos, planea, programa y autoriza el presupuesto; incluyendo la
-ponderación de prioridades en diversos ámbitos como necesidades de maquinaria, equipo y
-salarios.</p>
-
-<p>Después de esta revisión exhaustiva de las funciones que un administrador realiza dentro de
-la empresa, se hace vital considerar que la ética con que éste cuente indicará en gran
-medida la dirección de sus acciones.</p>
-
-<p>Para Bolívar (2005), la ética profesional requiere la implementación de principios morales a
-la práctica de cualquier profesión, entre los que podemos mencionar la responsabilidad,
-solidaridad, sentido de justicia, actitud de servicio, entre otras.</p>
-
-<p class="center"><b>Ilustración 10.</b> ¿Sabías qué?</p>
-{% include iframe.html id="5da49cdf4e7d920f9b3d0252" %}
 
 <p>Entre los principios que deberá respetar el administrador se encuentras:</p>
 
