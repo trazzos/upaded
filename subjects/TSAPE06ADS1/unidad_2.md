@@ -62,6 +62,7 @@ científica.</p>
 destacaron: Frederick Taylor, Henry Gantt, Frank Gilberth, Harrison Emerson, entre otros.</p>
 
 <p class="center"><b>Ilustración 4.</b> ¿Sabías qué?</p>
+{% include iframe.html id="5dc5d6be7ea65b0fa42a954d" %}
 
 <p>La administración científica se centra en incrementar la productividad de la empresa; para
 lograrlo se establecen acciones, como la división del trabajo en relaciòn al puesto y su
@@ -70,6 +71,7 @@ análisis – básicamente sus tiempos y movimientos-, lo que conlleva la especi
 <p>Los principios de la administración científica según Taylor son:</p>
 
 <p class="center"><b>Ilustración 5.</b> Principios de la administración científica según Taylor</p>
+{% include iframe.html id="5dc5c157d516280fb1f3c7e7" %}
 
 <p>A continuación, explicaremos brevemente en que consiste cada uno de estos principios (Chiavenato, 2006):</p>
  
