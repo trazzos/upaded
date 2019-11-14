@@ -92,7 +92,7 @@ Las funciones que deberá realizar el administrador se pueden clasificar en 3 gr
 <p>Según Montoya (2006) la función interpersonal para el administrador implica el desarrollo
 de habilidades para el entendimiento del personal con sentido humano; es decir, de forma
 integral. Reconocer la complejidad del ser humano, lleva implícito concebir al ser humano
-como un ser racional y con emociones en constante búsqueda de la felicidad.<p>
+como un ser racional y con emociones en constante búsqueda de la felicidad.</p>
 
 <p>Entonces, el administrador se enfrenta al reto de alcanzar los objetivos propuestos para la
 empresa al tiempo que deberá valorar al equipo de trabajo a través de acciones que
@@ -113,7 +113,89 @@ como es el caso de contactos de negocios, relaciones comerciales, bancarias, ent
 estas funciones también se considera la participación del administrador en asociaciones
 comerciales o profesionales con la intención de generar una red de contactos.</p>
 
+<p>Las funciones interpersonales de liderazgo, están relacionadas con entrenamiento, escucha
+activa, capacitación, instrucción de órdenes y evaluación de logros propuestos.
+Todas estas funciones interpersonales requieren que el administrador se comunique de
+manera verbal y escrita, no solo con el personal a su cargo, si no también con los otros
+miembros de la organización – como gerentes, accionistas, entre otros-. Otra de las
+funciones del administrador es recibir, generar y difundir información (informativas).
+</p>
 
+<p>Chiavenato (2006) sugiere que las funciones informativas que deberá realizar el
+administrador son:</p>
+
+<p class="center"><b>Ilustración 7</b> Funciones informativas</p>
+{% include iframe.html id="5db0c245a926200faee25d33" %}
+
+<p>En la función como portavoz, el administrador deberá rendir informes a personas fuera de
+la organización, como en el caso de ruedas de prensa, cabildos y otras relaciones públicas.</p>
+
+<p>En la función de difusión, el administrador transmite información a los propios miembros
+de la organización, de manera grupal o individual, y de forma escrita o verbal.</p>
+
+<p>Entre las funciones de supervisión de la información que realiza el administrador, se
+encientran la resolución de problemas, anticipación de dificultades, revisión de informes,
+asistencia a juntas, entre otros.</p>
+
+Finalmente, entre las funciones que un administrador debe realizar se encuentran las
+referentes a la toma de decisiones, una labor nada sencilla y que según Moody (citado por
+Solano, 2003) inician con la identificación del problema, su estudio y reconocimiento para
+culminar con la definición de la solución al problema que requiere de la toma de decisión.</p>
+
+<p class="center"><b>Ilustración 8</b> Recuerda</p>
+{% include iframe.html id="5db0c8ff4e23080fd83afc92" %}
+
+<p>Chiavenato (2006) menciona que las funciones relativas a la toma de decisión deben
+realizarse desde principios éticos y consideraciones laborales, legales y de conducta; de
+forma semejante a los grupos de funciones anteriores, propone una división para este tipo
+de funciones:</p>
+
+<p class="center"><b>Ilustración 9.</b> Funciones decisoras</p>
+{% include iframe.html id="5db75aa72f25c30fde21f5b9" %}
+
+<p>En el manejo de conflictos, el administrador deberá planificar y aplicar acciones para la
+solución de momentos críticos como huelgas, fallas técnicas, demoras en abastos e
+insumos, entre otras.</p>
+
+<p>En las funciones de negociador, llevará a cabo acuerdos con clientes, proveedores y
+autoridades; negociará contratos con el personal o sindicatos.</p>
+
+<p>Como emprendedor, el administrador debe planear, crear, innovar y mejorar productos,
+servicios y procesos.</p>
+
+<p>Y finalmente al asignar recursos, planea, programa y autoriza el presupuesto; incluyendo la
+ponderación de prioridades en diversos ámbitos como necesidades de maquinaria, equipo y
+salarios.</p>
+
+<p>Después de esta revisión exhaustiva de las funciones que un administrador realiza dentro de
+la empresa, se hace vital considerar que la ética con que éste cuente indicará en gran
+medida la dirección de sus acciones.</p>
+
+<p>Para Bolívar (2005), la ética profesional requiere la implementación de principios morales a
+la práctica de cualquier profesión, entre los que podemos mencionar la responsabilidad,
+solidaridad, sentido de justicia, actitud de servicio, entre otras.</p>
+
+<p class="center"><b>Ilustración 10.</b> ¿Sabías qué?</p>
+{% include iframe.html id="5da49cdf4e7d920f9b3d0252" %}
+
+<p>Entre los principios que deberá respetar el administrador se encuentras:</p>
+
+<p class="center"><b>Ilustración 11.</b> Principios del administrador</p>
+{% include iframe.html id="5db8a6b303b2c50f881555b4" %}
+
+<!--lectura 3-->
+{% include iframe.html id="5dc5d80537333f0fb4c317c4" %}
+
+<!--video 2-->
+{% include iframe.html id="5dc5d1670f76f90fa487330e" %}
+
+<!--video 3-->
+{% include iframe.html id="5dc5d16c0f76f90fa4873315" %}
+
+<p>Excelente, has concluido de manera satisfactoria los temas 1.1. y 1.2, por lo tanto, se te
+invita a realizar la Actividad 1.
+
+{% include iframe.html id="5da8c317c1d5c40fe0854b11" %}
   
 ### 1.3 La empresa
 
