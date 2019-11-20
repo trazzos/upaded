@@ -14,7 +14,7 @@
       <div class="navigation-box">
         <div class="navigation-left">
           {% if page.subject_name && page.subject_folder %}
-          <a class="header-logo" href="../../..{{page.subject_folder}}{{page.subject_name}}/index.html"><img src="../../../assets/images/logo_upaded_4.png" alt="header logo"></a>
+          <a class="header-logo" href="../..{{page.subject_folder}}{{page.subject_name}}/index.html"><img src="../../assets/images/logo_upaded_4.png" alt="header logo"></a>
           {% endif%}
         </div>
 
@@ -38,7 +38,7 @@
               {% endif %}
 
               <li class="{{ active }}{% if link.submenu %} themeix-dropdown has-children{% endif %}">
-                <a href="../../..{{ link.url }}/index.html">{{ link.text }}</a>
+                <a href="../..{{ link.url }}/index.html">{{ link.text }}</a>
 
                 {% if link.submenu %}
                 <ul class="themeix-dropdown-item" role="menu">
