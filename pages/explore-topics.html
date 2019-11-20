@@ -10,20 +10,20 @@ keywords: "responsive,jekyll,minimal template"
          <div class="topics-wrapper section-spacing bminus-30">
             <div class="container">
                <div class="row">
-				{% assign groups = site.docs | group_by: "category_name" | sort: "name" %} {% for group in groups %}
-				<div class="col-md-6 col-lg-4">
-					<article class="topics-service bg-color3 wow fadeIn" data-wow-duration="3s">
-						<header class="topics-title">
-							<h4 class="heading-4 text-capitalize">{{ group.name }}</h4>
-						</header>
-						<ul class="topics-list list-inline">
-							{% for item in group.items limit:5 %}
-							<li><a href="{{item.url}}">{{item.title}}</a></li>
-							{%endfor%}
-						</ul>
-					</article>
-				</div>
-				{%endfor%}				  
+								 <!--Copiate este bloque-->
+								<div class="col-md-6 col-lg-4">
+									<article class="topics-service bg-color3 wow fadeIn" data-wow-duration="3s">
+										<header class="topics-title">
+											<h4 class="heading-4 text-capitalize">Nombre materia</h4>
+										</header>
+										<ul class="topics-list list-inline">
+											<li><a href="{{item.url}}">Link</a></li>
+											<li><a href="{{item.url}}">Link</a></li>
+											<li><a href="{{item.url}}">Link</a></li>
+										</ul>
+									</article>
+									<!--Hasta aqui-->
+								</div>
                </div>
             </div>
          </div>
@@ -31,8 +31,4 @@ keywords: "responsive,jekyll,minimal template"
 </section>
 <!-- End Topics Area -->
 
-
-
-    {% include call_to_action.html %}
-    {% include support_area.html %}
     {% include footer_top_area.html %}
