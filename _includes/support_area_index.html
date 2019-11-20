@@ -21,18 +21,18 @@
             <div class="row">
                 {% if page.subject_name %}
                 {% for link in site.data[page.subject_name].navigation %}
-                    {% if forloop.index == 1 %}
-                        {% continue %}
-                    {% endif %}
+                {% if forloop.index == 1 %}
+                {% continue %}
+                {% endif %}
                 <div class="col-md-6">
                     <article class="looking-for-service wow fadeInRight" data-wow-duration="1s">
                         <header class="looking-for-logo">
-                            <a href="../../..{{link.url}}/index.html"><img src="../../../assets/images/education_{{ forloop.index }}.png" alt="Unidad {{ forloop.index }}"></a>
+                            <a href="../..{{link.url}}/index.html"><img src="../../assets/images/education_{{ forloop.index }}.png" alt="Unidad {{ forloop.index }}"></a>
                         </header>
                         <footer class="looking-for-content">
-                            <h4 class="heading-4"><a href="../../..{{link.url}}/index.html">Unidad  {{ forloop.index0 }}</a></h4>
+                            <h4 class="heading-4"><a href="../..{{link.url}}/index.html">Unidad  {{ forloop.index0 }}</a></h4>
                             <p> {{link.description}}  </p>
-                            <a href="../../..{{link.url}}" class="btn-style3 btn mt-3">Ingresar</a>
+                            <a href="../..{{link.url}}" class="btn-style3 btn mt-3">Ingresar</a>
                         </footer>
                     </article>
                 </div>
