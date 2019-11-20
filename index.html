@@ -1,12 +1,32 @@
 ---
-layout: default
-
+layout: upaded_home
+title: Contenido
+description: "Contenido"
+keywords: "responsive,jekyll,minimal template"
 ---
-{% include header.html %}
-    {% if site.animated_header == "true" %}
-      {% include animated_header.html %}
-      {% else %}
-      {% include slider.html %}
-    {% endif %}
-    {% include header_bottom_area.html %}   
-    {% include footer.html %}
+
+<!-- Start Topics  Area -->
+<div class="topics-area bg-color1">
+  <div class="topics-wrapper section-spacing bminus-30">
+    <div class="container">
+      <div class="row">
+        <!--Copiate este bloque-->
+        <div class="col-md-6 col-lg-4">
+          <article class="topics-service bg-color3 wow fadeIn" data-wow-duration="3s">
+            <header class="topics-title">
+              <h4 class="heading-4 text-capitalize">Nombre materia</h4>
+            </header>
+            <ul class="topics-list list-inline">
+              <li><a href="{{item.url}}">Link</a></li>
+              <li><a href="{{item.url}}">Link</a></li>
+              <li><a href="{{item.url}}">Link</a></li>
+            </ul>
+          </article>
+          <!--Hasta aqui-->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<!-- End Topics Area -->
