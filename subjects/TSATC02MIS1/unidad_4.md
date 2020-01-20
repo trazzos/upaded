@@ -235,7 +235,7 @@ subject_name: TSATC02MIS1
     </tbody>
 </table></div></div>
 <p align="center">Fuente: UP@DED (2019).</p>
-<p align="justify">La base de datos permite tener en un archivo las respuestas a los cuestionarios planteados; puede ser elaborada en Excel, Word, entre otros. Cuando no se cuenta herramientas electrónicas, debe realizarse de forma manual en hojas blancas o libreta.</p>
+<p align="justify">La base de datos permite tener en un archivo las respuestas a los cuestionarios planteados; puede ser elaborada en Excel, Word, entre otros. Cuando no se cuenta con herramientas electrónicas, debe realizarse de forma manual en hojas blancas o libreta.</p>
 <p align="justify">Una vez integrada la base de datos, se procede a su análisis para generar resultados de investigación.</p>
 <p align="justify">La secuencia para realizar el análisis de resultados es la siguiente:</p>
 <p align="center"><b>Ilustración 17.</b> Secuencia del análisis de resultados</p>
