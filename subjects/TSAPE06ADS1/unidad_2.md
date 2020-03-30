@@ -16,10 +16,10 @@ subject_name: TSAPE06ADS1
 <p>A continuación, te presentamos la competencia genérica y las competencias específicas de esta unidad:</p>
 {% include iframe.html id="5dc7295837333f0fb4c3673c" %}
 
-<p class="center"><b>Ilustración 1.</b> Mapa de contenido de la Unidad 1</p>
+<p class="center"><b>Ilustración 1.</b> Mapa de contenido de la Unidad 2</p>
 {% include iframe.html id="5dc5b2ba1e0fb40f9e6ac79b" %}
 
-### 1.1 Evolución de la administración
+### 2.1 Evolución de la administración
 
 <p>Desde sus inicios, la humanidad ha realizado prácticas administrativas; sin embrago, en un
 principio, fueron de grado elemental hasta llegar a la revolución industrial donde la
