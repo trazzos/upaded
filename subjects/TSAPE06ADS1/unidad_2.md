@@ -306,7 +306,7 @@ en la organización.
 {% include iframe.html id="5dc5d7ff37333f0fb4c317b2" %}
 
 <!--video 6-->
-{% include iframe.html id="5dc7292837333f0fb4c3672e" %}
+{% include iframe.html id="5dc72923fd67900fa17432df" %}
 
 Excelente, has concluido de manera satisfactoria los temas 2.3. y 2.4, por lo tanto, se te
 invita a realizar la Actividad 4
