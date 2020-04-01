@@ -273,7 +273,6 @@ y obligaciones.
 * Impersonalidad de las relaciones, las cuales se establecen entre puestos de
 trabajo, sin darle importancia a las personas que lo ocupan. La autoridad se da
 porque así lo dictan los cargos y sus funciones.
-
 * Jerarquía de la autoridad. La burocracia es una estructura social jerárquicamente
 organizada.
 * Rutinas y procedimientos estandarizados. Las reglas y normas establecen las
