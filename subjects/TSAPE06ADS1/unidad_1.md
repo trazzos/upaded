@@ -213,11 +213,11 @@ toma de decisiones; por tanto es conveniente estudiarla así como definir su cla
 
 <p>Las empresas se clasifican según diversos criterios:</p>
 
-<p class="center"><b>Ilustración 12.</b> Criterios de clasificación de las empresas</p>
+<p class="center"><b>Ilustración 13.</b> Criterios de clasificación de las empresas</p>
 {% include iframe.html id="5db7614ed760360fc5a8690e" %}
 
 <p>Las empresas por su actividad económica se clasifican de la siguiente forma:</p>
-<p class="center"><b>Ilustración 13.</b> Clasificación de las empresas por su actividad económica</p>
+<p class="center"><b>Ilustración 14.</b> Clasificación de las empresas por su actividad económica</p>
 {% include iframe.html id="5db74f69e0f7440f6e1800f1" %}
 
 <p>Estas empresas también pueden clasificarse por su tamaño en empresas grandes, medianas
@@ -229,7 +229,7 @@ y pequeñas, dependiendo el número de empleados que tengan y su impacto en el m
 
 <p>También podemos clasificar a las empresas según su capital de la siguiente forma:</p>
 
-<p class="center"><b>Ilustración 14.</b> Clasificación de las empresas según el origen de su capital</p>
+<p class="center"><b>Ilustración 15.</b> Clasificación de las empresas según el origen de su capital</p>
 {% include iframe.html id="5db89523660ff50fd2914f7d" %}
 
 <!--lectura 4-->
@@ -255,20 +255,20 @@ que nos garanticen su funcionalidad metódica.</p>
 relacionada con las actividades que cada una deberá realizar, considerando que estas áreas
 son:</p>
 
-<p class="center"><b>Ilustración 15.</b> Áreas funcionales de la empresa</p>
+<p class="center"><b>Ilustración 16.</b> Áreas funcionales de la empresa</p>
 {% include iframe.html id="5db74ea87a88bd0fcba17ea3" %}
 
-<p class="center"><b>Ilustración 16.</b> Dato importante</p>
+<p class="center"><b>Ilustración 17.</b> Dato importante</p>
 {% include iframe.html id="5da8c34cc1d5c40fe0854b31" %}
 
-<p class="center"><b>Ilustración 17.</b> ¿Sabias qué?</p>
+<p class="center"><b>Ilustración 18.</b> ¿Sabias qué?</p>
 {% include iframe.html id="5db0b863498d200fe48c4b85" %}
 
 <p>El área responsable de registrar, controlar y administrar el capital de la empresa, así como
 sus flujos de dinero es el área de finanzas. El capital puede presentarse el efectivo, bancos,
 pagos y cobranzas.</p>
 
-<p class="center"><b>Ilustración 18.</b> Área de Dirección</p>
+<p class="center"><b>Ilustración 19.</b> Área de Dirección</p>
 {% include iframe.html id="5db89b5c0999ad0fd8ff2655" %}
 
 <p>Por su parte, en el área de innovación, las actividades que se realizan tienen por objeto
@@ -277,13 +277,8 @@ buscar nuevos mercados, productos y procesos para la empresa.</p>
 <p>Desde otra perspectiva, se presenta una categorización de las áreas funcionales (David,
 2003):</p>
 
-<p class="center"><b>Ilustración 19.</b> Áreas funcionales de la empresa</p>
+<p class="center"><b>Ilustración 20.</b> Áreas funcionales de la empresa</p>
 {% include iframe.html id="5db0c30f4e23080fd83af75b" %}
-
-<p>En el área de dirección, se coordinan las actividades
-relacionadas con la toma de decisiones sobre le rumbo de la
-empresa, la capacitación y motivación del personal, entre
-otros.</p>
 
 <p>Haciendo un comparativo entre la propuesta de Cedeño (2015) y David (2003), podemos
 notar que aunque las áreas se denominan de formas diferentes, se hace evidente que las
@@ -291,14 +286,14 @@ actividades que comprenden cada una de ellas son semejantes en su clasificación
 nos permite definir que para fines de esta materia, las áreas funcionales de la empresa son
 las siguientes:</p>
 
-<p class="center"><b>Ilustración 20.</b> Áreas funcionales de la empresa</p>
+<p class="center"><b>Ilustración 21.</b> Áreas funcionales de la empresa</p>
 {% include iframe.html id="5db74edd6c1b2e0fd2752b45" %}
 
-<p class="center"><b>Ilustración 21.</b> Indaga</p>
+<p class="center"><b>Ilustración 22.</b> Indaga</p>
 {% include iframe.html id="5da8c33429a09a0fd4505df1" %}
 
 <!--lectura 5-->
-{% include iframe.html id="5dc5d7f91e0fb40f9e6ae01f" %}
+{% include iframe.html id="5e85105a5870c50e3265772a" %}
 
 <!--video 5-->
 {% include iframe.html id="5da8c34696da780fc0ae0dbb" %}
@@ -307,5 +302,5 @@ Excelente, has concluido de manera satisfactoria los temas 1.3. y 1.4, por lo ta
 invita a realizar la Actividad 2, 
 {% include iframe.html id="5da8c32ea3bbd00feeccd9b6" %}
 
-<p class="center"><b>Ilustración 22.</b> Criterios de evaluación</p>
+<p class="center"><b>Ilustración 23.</b> Criterios de evaluación</p>
 {% include iframe.html id="5da8c320a3bbd00feeccd99c" %}
