@@ -19,8 +19,6 @@ subject_name: TSAPE06ADS1
 <p class="center"><b>Ilustración 1.</b> Mapa de contenido de la Unidad 2</p>
 {% include iframe.html id="5dc5b2ba1e0fb40f9e6ac79b" %}
 
-### 2.1 Evolución de la administración
-
 <p>Desde sus inicios, la humanidad ha realizado prácticas administrativas; sin embrago, en un
 principio, fueron de grado elemental hasta llegar a la revolución industrial donde la
 modernidad y especialización dieron pie a la concepción de la administración como una
@@ -90,7 +88,7 @@ análisis – básicamente sus tiempos y movimientos-, lo que conlleva la especi
 {% include iframe.html id="5dc72919fd67900fa17432d1" %}
 
 <!--video 2-->
-{% include iframe.html id="5dc72939d516280fb1f422e2" %}
+{% include iframe.html id="5dc72933fd67900fa1743464" %}
 
 Una vez que has revisado el contenido del Tema 2.1. Participa en el Foro 2:
 {% include iframe.html id="5dc727d48101d90f9e9d805a" %}
@@ -195,10 +193,6 @@ empleado adecuado para la función.</p>
 compañía de Roethlisberger y otros investigadores el experimento Hawthorne, que
 fundamentó la propuesta de las funciones básicas de la organización (Chiavenato, 2006).</p>
 
-<p>El enfoque humanista surge con el desarrollo de
-las ciencias sociales y la psicología del trabajo
-alrededor de los años 30.</p>
-
 <p class="center"><b>Ilustración 12.</b> Funciones básicas de la organización según Roethlisberger</p>
 {% include iframe.html id="5dc5c9b3da9d3c0fab99258a" %}
 
@@ -291,6 +285,7 @@ desempeño de su labor.
 * Especialización de la administración. El administrador es un profesional
 especialista en administrar la organización; no debe tener relación de propiedad
 con la empresa para garantizar la eficiencia en el desempeño de sus funciones.
+* Profesionalización de los participantes. Cada puesto de trabajo deberá ser 
 ocupado por un especialista, asalariado cuyo mando superior cumple con los
 mismos requisitos. En función de sus méritos puede “hacer carrera” dentro de la
 empresa por tiempo indeterminado.
