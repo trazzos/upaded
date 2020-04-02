@@ -26,7 +26,7 @@ subject_name: TSAPE06ADS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc5b3408101d90f9e9d14b6" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Recordemos que la estructura de la empresa se define desde la etapa de planeación estratégica del proceso administrativo y se refleja en el organigrama presente en el manual de organización. </p>
-<p align="justify">Cada una de las áreas funcionales básicas de la empresa (Ilustración 4), serán estudiadas en los temas que componen la presenta unidad.</p>
+<p align="justify">Cada una de las áreas funcionales básicas de la empresa (Ilustración 3), serán estudiadas en los temas que componen la presenta unidad.</p>
 <p align="center"><b>Ilustración 3.</b> Áreas funcionales básicas de la empresa</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc5b441d516280fb1f3be6a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
