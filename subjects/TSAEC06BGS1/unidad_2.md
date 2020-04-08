@@ -20,12 +20,12 @@ subject_name: TSAEC06BGS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 41.67%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="500px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc30a8b3c6e380fb5f0660e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <h3>2.1 Virus y células procariotas</h3>
-<p align="justify">Desde hace unos 200 millones de años, los virus han coexistido con otros organismos del planeta, sin embargo, el estudio científico de estas macromoléculas parasitarias es más reciente (Berrueta, 2015). Mediante estudios clínicos que se realizaron en el siglo XIX, se reconoció como un agente etiológico, por ser una entidad física, química o biológica que puede causar enfermedades específicas a un organismo (Berrueta, 2015).</p>
-<p align="justify">Los virus no son considerados seres vivos, debido a que no se relacionan, no se nutren y tampoco se reproducen por sí mismos, pues para hacerlo necesitarían que su ADN esté dentro de una célula a la que infectaran. Estas macromoléculas poseen en su estructura una caja de proteínas llamada cápsida, que puede variar en su forma y tiene información genética en su interior (ADN o ARN).</p>
+<p align="justify">Desde hace unos 200 millones de años, los virus han coexistido con otros organismos del planeta, sin embargo, el estudio científico de estas macromoléculas parasitarias es más reciente (Uribarren Berrueta, 2015). Mediante estudios clínicos que se realizaron en el siglo XIX, se reconocieron a los virus  como agentes etiológicos, por ser entidades físicas, químicas o biológicas que puede causar enfermedades específicas en organismos (Uribarren Berrueta, 2015).</p>
+<p align="justify">Los virus no son considerados seres vivos, porque no se relacionan, no se nutren y tampoco se reproducen por sí mismos, para hacerlo necesitan que su ADN esté dentro de una célula a la que infectan. Estas macromoléculas poseen en su estructura una caja de proteínas llamada cápside, que puede variar en su forma y tiene información genética en su interior (ADN o ARN).</p>
 <p align="center"><b>Ilustración 2.</b> Estructura general de un virus</p>
 <p align="center"><img src="/upaded/assets/images/bg_u2_02.PNG" alt=""></p>
 <p align="center">Fuente: Shors (2009). </p>
-<p align="justify">En el siglo XXI, se sabe que los virus tienen varias propiedades en común, en primer lugar, son pequeños aun comparándolos con la bacteria más pequeña, suelen medir entre 30 y 90 nm (nanómetros), por lo que son  capaces de pasar a través de los filtros que retienen o atrapan a la mayoría de las bacterias, además los virus son agentes causantes de enfermedades como: virus del mosaico del tabaco, influenza, entre otros (Shors, 2009).</p>
+<p align="justify">Desde el siglo XXI se sabe que los virus tienen varias propiedades en común, en primer lugar, son pequeños aun comparándolos con la bacteria más pequeña, suelen medir entre 30 y 90 nm (nanómetros), por lo que son capaces de pasar a travésde los filtros que retienen o atrapan a la mayoría de las bacterias  además los virus son agentes causantes de enfermedades como el virus del mosaico del tabaco, influenza, entre otros (Shors, 2009).</p>
 <p align="justify"><b>Replicación de un virus </b></p>
 <p align="justify">Para que un virus pueda replicarse necesita:</p>
 <ul class="unorder-list">
@@ -42,19 +42,19 @@ subject_name: TSAEC06BGS1
 <p align="center"><b>Ilustración 4.</b> ¿Sabías qué?</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc30f93ed1c980faf200072" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify">Los virus están constituidos de una cadena de ácido nucleico, DNA o RNA, envuelta en una capa proteínica, no son células, porque  su estructura y composición son más simples al que presenta la célula procariota. Es importante considerar que son parásitos obligados, es decir, requieren una célula viva para su propagación y requieren utilizar hospederos específicos para su replicación; son muy pequeños en comparación con la mayoría de los microorganismos (Pelczar, 1984).</p>
+<p align="justify">Los virus están constituidos de una cadena de ácido nucleico, DNA o RNA, envuelta en una capa proteínica, no son células, porque  su estructura y composición son más simples al que presenta la célula procariota. Es importante considerar que son parásitos obligados, es decir, requieren una célula viva para su propagación y utilizan hospederos específicos para su replicación; son muy pequeños en comparación con la mayoría de los microorganismos (Alberts et al, 2004).</p>
 <p align="justify">Existen dos ciclos de la replicación de los virus, el  lítico y el  lisogénico.</p>
-<p align="center"><b>Ilustración 5.</b> Ciclo de la replicación del virus </p>
+<p align="center"><b>Ilustración 5.</b> Ciclos de la replicación del virus </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc31008869cc50fb47d69cf" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify"><b>Célula procariota</b></p>
 <p align="justify">El término procariota hace referencia a los organismos pertenecientes al dominio Prokaryota, cuyo concepto coincide con el reino Monera de las clasificaciones de Herbert Copeland o Robert Whittaker.</p>
-<p align="justify">Una célula procariota o procarionte es un organismo unicelular anucleado, donde el material genético no se encuentra encapsulado por una membrana, si no disperso en el citoplasma. La célula procariota presenta una estructura poco especializada que aglutina el material genético en un espacio denominado nucleoide.</p>
-<p align="justify">El ejemplo típico de este tipo de células son las bacterias, que son los organismos más simples que se conocen, de ellas existen aproximadamente 5000 especies, las cuales poseen una morfología muy variada y conservan una estructura básica común integrada por células pequeñas constituidas por una membrana plasmática y una estructura por fuera de las mismas, que la envuelve completamente, la cual se denomina pared celular (Aljanati, 2004).</p>
+<p align="justify">Una célula procariota o procarionte es un organismo unicelular anucleado, donde el material genético no se encuentra encapsulado por una membrana, está disperso en el citoplasma. La célula procariota presenta una estructura poco especializada que aglutina el material genético en un espacio denominado nucleoide.</p>
+<p align="justify">El ejemplo típico de este tipo de células son las bacterias, que son los organismos más simples que se conocen, de ellas existen aproximadamente 5000 especies, las cuales poseen una morfología muy variada y conservan una estructura básica común integrada por células pequeñas constituidas por una membrana plasmática y una estructura por fuera de las mismas, que las envuelve completamente, la cual se denomina pared celular (Aljanati, 2004).</p>
 <p align="center"><b>Ilustración 6.</b> Estructura general de la célula procariota</p>
 <p align="center"><img src="/upaded/assets/images/bg_u2_06.PNG" alt=""></p>
 <p align="center">Fuente: UP@DED (2019), con información de  Aljanati (2004).</p>
-<p align="justify">Una característica de este tipo de célula, es que su ADN bacteriano se encuentra esparcido en el citoplasma en una zona denominada nucleoide,  es decir, su material genético no se encuentra separado del resto del citoplasma por membranas, entonces se considera que no poseen un núcleo celular,  por esta razón reciben el nombre de <b><u>Procariotas</u></b> (Aljanati, 2004).</p>
+<p align="justify">Una característica de este tipo de célula, es que su ADN bacteriano se encuentra esparcido en el citoplasma en una zona denominada nucleoide,  es decir, su material genético no se encuentra separado del resto del citoplasma por membranas, entonces se considera que no posee un núcleo celular,  por esta razón reciben el nombre de <b><u>Procariotas</u></b> (Aljanati, 2004).</p>
 <p align="justify">Las características distintivas de los procariontes, además de que carecen de envoltura nuclear, son las siguientes:</p>
 <ul>
     <li>Su tamaño es muy pequeño. Una bacteria típica varía entre 0.2 y 2.0 µm (micras) de diámetro y de 2 a 8 de longitud. </li>
@@ -63,13 +63,13 @@ subject_name: TSAEC06BGS1
     <li>La nutrición de los procariontes es muy variada:
     <ul>
         <li><b>Fotoautótrofos, </b>que utilizan la energía del Sol y el bióxido de carbono como fuente de carbono</li>
-        <li><b>Fotoheterótrofos, </b>que usan luz solar como fuente de energía, pero compuestos orgánicos como fuente de carbono</li>
+        <li><b>Fotoheterótrofos, </b>que usan luz solar como fuente de energía y compuestos orgánicos como fuente de carbono</li>
         <li><b>Quimioheterótrofos, </b>que tienen como fuente de energía y de carbono compuestos orgánicos</li>
         <li><b>Quimioautótrofos, </b>que obtienen la energía de la oxidación de compuestos inorgánicos, como sulfuro de hidrógeno, y el bióxido de carbono como su fuente principal de carbono</li>
     </ul></li>
     <li>No tienen organelos membranosos. </li>
     <li>Tienen una cadena cerrada de ácido desoxirribonucleico (ADN). Además, algunas bacterias poseen pequeñas cantidades de ADN llamadas plásmidos, que contienen genes.</li>
-    <li>No presentan citoesqueleto, aunque se han descubierto filamentos sencillos hechos de proteínas similares a las que forman parte del citoesqueleto en las células eucariontes,  (UNAM, 2010).</li>
+    <li>No presentan citoesqueleto, aunque se han descubierto filamentos sencillos hechos de proteínas similares a las que forman parte del citoesqueleto en las células eucariontes (UNAM, 2010).</li>
 </ul>
 <p align="justify"><b>Clasificación</b></p>
 <p align="justify">Históricamente, los procariotas han sido clasificados sobre la base de características como su forma, medios de locomoción, pigmentos, necesidades nutrimentales y propiedades de tinción (Aljanati, 2004).</p>
@@ -80,14 +80,14 @@ subject_name: TSAEC06BGS1
 <p align="center"><b>Ilustración 8.</b> Clasificación de la célula procariota</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 79.17%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="950px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc317f37ba8460f9f774047" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify">Las células procariotas fueron las primeras formas de vida en la tierra, siendo organismos unicelulares con organización no especializada, dicha característica de simpleza permitió que mediante la evolución y la diversificación de funciones generarán elementos necesarios para su permanencia, dando origen a la diversificación de esta especie.</p>
+<p align="justify">Las células procariotas fueron las primeras formas de vida en el planeta Tierra, siendo organismos unicelulares con organización no especializada, dicha característica de simpleza permitió que mediante la evolución y diversificación de funciones se generaran elementos necesarios para su permanencia, dando origen a la diversificación de este grupo.</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc31ba65ef63e0f6a7ea026" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc31bb48adbaa0f8a057267" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc31bbd8adbaa0f8a057279" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify">Además, revisa los siguientes videos en los cuales el autor nos presenta los procesos de rompimiento celular que afecta a las bacterias y la importancia de la célula procariota. </p>
+<p align="justify">Además, revisa los siguientes videos en los cuales el autor nos presenta los procesos de rompimiento celular que afectan a las bacterias y la importancia de la célula procariota. </p>
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc31c9929360e0fc3fc505f" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
@@ -104,16 +104,16 @@ subject_name: TSAEC06BGS1
 </ul>
 <p align="center"><b>Ilustración 9.</b> La célula eucariota.</p>
 <p align="center"><img src="/upaded/assets/images/bg_u2_09.PNG" alt=""></p>
-<p align="center">Fuente: Aljari (2004).</p>
-<p align="justify">La célula eucariota se caracteriza por la presencia de un núcleo; en su interior se encuentra el material genético; tienen un tamaño que oscila entre las 10 y las 100 µm. Además presenta un mayor grado de organización en sus organelos, al presentar en su interior estructuras complejas  (Maria, 2012). </p>
+<p align="center">Fuente: Aljanati (2004).</p>
+<p align="justify">La célula eucariota se caracteriza por la presencia de un núcleo; en su interior se encuentra el material genético; tienen un tamaño que oscila entre las 10 y las 100 micras (µm). Además presenta un mayor grado de organización en sus organelos, al presentar en su interior estructuras complejas  (Hernández, Martínez y Plaza,  2016). </p>
 <p align="center"><b>Ilustración 10.</b> Clasificación de la célula eucariota</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc329388adbaa0f8a058109" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify"><b>Célula eucariota animal</b></p>
 <p align="center"><b>Ilustración 11.</b> Estructura de célula eucariota animal</p>
 <p align="center"><img src="/upaded/assets/images/bg_u2_11.PNG" alt=""></p>
-<p align="center">Fuente: Mente cida (2011).</p>
-<p align="justify">Las células animal y vegetal, son consideradas como células eucariotas por la especialización que presentan y también porque denotan los mismos organelos, en la ilustración siete, se observan las partes fundamentales de una célula animal.</p>
+<p align="center">Fuente: UP@DED (2019), con información de  Hernández, Martínez y Plaza  (2016).</p>
+<p align="justify">Las células animal y vegetal, son consideradas como células eucariotas por la especialización que presentan y también porque denotan los mismos organelos, en la ilustración 11, se observan las partes fundamentales de una célula animal.</p>
 <ul class="unorder-list">
     <p align="justify"><b>1. </b>Membrana plasmática </p>
     <p align="justify"><b>2. </b>Citoplasma </p>
@@ -136,16 +136,16 @@ subject_name: TSAEC06BGS1
 <p align="justify"><b>Vacuolas: </b>Vesículas membranosas encargadas de almacenar sustancias, es importante considerar que tiene muy poca importancia en la célula eucariota animal.</p>
 <br>
 <p align="justify"><b>Organelos con doble membrana </b></p>
-<p align="justify"><b>Mitocondrias: </b>Organelos formados por una doble membrana que se encargan de la respiración celular (obtener energía) (Maria, 2012).</p>
+<p align="justify"><b>Mitocondrias: </b>Organelos formados por una doble membrana que se encargan de la respiración celular (obtener energía) (Hernández, Martínez y Plaza,  2016).</p>
 <br>
 <p align="justify"><b>Célula eucariota vegetal</b></p>
 <p align="center"><b>Ilustración 12.</b> Estructura de célula eucariota vegetal.</p>
 <p align="center"><img src="/upaded/assets/images/bg_u2_12.PNG" alt=""></p>
-<p align="center">Fuente: Biología y Geología (2018).</p>
+<p align="center">Fuente: UP@DED, 2019, con información de  Hernández, Martínez y Plaza,  (2016).</p>
 <p align="justify">Los elementos que integran a esta célula son las siguientes: </p>
 <p align="justify"><b>Pared celular: </b>Envoltura externa de la membrana plasmática, está formada por celulosa que brinda consistencia y rigidez a las células.</p>
 <p align="justify"><b>Vacuola: </b>Son vesículas de almacenamiento, ocupan casi todo el citoplasma. </p>
-<p align="justify"><b>Cloroplasto: </b>Organelos de doble membrana que se encargan de la fotosíntesis, contiene clorofila, que es el pigmento que les proporciona el color verde a las plantas y que capta la energía lumínica (Maria, 2012).</p>
+<p align="justify"><b>Cloroplasto: </b>Organelos de doble membrana que se encargan de la fotosíntesis, contiene clorofila, que es el pigmento que les proporciona el color verde a las plantas y que capta la energía lumínica (Hernández, Martínez y Plaza,  2016).</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc32d6e3c6e380fb5f085a7" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc32d815ef63e0f6a7ea860" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
@@ -157,21 +157,21 @@ subject_name: TSAEC06BGS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc32ec12591110f7019f9e3" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <h3>2.3 Fisiología de la célula eucariota</h3>
-<p align="justify">Como hemos mencionado antes las células eucariotas son todas aquellas células que tienen su material hereditario fundamental (su información genética) encerrado dentro de una doble membrana, la membrana nuclear, la cual delimita un núcleo celular. Filológicamente es el orgánulo que permite sincronizar las funciones y poder heredar durante la reproducción sus características. Estas células son microscópicas, pero de tamaño grande y estructuración compleja en comparación a otras células. A diferencia de las células procariotas, no cuentan con un compartimiento alrededor de la membrana plasmática (periplasma)). </p>
-<p align="justify">Las funciones de las partes que integran los organelos de la célula eucariota, se describen a continuación (Megías, 2017:</p>
+<p align="justify">Como hemos mencionado antes las células eucariotas son todas aquellas células que tienen su material hereditario fundamental (su información genética) encerrado dentro de una doble membrana, la membrana nuclear, la cual delimita un núcleo celular. Filológicamente es el orgánulo que permite sincronizar las funciones y poder heredar durante la reproducción sus características. Estas células son microscópicas, pero de tamaño grande y estructuración compleja en comparación a otras células. A diferencia de las células procariotas, no cuentan con un compartimento alrededor de la membrana plasmática (periplasma)). </p>
+<p align="justify">Las funciones de las partes que integran los organelos de la célula eucariota, se describen a continuación, con información de Megías, Molish y Pombal, 2017:</p>
 <p align="justify"><b>Membrana celular o plasmática</b></p>
 <p align="justify">La célula se encuentra rodeada por una membrana que delimita el territorio al mismo tiempo que controla el contenido químico de la misma, a través de esta membrana, se transmiten mensajes químicos que permiten a las células realizar numerosas funciones. </p>
 <p align="justify"><b>Núcleo</b></p>
-<p align="justify">Está rodeado por una membrana,  tiene  forma esférica y un diámetro de 5µ. En el interior del núcleo, las moléculas de ADN y proteínas se encuentran organizadas en cromosomas, que tiene en si estructura información genética. </p>
+<p align="justify">Está rodeado por una membrana,  tiene  forma esférica y un diámetro de 5 µm (micras). En el interior del núcleo, las moléculas de ADN y proteínas se encuentran organizadas en cromosomas, que tienen en su estructura información genética. </p>
 <p align="center"><b>Ilustración 13.</b> ¿Sabías qué?</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc33367857bd20f90a76e04" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify"><b>El citoplasma y el citosol</b></p>
 <p align="justify">El citoplasma está formado por el citosol y orgánulos, por lo que comprende la mayor parte de la célula, a excepción del núcleo. </p>
-<p align="justify">En el citosol se producen muchas de las funciones de conservación celular, como las primeras etapas de descomposición de moléculas nutritivas y la asimilación de las grandes moléculas que constituyen la célula. Se presenta en forma de gel o fluido solido, el cual contiene moléculas grandes y pequeñas, sobre ella se encuentran suspendidos los organelos (Megías, 2017).</p>
+<p align="justify">En el citosol se producen muchas de las funciones de conservación celular, como las primeras etapas de descomposición de moléculas nutritivas y la asimilación de las grandes moléculas que constituyen la célula. Se presenta en forma de gel o fluido solido, el cual contiene moléculas grandes y pequeñas, sobre ella se encuentran suspendidos los organelos (Megías, Molish, y Pombal, 2017).</p>
 <p align="center"><b>Ilustración 14.</b> Célula eucariota</p>
 <p align="center"><img src="/upaded/assets/images/bg_u2_14.PNG" alt=""></p>
-<p align="center">Fuente: Lifeder (2019)</p>
+<p align="center">Fuente: Megías, Molish, y Pombal  (2017).</p>
 <p align="justify"><b>Citoesqueleto</b></p>
 <p align="justify">Las células que tienen en su estructura el organelo denominado citoesqueleto, manifiestan forma y organización interna, además tiene filamentos de proteínas del citosol. A las células animales este organelo les proporciona forma y rigidez.</p>
 <p align="center"><b>Ilustración 15.</b> Citoesqueleto</p>
@@ -181,16 +181,16 @@ subject_name: TSAEC06BGS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc336397ba8460f9f77566a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify"><b>Ribosomas</b></p>
-<p align="justify">Son estructuras de forma redonda que se encuentran en todas las células, su función primordial es trasmitir y portar información genética, a partir de la síntesis de proteínas con la información existente en la célula (Dinkova, 2010). </p>
+<p align="justify">Son estructuras de forma redonda que se encuentran en todas las células, su función primordial es transmitir y portar información genética, a partir de la síntesis de proteínas con la información existente en la célula (Dinkova y Sánchez de Jiménez, 2010). </p>
 <p align="justify"><b>Retículo Endoplasmático</b></p>
-<p align="justify">Es una red compleja, compuesta de membranas interconectadas que se extiende por todo el citoplasma y conecta con la membrana nuclear y plasmática. Se localiza en la célula animal y vegetal, pero no en la célula procariota. La principal función de este organelo es la síntesis y el transporte de las proteínas (Dinkova, 2010). </p>
+<p align="justify">Es una red compleja, compuesta de membranas interconectadas que se extiende por todo el citoplasma y conecta con la membrana nuclear y plasmática. Se localiza en la célula animal y vegetal, pero no en la célula procariota. La principal función de este organelo es la síntesis y el transporte de proteínas (Dinkova y Sánchez de Jiménez, 2010). </p>
 <p align="justify"><b>Aparato de Golgi</b></p>
 <p align="justify">Es una agrupación formada por un apilamiento de sacos de forma discoidal (cisternas), no comunicados entre sí, y rodeados por un conjunto de pequeñas vesículas. Se origina a partir de la envoltura nuclear o del retículo endoplasmático.</p>
 <p align="center"><b>Ilustración 17.</b> Aparato de Golgi</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc337fbbf09400faf701191" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify"><b>Lisosoma</b></p>
-<p align="justify">Son los organelos encargados de la digestión de moléculas no útiles para el funcionamiento de la célula, para ello contienen reservas de enzimas para su desecho. Su función principal es intervenir en la digestión intracelular de macromoléculas (Megías, 2017).</p>
+<p align="justify">Son los organelos encargados de la digestión de moléculas no útiles para el funcionamiento de la célula, para ello contienen reservas de enzimas para su desecho. Su función principal es intervenir en la digestión intracelular de macromoléculas (Megías, Molish y Pombal, 2017).</p>
 <p align="justify"><b>Peroxisomas</b></p>
 <p align="justify">Las funciones de los peroxisomas son dos, la primera es intervenir en la desaminación oxidativa de los aminoácidos y degradan los ácidos grasos; la segunda función es participar en reacciones de desintoxicación.</p>
 <p align="justify"><b>Vacuolas</b></p>
@@ -215,11 +215,11 @@ subject_name: TSAEC06BGS1
 <br/>
 <h3>2.4 Clasificación de los seres vivos</h3>
 <p align="justify">Existe una variedad asombrosa de formas de vida con características generales, situación que ha permitido conocerlos, ordenarlos y clasificarlos (Audesirk, Audesirk, y Byers, 2003).</p>
-<p align="justify">Los naturalistas han pretendido describir la diversidad del mundo natural con apoyo de la biología sistemática, determinándose que todos los organismos estamos relacionados y para reflejar el parentesco de grupo de especies se han desarrollado las clasificaciones biológicas. Actualmente la Taxonomía, es la disciplina que se dedica a las clasificaciones biológicas, utilizando las secuencias de ADN de los organismos como la base para obtener información referente al parentesco (Meloni, 2015).</p>
+<p align="justify">Los naturalistas han pretendido describir la diversidad del mundo natural con apoyo de la biología sistemática, determinándose que todos los organismos estamos relacionados y para reflejar el parentesco de grupo de especies se han desarrollado las clasificaciones biológicas. Actualmente la Taxonomía, es la disciplina que se dedica a las clasificaciones biológicas, utilizando las secuencias de ADN de los organismos como base para obtener información referente al parentesco (CONABIO, 2019).</p>
 <p align="center"><b>Ilustración 20.</b> Clasificaciones de los seres vivos a lo largo del tiempo</p>
 <p align="center"><img src="/upaded/assets/images/bg_u2_20.PNG" alt=""></p>
 <p align="center">Fuente: UP@DED (2019), con información de la CONABIO (2019)</p>
-<p align="justify">Considerando las características se realiza la siguiente clasificación (CONABIO, 2019): </p>
+<p align="justify">Considerando las características de los seres vivos se realiza la siguiente clasificación (CONABIO, 2019): </p>
 <ul class="unorder-list">
     <li>Las especies se reúnen en géneros</li>
     <li>Los géneros en familias</li>
@@ -237,7 +237,7 @@ subject_name: TSAEC06BGS1
 <p align="center"><b>Ilustración 21.</b> Árbol de la vida de los seres vivos.</p>
 <p align="center"><img src="/upaded/assets/images/bg_u2_21.PNG" alt=""></p>
 <p align="center">Fuente: UP@DED (2019), con información de CONABIO (2019).</p>
-<p align="justify">Los miembros de dominio eukarya tienen cuerpos formados por una o más células altamente complejas y se subdividen en cinco reinos: 1) reino animal (animales), 2) reino vegetal (plantas), 3) reino hongos (setas, mohos y levaduras), 4) reino protoctistas (protozoos y algas) y 5) reino móneras (bacterias).</p>
+<p align="justify">Los miembros de dominio eukarya tienen cuerpos formados por una o más células altamente complejas y se subdividen en cinco reinos: 1) Reino animal (animales), 2) Reino vegetal (plantas), 3) Reino fungi (hongos setas, mohos y levaduras), 4) Reino protistas (protozoos y algas) y 5) Reino monera (bacterias).</p>
 <p align="justify">Características generales de los cinco reinos:</p>
 <ol>
     <li><b>Monera: </b>Organismos unicelulares, procariontes. Su nutrición es por medio de la absorción, quimiosíntesis, fotoheterótrofos o fotoautotrofos. En este reinos los organismos forman colonias, generalmente no son móviles, y si lo son se desplazan por flagelos o por deslizamiento. Pertenecen a este grupo las Eubacterias, Archeabacterias y algas verde-azules (Ramos, Colodrón, Gonzales, <i>Et al.</i> 2019).</li>
