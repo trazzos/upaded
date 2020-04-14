@@ -276,7 +276,7 @@ subject_name: TSAPC05TES1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc4a199b692b0fc66b3d53" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Habitualmente, los economistas dividen los ciclos económicos en dos fases principales recesión y expansión. La caída de un ciclo económico se denomina recesión, y su definición la encuentras en la ilustración 32: </p>
-<p align="center"><b>Ilustración 32.</b> Definición de recisión </p>
+<p align="center"><b>Ilustración 32.</b> Definición de recesión </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dcc4a667a2d590fdad32fcd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Cuando la actividad económica, de manera global, no logra recuperarse, entramos en la fase de depresión, en la ilustración 33 se muestra su definición:</p>
