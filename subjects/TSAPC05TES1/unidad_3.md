@@ -47,11 +47,12 @@ subject_name: TSAPC05TES1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc85b290f76f90fa487d891" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Además del concepto de utilidad, los economistas recurren al concepto de utilidad marginal para explicar el comportamiento del consumidor. Piensa en un bien que te guste mucho, el cual digamos que es el helado de chocolate. Ahora imagínate la satisfacción que obtienes al comer una unidad de helado de chocolate; imagina qué pasaría si agregas una unidad adicional, seguramente la satisfacción será menor a la que obtuviste con el primer helado; ahora imagina qué sucedería en la quinta unidad. Seguramente en la quinta unidad no experimentarías satisfacción sino saturación. Ese es justamente el razonamiento lógico que sostiene la categoría de utilidad marginal.</p>
-<p align="justify">De tal suerte que, la expresión marginal en economía hace referencia a las unidades adicionales de una determinado bien. El término utilidad marginal significa que la utilidad adicional que se obtienen del consumo de una unidad adicional de un bien. (Samuelson & Nordhaus, 2010). Derivado de este postulado, se extrae una ley fundamental de comportamiento del consumidor: la ley de la utilidad margina decreciente. En la Ilustración 7, encontrarás el significado de dicha ley. </p>
+<p align="justify">De tal suerte que, la expresión marginal en economía hace referencia a las unidades adicionales de un determinado bien. El término utilidad marginal significa que la utilidad adicional que se obtienen del consumo de una unidad adicional de un bien. (Samuelson & Nordhaus, 2010). Derivado de este postulado, se extrae una ley fundamental de comportamiento del consumidor: la ley de la utilidad marginal decreciente. En la Ilustración 7, encontrarás el significado de dicha ley. </p>
 <p align="center"><b>Ilustración 7.</b> Ley de la utilidad marginal decreciente</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc85b636a29dd0fb18dfd1b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify">Te preguntarás ¿a qué se debe esa reducción? Los economistas señalan, que la utilidad tiende a incrementarse a medida que se consume más de un bien. No obstante, de acuerdo con la ley de la utilidad marginal decreciente, a medida que se consuma más y más, la utilidad total se hace más lento porque la utilidad marginal se reduce a medida que se consume más del bien. Entonces la utilidad marginal decreciente resulta del hecho de que su disfrute del bien decae a medida que se consume más y más del mismo (Samuelson & Nordhaus, 2010).</p>
+<p align="justify">Te preguntarás ¿a qué se debe esa reducción? Los economistas señalan, que la utilidad tiende a incrementarse a medida que aumenta el consumo de un bien. No obstante, la ley de la utilidad marginal decreciente señala que a mayor consumo de un determinado bien, la utilidad total tiende a incrementarse en una menor proporción cada vez, porque la utilidad marginal se reduce a medida que se consume más el bien. Entonces la utilidad marginal decreciente resulta del hecho de que el disfrute del bien decae a medida que se incrementa el consumo (Samuelson y Nordhaus, 2010). </p>
+<p align="justify">Pensemos en un ejemplo de la vida cotidiana. Cuando consumes un bien que te gusta mucho, tiendes a incrementar cada vez más la proporción de ese bien, pero la satisfacción llega a un punto de saturación, en la cual lejos de satisfacerte tiendes a saturarte o empalagarte. Pensemos en el chocolate, por mucho que te guste el chocolate llega un punto en que el producto te empalaga. Esa es la lógica subyacente entre la utilidad y la utilidad marginal. Cada incremento adicional de una unidad de un producto en el consumo se traduce en una disminución, de la utilidad marginal. </p>
 <p align="justify">La relevancia de la teoría del consumidor consta en brindar un marco de referencia para explicar el comportamiento de los individuos en el mercado. Para los economistas neoclásicos los consumidores son agentes racionales que buscan obtener la máxima satisfacción, dado un determinado ingreso. La racionalidad del consumidor tiene un significado muy específico en la teoría económica; en la Ilustración 8, encontrarás los postulados básicos que explican el comportamiento racional del consumidor:</p>
 <p align="center"><b>Ilustración 8.</b> Racionalidad de consumidor</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc85bd17ea65b0fa42b3085" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
@@ -107,15 +108,21 @@ subject_name: TSAPC05TES1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc865e1ac4d580fc3e8ff2b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Existen miles de funciones de producción, una para cada bien y para cada servicio. La mayoría de ellas no se encuentran escritas, pero sí están presentes en la actividad de las empresas. En las áreas de la economía en donde la tecnología avanza muy rápido, es probable que esas funciones cambien de manera constante; sin embargo, el concepto de función de producción es una manera útil para describir las posibilidades productivas de una empresa (Samuelson & Nordhaus, 2010). </p>
-<p align="justify">Para simplificar el análisis de la toma de decisiones de la empresa, los economistas recurren a un supuesto. Para no perderse en la diversidad de empresas que existen, parten del supuesto de la existencia de una empresa representativa, la cual tienen una combinación de factores de producción determinada, tal y como se muestra en la Ilustración 18. Es decir, una empresa cuenta con una cantidad determinada de capital, de trabajo y de tierra para producir. Nuevamente, para simplificar, los economistas asumen que la función de producción de una empresa se conforma por dos factores: capital y trabajo. </p>
+<p align="justify">Para facilitar el análisis de la toma de decisiones, los economistas parten del supuesto de la existencia de una empresa representativa, la cual tiene una combinación de factores de producción específica. Es decir, una empresa cuenta con una cantidad determinada de capital, trabajo y tierra para producir. Además, la función de producción se conforma por dos factores: capital y trabajo. En consecuencia, mediante un proceso de simplificación se asume la existencia de empresas representativas que cuentan con una planta determinada para producir un bien, o dar un servicio. En la ilustración 18 encontrarás la definición de la planta de la empresa. </p>
 <p align="center"><b>Ilustración 18.</b> Planta de la empresa</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8663dfd67900fa1747f23" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify">Ahora bien, para entender la relación que existe entre una empresa y sus respectivos costos debemos de diferenciar dos marcos temporales: el corto plazo y el largo plazo. En la Ilustración 19, se muestra con mayor detalle dichos marcos y su significado: </p>
+<p align="justify">Ahora bien, para entender la relación que existe entre una empresa y sus respectivos costos debemos de diferenciar dos marcos temporales: el corto y el largo plazo. La característica fundamental para diferenciar los marcos temporales, es la modificación o alteración de los factores de producción: trabajo y capital. En el corto plazo, la empresa tiene una mayor capacidad de acción sobre el trabajo, es decir sobre el número de empleados de los cuales dispone para producir, así como la cantidad de insumos utilizados para producir un bien o brindar un servicio. Lo que significa que en el corto plazo sólo se modifica el factor de producción trabajo, y los insumos utilizados. En contraposición, la variación del capital sólo se puede observar en el largo plazo, esto se explica en la medida de lo costosas que son las inversiones y el tiempo que se tardan las empresas en incrementar su planta productiva. A continuación, te presentamos un caso hipotético que ilustra ambos horizontes temporales. </p>
+<p align="justify">Supongamos que una empresa tiene éxito con un producto y necesita incrementar su producción. El primer paso para hacer frente a esa demanda es incrementar el número de empleados y materias primas.  Justo por el hecho de incrementar el número de empleados y materias primas, la empresa se encuentra en el horizonte temporal del corto plazo.</p>
+<p align="justify">Ahora supongamos que la empresa continúa con ese éxito comercial y tiene altos niveles de demanda. Pues bien, el incremento del número de empleados y de niveles de materias primas tiene un límite, que es la planta productiva de la empresa. En este sentido, resulta necesario incrementar la variable capital, es decir, aumentar el espacio físico, así como acrecentar el número de herramientas, máquinas y equipos para producir. No obstante, el incremento del capital tiene un periodo más amplio de transición, en comparación al que toma incrementar sólo la variable trabajo. Imagínate cuánto tiempo tarda en lograrse un incremento del nivel de producción derivado del aumento del factor capital. Tendrían que pasar muchos meses para buscar el financiamiento de la inversión para incrementar la planta productiva; comprar equipo; instalar el nuevo equipo; entre otros elementos. En la Ilustración 19, se muestra una breve definición de dichos marcos y su significado: </p>
 <p align="center"><b>Ilustración 19.</b> Horizonte temporal de las empresas</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc866fc37333f0fb4c39f2e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify">Entonces, para aumentar el nivel de producción en el corto plazo, la empresa solo tiene como opción viable la modificación del factor trabajo, es decir debe de incrementar la cantidad de trabajo movilizada en la producción. Ahora bien, para entender la relación entre producción y cantidad de trabajo incorporaremos tres conceptos claves: producto total, producto marginal y producto promedio.  En la Ilustración 20 se muestra la definición del concepto de producto total: </p>
+<p align="justify">En resumen, la producción eficiente necesita tiempo e insumos convencionales como la mano de obra. Por tanto, se distinguen dos periodos distintos de la producción y en el análisis de costos. El corto plazo es el periodo en el que sólo algunos insumos, pueden ajustarse. En el corto plazo, elementos como la planta y el equipo no pueden modificarse ni ajustarse en su totalidad. El largo plazo es el periodo en que todos los factores que utiliza la empresa, incluso el capital, pueden modificarse (Samuelson y Nordhaus (2010a).</p>
+<p align="justify">Una economía moderna tiene un variado conjunto de actividades productivas. Por ejemplo, las fábricas utilizan insumos como energía, materia prima, maquinaria y mano de obra para producir diversos productos como celulares, computadoras, detergente, entre otros. Para elaborar esos productos, las empresas utilizan insumos como el capital y el trabajo, como se ha mencionado previamente. No obstante, si se cuenta con una determinada cantidad de insumos ¿cuánta producción se puede obtener? Samuelson y Nordhaus (2010a) señalan que, dado el conocimiento técnico disponible, la tierra, la maquinaria, entre otros elementos, solamente se puede obtener una determinada cantidad de productos a partir de una cifra dada de mano de obra (trabajo). La relación entre la cantidad dada de insumo requerido y la de producto que se puede obtener, recibe el nombre de función de producción. </p>
+<p align="justify">Existen miles de funciones de producción diferentes, prácticamente una para cada producto o servicio, y cambian de manera constante. Por ejemplo, en las áreas de la economía en las cuales la tecnología cambia con rapidez, como la biotecnología, las funciones de producción pueden volverse obsoletas rápidamente. No obstante, el concepto de una función de producción es una manera útil para describir las posibilidades productivas de una empresa (Samuelson y Nordhaus, 2010a). </p>
+<p align="justify">Ahora bien, para entender precisamente las posibilidades productivas de una empresa, es necesario incorporar los siguientes conceptos: producto total, producto marginal y producto promedio a continuación abordamos sus particularidades.</p>
+<p align="justify">En la Ilustración 20 se muestra la definición del concepto de producto total: </p>
 <p align="center"><b>Ilustración 20.</b> Definición de producto total</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8684f37333f0fb4c39f75" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
@@ -225,7 +232,7 @@ subject_name: TSAPC05TES1
 <p align="center"><b>Ilustración 30.</b> Definición de mercado</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8ba7b37333f0fb4c3c365" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify">Antes de continuar con la explicación, necesitamos hacer una precisión. Como se mencionó antes, los economistas utilizan una serie de supuestos o condiciones de observación que les permiten simplificar sus análisis. Como los mercados adoptan muchas formas necesitan especificar un mercado, vamos a decir, prototipo. Entonces, estos economistas asumen que el mercado es competitivo, lo que quiere decir que hay muchos compradores y muchos vendedores, por lo que ninguno de los dos agentes tiene capacidad de incidencia en el precio del bien o del servicio (Mankiw, 2012). Esta premisa es importante, porque en el siguiente apartado veremos que no siempre se cumple con esa condición; sin embargo, para entender la lógica de la oferta y demanda no es útil. </p>
+<p align="justify">Antes de continuar con la explicación, necesitamos hacer una precisión. Como se mencionó antes, los economistas utilizan una serie de supuestos o condiciones de observación que les permiten simplificar sus análisis. Como los mercados adoptan muchas formas necesitan especificar un mercado, vamos a decir, prototipo. Entonces, estos economistas asumen que el mercado es competitivo, lo que quiere decir que hay muchos compradores y muchos vendedores, por lo que ninguno de los dos agentes tiene capacidad de incidencia en el precio del bien o del servicio (Mankiw, 2012). Esta premisa es importante, porque en el siguiente apartado veremos que no siempre se cumple con esa condición; sin embargo, para entender la lógica de la oferta y demanda nos es útil. </p>
 <p align="justify">Tras definir qué entendemos conceptualmente por mercado, avancemos en definir qué se entiende por oferta, tal y como se plantea en la Ilustración 31: </p>
 <p align="center"><b>Ilustración 31.</b> Oferta</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8bb718101d90f9e9dfe0c" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
@@ -258,9 +265,9 @@ subject_name: TSAPC05TES1
                                 </tr>
                                 <tr>
                                     <th scope="row" rowspan="3" class="align-middle">Precio de los factores</th>
-                                    <td>La oferta del bien se encuentra relacionada de forma negativa con el precio de los factores utilizados</td>
+                                    <td>La oferta del bien se encuentra relacionada de forma negativa con el precio de los factores utilizados para producir ese bien. </td>
                                   <tr>
-                                  <td>Si el precio de los factores de la producción disminuye, la cantidad ofertada va a disminuir. </td>
+                                  <td>Si el precio de los factores de la producción disminuye, la cantidad ofertada va a aumentar. </td>
                                    </tr>
                           <tr>
                                   <td>Si el precio de los factores aumenta, la cantidad ofertada disminuye.</td>
@@ -399,7 +406,7 @@ subject_name: TSAPC05TES1
 <br/>
 <p align="justify">El tianguis de la colonia es un caso típico de mercado competitivo, porque existe un gran número de vendedores, cuando compramos algún bien, tenemos la posibilidad, por la disponibilidad de información sobre los precios, de comprar o no. Si desde nuestra perspectiva, el precio de un determinado bien es alto, tenemos la posibilidad de comprárselo a otro vendedor sin costos adicionales importantes. </p>
 <p align="justify">Ahora bien, no todos los bienes y servicios que se ofertan funcionan en una estructura de mercado competitiva; en varios casos, vamos a encontrar mercados en los cuales el bien o servicio en cuestión adquiere una organización que no es competitiva. ¿Qué aspecto diferencia el modelo de competencia perfecta al de competencia imperfecta?, fundamentalmente la capacidad de incidencia de un determinado agente o grupo de agentes económicos. En la Ilustración 48 te presentamos las principales estructuras no competitivas: </p>
-<p align="center"><b>Ilustración 48.</b> Principales tipos de mercado</p>
+<p align="center"><b>Ilustración 48.</b> Principales tipos de mercado en Competencia Imperfecta </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 54.17%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="650px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8cd21aec23e0f9bca59fd" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Es importante recalcar que se observa una mayor diversidad de estructuras que se caracterizan porque son los productores quienes ejercen control sobre el mercado. También existen estructuras en las cuales el agente que ejerce control es el consumidor y se le denomina monopsonio. Debes de recordar que la característica clave de la competencia imperfecta es la capacidad de incidencia de ciertos agentes, tal y como se muestra en la Ilustración 49:</p>
@@ -419,80 +426,27 @@ subject_name: TSAPC05TES1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8d0f11e0fb40f9e6bbf51" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Hasta ahora se han revisado dos situaciones extremas de funcionamiento de la estructura del mercado; no obstante, en la economía se observarán otros tipos de organización que se explican a partir de la modificación de las particularidades, que se presentan en competencia perfecta. Te invitamos revisar la Ilustración 53:</p>
-<p align="center"><b>Ilustración 53.</b> Principales características de los tipos de mercado</p>
-<div class="row">
-    <div class="col-md-8 offset-md-2">
-<table class="table table-striped">
-    <thead>
-    <tr>
-        <th scope="col"></th>
-        <th scope="col">Tipo de mercado</th>
-      	<th scope="col">Definición</th>
-        <th scope="col">Características</th>
-    </tr>
-    </thead>
-    <tbody>
-  <tr>
-    <th scope="row" rowspan="9" class="align-middle">Productores</th>
-    <td rowspan="2">Duopolio</td>
-    <td rowspan="2">Estructura del mercado en la que sólo dos vendedores ofrecen productos similares o idénticos</td>
-    <td>Dominio que ejercen dos empresas en un determinado mercado de bienes o servicios</td>
-  </tr>
-  <tr>
-    <td>Barreras naturales o legales impiden la entrada de nuevas empresas</td>
-  </tr>
-  <tr>
-    <td rowspan="3" class="align-middle">Oligopolio</td>
-    <td rowspan="3" class="align-middle">Un grupo de vendedores ofrecen productos similares o idénticos</td>
-    <td>Pequeño número de empresas que compiten</td>
-  </tr>
-  <tr>
-    <td>Tensión entre la cooperación y el interés personal</td>
-  </tr>
-  <tr>
-    <td>Barreras naturales o legales impiden la entrada de nuevas empresas</td>
-  </tr>
-  <tr>
-    <td rowspan="4" class="align-middle">Competencia monopolística</td>
-    <td rowspan="4" class="align-middle">Estructura de mercado en la que muchas empresas vende productos similares, pero no idénticos</td>
-    <td>Compite un gran número de empresas</td>
-  </tr>
-  <tr>
-    <td>Producto diferenciado</td>
-  </tr>
-  <tr>
-    <td>Las empresas compiten con base en la calidad del producto, el precio y el marketing</td>
-  </tr>
-  <tr>
-    <td>Son libres de entrar y salir de la industria</td>
-  </tr>
-  <tr>
-    <th scope="row" class="align-middle">Consumidores</th>
-    <td>Monopsonio</td>
-    <td>Estructura de mercado que se caracteriza por la existencia de un único demandante o comprado.</td>
-    <td>Existe un solo comprador de un determinado producto</td>
-  </tr>
-</tbody>
-</table>  
-</div></div>
-<p align="center">Fuente: UP@DED (2019), con información de Parkin y Loría (2010) y Mankiw (2012).</p>
-<p align="justify">Al cuadro anterior habría que agregar una serie de características adicionales en el caso particular del oligopolio. Las empresas que conforman un oligopolio comparten las características que se plantean en la Ilustración 54: </p>
-<p align="center"><b>Ilustración 54.</b> Principales características de oligopolio</p>
+<p align="center"><b>Ilustración 53.</b> Principales características de los tipos de mercado de competencia imperfecta por parte de los productores (Parte 1)</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 54.17%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="650px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5ebe0156acee480d7f586153" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<p align="center"><b>Ilustración 54.</b> Principales características del Monopsonio</p>
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5ebe055ae3d9f00d861fdd11" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+<p align="justify">Al cuadro anterior habría que agregar una serie de características adicionales en el caso particular del oligopolio. Las empresas que conforman un oligopolio comparten las características que se plantean en la Ilustración 55: </p>
+<p align="center"><b>Ilustración 55.</b> Principales características de oligopolio</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8dbe07ea65b0fa42b6708" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify">En la ilustración anterior se hace mención del término cártel. Este concepto refleja los acuerdos que pueden llegar a establecer los productores. Habitualmente en un oligopolio establecen dos tipos de estrategias para la toma de decisiones: colusión o perseguir su propio interés como empresa particular. En el primer caso, las empresas que controlan el mercado establecen acuerdos respecto al precio y la cantidad a producir en el mercado; en el segundo caso, incumplen los acuerdos y maximizan de manera individual. Para mayores referencias te invitamos a revisar las definiciones que se plasman en las ilustraciones 55 y 56: </p>
-<p align="center"><b>Ilustración 55.</b> Definición de colusión </p>
+<p align="justify">En la ilustración anterior se hace mención del término cártel. Este concepto refleja los acuerdos que pueden llegar a establecer los productores. Habitualmente en un oligopolio establecen dos tipos de estrategias para la toma de decisiones: colusión o perseguir su propio interés como empresa particular. En el primer caso, las empresas que controlan el mercado establecen acuerdos respecto al precio y la cantidad a producir en el mercado; en el segundo caso, incumplen los acuerdos y maximizan de manera individual. Para mayores referencias te invitamos a revisar las definiciones que se plasman en las ilustraciones 56 y 57: </p>
+<p align="center"><b>Ilustración 56.</b> Definición de colusión </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8dcb237333f0fb4c3cefc" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="center"><b>Ilustración 56.</b> Definición de cártel</p>
+<p align="center"><b>Ilustración 57.</b> Definición de cártel</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8dcff37333f0fb4c3cf06" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Llama la atención el comportamiento de los oligopolios, ya que a estos les interesa actuar como monopolios, pero el interés personal los lleva a actuar de manera más parecida a la competencia. Por ende, pueden acabar pareciéndose más a los monopolios o a las empresas competitivas, en función del número de empresas que existan y de su grado de cooperación (Mankiw, 2012). </p>
-<p align="center"><b>Ilustración 57.</b> Reflexiona </p>
+<p align="center"><b>Ilustración 58.</b> Reflexiona </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8dd4629b0cd0fb782adc8" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Te invitamos a realizar la siguiente búsqueda: </p>
-<p align="center"><b>Ilustración 58.</b> Indaga</p>
+<p align="center"><b>Ilustración 59.</b> Indaga</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc8de046a29dd0fb18e3d9e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <p align="justify">Para cerrar la unidad, te invitamos a reflexionar sobre un problema que no siempre se aborda en los cursos de economía, y que tiene que ver justamente con el problema de la eficiencia en el uso de los recursos escasos con los que cuenta una economía. El resultado de los mercados competitivos puede no ser socialmente deseable aun cuando sea eficiente, por no garantizar por sí solos los resultados que responden a los ideales de la sociedad sobre la distribución justa de los ingresos y el consumo (Samuelson & Nordhaus, 2010).</p>
@@ -507,5 +461,5 @@ subject_name: TSAPC05TES1
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc64ec829b0cd0fb781de05" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="center"><b>Ilustración 59.</b> Criterios de evaluación </p>
+<p align="center"><b>Ilustración 60.</b> Criterios de evaluación </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 25.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="300px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dc64eff6a29dd0fb18d8c43" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
