@@ -29,7 +29,7 @@ subject_name: TSAMC05BGS1
 <b>Antecedentes del sistema de clasificación</b>
 <p align="justify">Antiguamente se utilizaba el sistema polinomial para nombrar a las plantas, los nombres que se generaron fueron poco prácticos, ya que podían constituirse hasta por doce palabras, situación que provocó su reemplazo por el sistema binomial, es decir, el nombre de una especie formada por dos palabras, una generalmente en latín, que representa el género y la segunda palabra que es el epíteto que caracteriza al nombre (Rico y Magaña, 2007). </p>
 <p align="justify">El trabajo más importante para establecer este sistema fue el de Linneo, <i>Especies plantarum</i>, publicado en 1753, precedido por <i>Critica botánica</i>, en 1737 y <i>Fundamenta botánica</i> en 1736. El trabajo de Linneo quizá no fue el más elaborado, pero si el más meticuloso y ordenado para la aplicación de nombres. En su <i>Critica Botánica</i>, explica los principios y reglas que empleó para formular su <i>Genera plantarum</i>, y <i>Hortus Cliffortianus</i> (Rico  y Magaña, 2007).  </p>
-<p align="justify">En 1853 Agustín De Candolle publicó <i>Theorie elementaire de la botanique</i>, que fue el primer trabajo trascendental para la nomenclatura botánica,  en menos de cuarenta páginas, el autor da instrucciones explícitas para los procesos de la nomenclatura, aborda situaciones prácticas y toma numerosos puntos de Linneo y otros botánicos contemporáneos (Rico  y Magaña, 2007).  /p>
+<p align="justify">En 1853 Agustín De Candolle publicó <i>Theorie elementaire de la botanique</i>, que fue el primer trabajo trascendental para la nomenclatura botánica,  en menos de cuarenta páginas, el autor da instrucciones explícitas para los procesos de la nomenclatura, aborda situaciones prácticas y toma numerosos puntos de Linneo y otros botánicos contemporáneos (Rico  y Magaña, 2007).  </p>
 <br/>
 <b>Jerarquías de clasificación</b>
 <p align="justify">La jerarquía de clasificación surgió de manera paralela con la clasificación y taxonomía, utiliza la nomenclatura como  un sistema para  nombrar y clasificar al reino plantae, en el que  se denomina taxón o taxa a cada uno de los niveles de clasificación, como se describe a continuación (Martínez, Di sapio, Mc. Cargo, Scandizzi, Tables y Campagna, 2014):</p>
@@ -130,14 +130,31 @@ subject_name: TSAMC05BGS1
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db9fd2acc17c40fb3547ede" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<h3>3.4 Histología</h3>
+<h3>3.4 Histología vegetal</h3>
 <p align="justify">El cuerpo de las plantas está conformado por células que se organizan en agregados, a estos conjuntos de células se les llama tejidos que desempeñan funciones específicas. La histología vegetal clasifica a los tejidos en dos grandes tipos, 1) los meristemáticos y los adultos, o bien, 2) simples y complejos (Santamarina-Siurana y Roselló-Caselles, 2018).</p>
 <p align="justify">Todas las plantas tienen células que realizan distintas funciones como la fotosíntesis, almacenamiento y transporte de agua, así como brindar nutrientes y soporte. En las plantas vasculares (lo son la mayoría de las plantas) muchas células de sus distintos tejidos como de la parénquima, colénquima y esclerénquima se convierten en células especializadas en el transporte, soporte y protección (Nabors ,2006). </p>
 <p align="justify">Nabors (2006) menciona que existen tejidos simples, y se componen solo de un mismo tipo de células (células del parénquima, colénquima y esclerénquima, por separado pueden formar un tejido simple), mientras que un tejido complejo, está formado por diversos tipos de células (puede ser una mezcla de células del parénquima, esclerénquima y de células conductoras de agua). En las plantas, varios tejidos simples y complejos se organizan en tres unidades funcionales conocidas como sistemas de tejido (se encuentran en todo el cuerpo vegetal).</p>
 <p align="center"><b>Ilustración 16.</b> Concepto de Histología Rama </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 37.50%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="450px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5db9fec3cc17c40fb3547f74" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="justify">Todos los tejidos que componen el cuerpo de la planta se originan en diversos meristemos. Se llama meristemo (griego meristos: divisible) a todo tejido vegetal cuyas células crecen y se multiplican en tejidos especializados, son regiones definidas en donde ocurren divisiones celulares, y donde se forman nuevos grupos celulares que podrán diferenciarse posteriormente en distintos tipos celulares (Peña, 2011).   </p>
+<p align="justify">Se llama meristemo (griego <i>meristos</i>: divisible) a todo tejido vegetal cuyas células crecen y se multiplican en tejidos especializados, son regiones definidas en donde ocurren divisiones celulares, y donde se forman nuevos grupos celulares que podrán diferenciarse posteriormente en distintos tipos celulares, las cuales se caracterizan por tener aspecto poliédrico y equidimencional, paredes finas, vacuolas pequeñas, así como su división por mitosis (Peña, 2011).  </p>
+<p align="justify"><b>División de los tejidos meristematicos </b></p>
+<p align="justify">Los meristemos se dividen en (Megias, Molist y Pombal, 2017 y Fuentes-Yagüe, 2002): </p>
+<ol>
+    <li><b>Meristemos primarios: </b>constituyen el cuerpo de la planta y originan el crecimiento longitudinal del cuerpo primario de la planta. Comienzan su actividad después de la germinación de la semilla y conforman los meristemos apicales tanto del tallo como de la raíz. </li>
+    En las células iniciales, comienza el proceso de crecimiento y diferenciación de los meristemos apicales (meristemos primarios), los cuales reciben el nombre de <b>células derivadas</b>. A nivel de las células derivadas se pueden distinguir tres complejos celulares:
+    <ul class="unorder-list">
+        <li><b>Protodermis: </b>del griego, proto+dermis = primero+piel. Está constituida por el estrato celular periférico que dará origen a la epidermis. </li>
+        <li><b>Procambium: </b>zona del meristemo primario que se compone de células alargadas, de lumen (espacio celular delimitado externamente por las paredes celulares) angosto, agrupados a modo de cordones (en el tallo), o formando un cilindro central (en la raíz). A partir del procambium se formarán el xilema y floema primarios (tejidos encargados de la conducción de fluidos en la planta). </li>
+        <li><b>Meristemo fundamental: </b>son las células derivadas isodiamétricas que se ubican entre la protodermis y el procambium y darán origen a parénquima, colénquima y esclerénquima.</li>
+    </ul>
+    <li><b>Meristemos secundarios: </b>se forman en la mayoría de las plantas durante el desarrollo posembrionario y producen el crecimiento (en grosor) del cuerpo secundario de la planta. Se encuentran en meristemos axilares, de inflorescencias, flores intercalares y laterales. </li>
+    Presentan en general células iniciales de forma alargada, como prismas aplanados. En las que se encuentra: 
+    <ul class="unorder-list">
+        <li><b>Cambium Vascular: </b>Meristemo lateral que forma los tejidos vasculares secundarios (xilema y floema secundarios). Se halla localizado entre el xilema y el floema secundario en tallos y raíces (con crecimiento secundario).</li>
+        <li><b>Cambuim soberoso o Felógeno: </b>Meristemo secundario que en los órganos con crecimiento secundario produce hacia el exterior súber o corcho (que cumple con funciones protectoras con respecto a la pérdida de agua) y hacia el interior produce células parenquimáticas que reciben el nombre de <i>felodermis</i> o <i>parénquima de la felodermis</i>.</li>
+    </ul>
+</ol>
 <p align="justify">Fuentes-Yagüe (2002) clasifica a los tejidos de la siguiente forma:</p>
 <ul class="unorder-list">
     <li><b>Tejidos formadores o meristemas. </b>Son los responsables del crecimiento de la planta.</li>
@@ -151,25 +168,25 @@ subject_name: TSAMC05BGS1
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dba050875a62a0fb94ea8b5" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <ul class="unorder-list">
-    <li><b>Tejidos fundamentales.</b> Desempeñan funciones diversas, entre las que destacan: fotosíntesis, elaboración de sustancias y almacenamiento de las mismas. Se clasifican en: </li>
+    <li><b>Tejidos fundamentales.</b> <br> El colénquima y el esclerénquima son los tejidos de sostén de las plantas. Están constituidos por células con paredes celulares gruesas que aportan una gran resistencia mecánica. A pesar de compartir la misma función, estos tejidos se diferencian por la estructura y la textura de sus paredes celulares, y por su localización en el cuerpo de la planta. Desempeñan funciones diversas, entre las que destacan: fotosíntesis, elaboración de sustancias y almacenamiento de las mismas. Se clasifican en (Megias, Molist y Pombal, 2017 y Fuentes-Yagüe, 2002): </li>
 </ul>
 <p align="center"><b>Ilustración 19.</b> Clasificación de los tejidos fundamentales </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 54.17%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="650px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dba086992671372e9ab71f2" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <ul class="unorder-list">
-    <li><b>Tejidos conductores.</b> Su misión principal consiste en transportar sustancias diluidas. Están constituidos por células conductoras, cuya función es transportar sustancias a grandes distancias, y también tiene células acompañantes con distintas funciones (almacén de sustancias de reserva, sostén de tejidos vasculares, y algunas veces función secretora). Se clasifican en:</li>
+    <li><b>Tejidos conductores.</b> <br> Forman la parte más externa de los órganos de las plantas y se encuentran en contacto con el medio ambiente. Su misión principal consiste en transportar sustancias diluidas. Están constituidos por células conductoras, cuya función es transportar sustancias a grandes distancias, y también tiene células acompañantes con distintas funciones (almacén de sustancias de reserva, sostén de tejidos vasculares, y algunas veces función secretora). Se clasifican en (Megias, Molist y Pombal, 2017 y Fuentes-Yagüe, 2002):</li>
 </ul>
 <p align="center"><b>Ilustración 20.</b> Clasificación de los tejidos conductores</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dba0c6ebda4560fb6e6ab23" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <ul class="unorder-list">
-    <li><b>Tejidos de recubrimiento. </b> Recubren y protegen las partes externas de la planta. Tiene como misión principal las siguientes funciones:</li>
+    <li><b>Tejidos de recubrimiento. </b><br> Recubren y protegen las partes externas de la planta. Tiene como misión principal las siguientes funciones:</li>
 </ul>
 <p align="center"><b>Ilustración 21.</b> Clasificación de tejidos de recubrimiento </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dba0dfabea2970f9d114c37" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <ul class="unorder-list">
-    <li><b>Tejidos secretores. </b> Producen o acumulan diversos productos que no se incorporan al metabolismo fundamental. Sus células son capaces de sintetizar sustancias que no se incorporan al metabolismo fundamental (tales como: aceites, carotenoides, caucho y resinas). Se clasifican según la función que desempeñan y la naturaleza de los productos secretados en:  </li>
+    <li><b>Tejidos secretores. </b> <br> Son los tejidos formados por estructuras diversas, cuya única característica común es la de almacenar y segregar sustancias a cavidades internas o al exterior. Dependiendo de su localización podemos encontrar diversos tipos, por ejemplo las células epidérmicas, que se  localizan en la epidermis del vegetal y suelen formar pelos glandulares. Producen o acumulan diversos productos que no se incorporan al metabolismo fundamental. Sus células son capaces de sintetizar sustancias que no se incorporan al metabolismo fundamental (tales como: aceites, carotenoides, caucho y resinas). Se clasifican según la función que desempeñan y la naturaleza de los productos secretados en Fuentes-Yagüe (2002):</li>
 </ul>
 <p align="center"><b>Ilustración 22.</b> Clasificación de tejidos de secretores</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dba112268a3bb0fbc587a34" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>

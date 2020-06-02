@@ -197,6 +197,53 @@ subject_name: TSAMC05BGS1
 <p align="justify">A continuación, se representa una identificación dicotómica para <b>palmas</b> y similares según Romero (2005):</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 108.33%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="1300px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbca8fb49c4140fc70a5a36" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
+<p align="justify"><b>Usos de las plantas</b></p>
+<p align="justify">Muchas plantas se identifican a través de su utilidad, a continuación se describen los usos principales de las plantas (Real Jardín Botánico, CSIC, 2012):</p>
+<b>Uso alimenticio </b>
+<p align="justify">Una dieta equilibrada contiene una gran variedad de vegetales, de los cuales obtenemos hidratos de carbono, grasas y en menor porcentaje proteínas, todo ello es esencial para la salud. Sin embargo, de las 250.000 especies de plantas con flores, menos de 5.000 son utilizadas como alimento de forma habitual. Algunas familias botánicas son muy conocidas por englobar muchas especies comestibles (Real Jardín Botánico, CSIC, 2012):</p>
+<ol>
+    <li>Leguminosas: judías, lentejas, guisantes, soja, entre otras.</li>
+    <li>Rosáceas: manzano, peral, ciruelo, almendro, entre otras.</li>
+    <li>Solanáceas: tomate, patata, pimiento, berenjena, entre otras.</li>
+    <li>Compuestas: lechuga, girasol, alcachofa, entre otras.</li>
+</ol>
+<p align="justify">De los 12 cultivos más importantes para la alimentación humana, los cuartro más importantes son maíz, sorgo, avena y trigo.</p>
+<b>Uso medicinal</b>
+<p align="justify">Las plantas han constituido desde la antigüedad un recurso utilizado para cuidar y preservar la salud, de acuerdo con datos de la Organización Mundial de la Salud (OMS), aproximadamente el 80 % de la población mundial utiliza la medicina tradicional para la atención primaria de la salud, sin embargo, con frecuencia es subestimada por la medicina alópata. </p>
+<p align="justify">El consumo de plantas como un recurso para proveer salud, ha aumentado mundialmente en las últimas dos décadas del siglo XXI.  Las plantas tienen importantes aplicaciones en la medicina moderna, destacando las siguientes (Rivas-Morales <i>et al</i>, 2016):  </p>
+<ul class="unorder-list">
+    <li>Son fuente directa de agentes terapéuticos;</li>
+    <li>Se utiliza como materia prima en la fabricación de medicamentos semi sintéticos complejos;</li>
+    <li>Permiten elaborar drogas sintéticas, entre otros.  </li>
+</ul>
+<p align="justify">En la antigüedad se utilizaba la planta directamente para tratar a los enfermos, actualmente la mayor parte de las medicinas que utilizamos se elaboran a partir de diferentes compuestos que contienen propiedades medicinales (principios activos), que se extraen de la planta o se fabrican (sintetizan) de forma artificial en un laboratorio. Los avances científicos permiten evitar la tala de miles de árboles o recolectar una planta hasta su extinción para obtener un medicamento (Real Jardín Botánico, CSIC, 2012).</p>
+<b>Uso industrial</b>
+<p align="justify">Existe un gran número de especies vegetales que son sometidas a diversos procesos para generar una variedad de productos. Las plantas utilizadas de manera industrial se cultivan de forma masiva, en ocasiones se aprovecha la planta entera, en otras solo se utiliza una de las partes, como son las hojas, el tallo, la savia, las semillas, las flores, el fruto, la corteza o la raíz. </p>
+<p align="justify">A continuación se enlistan diversas plantas que son utilizadas en el sector industrial (Real Jardín Botánico, CSIC, 2012):</p>
+<ul class="unorder-list">
+    <li>Plantas ricas en aceites esenciales, por su aroma son muy apreciados en perfumería, algunas de ellas son lavanda, violeta, naranjo, vainilla, canela, jazmín y rosas, entre otras.</li>
+    <li>Numerosas especies con propiedades fortificantes para el cabello y la piel, son utilizadas en la industria cosmética, destaca la ortiga (Urtica dioica), el membrillo (Cydonia oblonga) y el aloe (Aloe vera), los cuales poseen propiedades regenerativas.</li>
+    <li>El café (Coffea arabica), el cacao (Theobroma cacao) o el chicle (Manilkara zapota), son productos generados para el consumo humano. </li>
+    <li>Diversas plantas permiten la producción de combustibles, aceites, gomas o pegamentos. Por ejemplo, la trementina o resina obtenida del alerce (Larix decidua) se utiliza para fabricar un tipo de pegamento que se emplea en los esparadrapos.</li>
+</ul>
+<b>Plantas textiles</b>
+<p align="justify">Algunas especies vegetales presentan partes ricas en fibras, que se emplean para la fabricación de tejidos. La planta textil más importante es el algodón (género <i>Gossypium</i>), la cual es cultivada en los cinco continentes. Su fruto desarrolla una lanosidad formada por fibras que se hilan y se tejen para dar lugar a una enorme variedad de prendas de vestir.</p>
+<b>Plantas tintóreas </b>
+<p align="justify">En el mundo vegetal encontramos numerosas especies ricas en pigmentos (sustancias colorantes), los cuales son utilizados desde la prehistoria por el ser humano para teñir tejidos, adornos, cerámicas e incluso su propio cuerpo.</p>
+<p align="justify">A continuación se mencionan diversos compuestos naturales y los colores que generan en la pigmentación: </p>
+<ul class="unorder-list">
+    <li>Flavonoides: amarillos naranjas, azul-violeta, rojo</li>
+    <li>Carotenoides: amarillos y naranjas</li>
+    <li>Quinonas: naranjas y rojos</li>
+    <li>Indigoides: azul y púrpura</li>
+</ul>
+<b>Plantas madereras</b>
+<p align="justify">Una de las principales utilidades de árboles y arbustos es el aprovechamiento de su madera. Cada especie tiene propiedades determinadas de dureza, resistencia, flexibilidad, entre otras. Dichas propiedades permiten identificar su uso adecuado en la elaboración de vigas, toneles, instrumentos musicales, utensilios de cocina, juguetes, muebles, barcos, entre otros.</p>
+<b>Plantas para papel </b>
+<p align="justify">La industria del papel utiliza como materia prima los pinos (Pinus sp.), abetos (Abies sp.), eucaliptos (Eucalyptus sp.), abedules (Betula sp.) y chopos (Populus sp.).</p>
+<p align="justify">Sin embargo, algunas especies herbáceas, como el algodón (Gossypium sp.) o el cáñamo (Cannabis sativa), también pueden ser utilizadas con este fin. Por ejemplo, con el arroz (Oryza sativa) se elabora el papel para lámparas y cigarrillos y el lino (Linum usitatissimum) es utilizado en la elaboración de papel carbón y papel moneda. </p>
+<b>Uso ornamental</b>
+<p align="justify">La industria de las plantas ornamentales es muy importante a nivel mundial, generando anualmente un valor agregado de entre 250 a 400 mil millones de dólares, alrededor del 0,5% del producto bruto mundial. La industria florícola abarca cuatro producciones: plantines y plantas en maceta; varas de corte de flores y follaje verde; árboles, arbustos y plantas de jardín, y materiales de propagación. Cada grupo incluye gran variedad de especies y está en continua evolución (Botto y Mata, 2014).</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbcad142f65880fa2d3111d" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbcad59dfcf280fc42b258b" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
@@ -244,6 +291,246 @@ subject_name: TSAMC05BGS1
 <p align="justify"><b>Automatización de las colecciones:</b></p>
 <p align="justify">En los herbarios se tiende a la acumulación progresiva  de especímenes muestra, se ha hecho necesaria la creación o utilización de herramientas para acceder a su información de manera más rápida y eficaz; actualmente se cuentan con bases de datos que permiten el almacenamiento y recuperación de grandes cantidades de información, su principal ventaja es la posibilidad que brinda para acceder de manera remota. </p>
 <p align="justify"><b>Préstamo, intercambio y donaciones entre herbarios: </b>estas actividades se realizan a escala nacional e internacional; permiten incrementar y hacer más diversas las colecciones, debido al interés de los especialistas de obtener materiales de grupos taxonómicos o de zonas geográficas específicas. </p>
+<p align="justify">Los herbarios son fuentes de información sobre nombres comunes y familias de plantas con interés biológico, ecológico y económico para la humanidad, a continuación, se presentan las principales familias botánicas y las características más relevantes para su identificación. </p>
+<p align="center"><b>Ilustración 18.</b> Familias botánicas de importancia económica </p>
+
+<div class="row">
+<table class="table table-hover table-dar">
+    <thead>
+        <tr>
+            <th scope="col">Familia</th>
+            <th scope="col">Diversidad</th>
+            <th scope="col">Especies representativas</th>
+            <th scope="col">Descripción</th>
+            <th scope="col">Distribución</th>
+            <th scope="col">Importancia económica</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">Poaceae</th>
+            <td>8000 especies.</td>
+            <td>Trigo (Triticum durum y Triticum aestivum), Maíz (Zea mays), Cebada (Hordeum vulgare), Avena (Avena sativa), arroz (Oryza sativa), Caña de azúcar (Saccharum officinarum).</td>
+            <td>La familia de las gramíneas posee tallos cilíndricos, nudosos y con entrenudos huecos. Además, tiene hojas alternas, sin estipulas; provista de una vaina que abraza al tallo. Las flores son pequeñas poco vistosas, se reúnen en una inflorescencia de tipo espiga. No presenta cáliz ni corola está formada por 2 brácteas llamadas glumillas o glumelas. La inferior llamada lema. En las lemas pueden llevar una arista en el ápice o en el dorso. La superior llamada pálea, queda oculta en el interior de la inferior.</td>
+	    <td>Cosmopolita.</td>
+            <td>Provee cereales para alimentación básica, además, de pastos para el ganado y bambúes leñosos.</td>
+        </tr>
+        <tr>
+            <th scope="row">Liliaceae</th>
+            <td>4200 especies.</td>
+            <td>Cebolla (Allium cepa), Ajo (Allium sativum), Espárragos (Asparagus officinalis), Puerro (Allium porrum), Azucena (Lilium candidum)
+</td>
+            <td>Se trata de una serie de plantas herbáceas, a menudo bulbosas o, más rara vez, rizomatosas, que suelen producir flores grandes de colores vistosos, compuestas por seis pétalos, seis estambres y un ovario agrupadas en inflorescencias terminales. Las hojas son espiraladas o verticiladas, con disposición alterna, simples y con los nervios paralelos. Los frutos son cápsulas, o rara vez bayas. En su interior contienen semillas planas, con forma de disco o globosa.</td>
+	    <td>Cosmopolita, pero sobre todo en regiones templadas y tropicales.</td>
+            <td>Especies comestibles importantes a nivel mundial y ornamentales.</td>
+        </tr>   
+        <tr>
+            <th scope="row">Araceae</th>
+            <td>2000 especies.</td>
+            <td>Alcatraz (Zanthedeschia aethiopica), Cuna de Moisés (Spathiphyllum spp), Teléfono (Philodendrom spp)</td>
+            <td>Tallos y pecíolos suculentos, láminas foliares gruesillas, usualmente glabras y enteras (aunque a veces lobuladas) y frecuentemente con venación reticulada (como la de las dicotiledóneas) e inflorescencias de una espiga gruesa (espádice) de flores congestionadas, muy pequeñas, sostenida (y a veces envuelta) por una bráctea (espata) ancha. Los frutos son siempre abayados.</td>
+	    <td>Cosmopolita, pero más diversa en los trópicos.</td>
+            <td>Ampliamente cultivadas de manera principal para uso ornamental.</td>
+        </tr>   
+        <tr>
+            <th scope="row">Bromeliaceae</th>
+            <td>2000 especies.</td>
+            <td>Piña (Ananas comosus),</td>
+            <td>Hojas muchas veces con margen dentado-espinoso, envainadoras, alternas, simples, exestipuladas, sésiles y rígidas.
+Flores hermafroditas.<br>
+Inflorescencia tipo espiga, panícula (panoja) o racimo compacto, ocasionalmente en cabezuelas, terminal y con brácteas coloreadas.<br>
+Fruto una cápsula o pseudocapsula, una baya o una pseudobaya.<br>
+</td>
+	    <td>Se distribuyen en climas tropicales de zonas cálido-templadas, nativas del Nuevo Mundo. Se extiende desde el sur de los Estados Unidos hasta el sudeste de Sudamérica y una sola especie vive al oeste de África.</td>
+            <td>Principalmente comestible y ornamental.</td>
+        </tr>   
+        <tr>
+            <th scope="row">Fabaceae</th>
+            <td>12000 especies</td>
+            <td>Chícharo (Pisum sativum), Haba (Vicia faba), Cacahuate (Arachis hipogea), Frijol (Phaseolus vulgaris), Soya (Glicina max), Garbanzo (Cicer auritum).</td>
+            <td>Hierbas anuales o perennes, arbustos y árboles. Tallos normales, variados (herbáceos a tronco, incluyendo voluble), frecuentemente sin modificaciones subterráneas. Tallo reproductivo característico es herbáceo. Generalmente presentan sistemas radicales naturales o adventicios y generalmente pivotantes, rara vez fasciculados.<br>
+Hojas compuestas (en distintos grados), con estípulas, alternas (raro opuestas), pecioladas, con formas variadas, con nerviación reticulada pinada, aunque ocasionalmente palmada, muy frecuente las modificaciones tipo espinas, zarcillos y filodios. Muchas veces las estípulas están transformadas en espinas.<br>
+Flores perfectas y completas, raro unisexual.<br>
+Inflorescencias racImosas racimoides
+</td>
+	    <td>Cosmopolita</td>
+            <td>Gran importancia económica por especies de uso comestible.
+Familia mejoradora de suelos, por su capacidad para fijar nitrógeno.
+</td>
+        </tr>   
+        <tr>
+            <th scope="row">Brassicaceae</th>
+            <td>3000 especies.</td>
+            <td>Repollo, Coliflor, Coles de Bruselas, Brócoli (Brassica oleracea), Rábano (Raphanus sativus)</td>
+            <td>Hierbas anuales, bienales o perennes, raro arbustivas, nunca arbóreas. Tallos diversos, generalmente presentando tallo acaule durante su fase vegetativa y formando rosetas aplastadas al suelo que luego emiten tallos florales diversos, tallo herbáceo y rara vez tronco, pilosos. Hojas normalmente alternas o en roseta, de nerviación reticulada pinnada, con margen entero a multipinatisecto,</td>
+	    <td>Se distribuyen en regiones templadas de los hemisferios Norte y Sur, la mayor concentración aparece en la región mediterránea y Asia Central.</td>
+            <td>Importancia comestible, como forrajeras,  biocombustibles y aceites.</td>
+        </tr>   
+        <tr>
+            <th scope="row">Rosaceae</th>
+            <td>3000 especies.</td>
+            <td>Chabacano (Prunus armeniaca), Ciruelo (Prunus domestica), Durazno (Prunus persica), Fresa (Fragaria x ananassa), Manzano (Prunus malus), Frambuesa (Rubus idaeus) Rosa (Rosa spp).</td>
+            <td>Hojas simples o compuestas, nerviación pinnada o palmada, alternas, opuestas o verticiladas, estipuladas o exestipuladas (raro), margen serrado o dentado, pecioladas o sésiles. Pueden presentar espinas y aguijones.<br>
+Flores normalmente hermafroditas.<br>
+Flores solitarias o en inflorescencias racimosas o cimosas.
+</td>
+	    <td>Esta familia es sub-cosmopolita y está mejor representada en zonas frías y templadas del Norte de América </td>
+            <td>Familia de gran importancia económica en virtud de los frutos comestibles de muchos de sus componentes</td>
+        </tr>   
+        <tr>
+            <th scope="row">Malvaceae</th>
+            <td>2300 especies.</td>
+            <td>Algodón (Gossypium spp), Flor de Jamaica (Hibiscus sabdariffa),</td>
+            <td>Hierbas anuales o perennes, pudiendo ser arbustivas e incluso arbóreas. Tallos diversos, frecuentemente tallos acaules y prácticamente no presenta modificaciones caulinares. Sistema radical pivotante.  Hojas alternas, estipuladas, simples o compuestas, nerviación palmada, ocasionalmente pinada, pecioladas en la base de los tallos y sésiles en su porción aérea, enteras a más o menos palmatisectas.<br>
+Flores hermafroditas
+</td>
+	    <td>Es una familia casi cosmopolita, distribuida en regiones templadas y cálidas de ambos hemisferios, zonas templadas, tropicales y subtropicales.</td>
+            <td>Uso industrial textil de gran importancia del algodón y comestible de la Jamaica.</td>
+        </tr>   
+        <tr>
+            <th scope="row">Cactaceae</th>
+            <td>2000 especies</td>
+            <td>Tunas (Opuntia sPp), Nopal (Nopales sPp), Pitahaya (Hylocerus undalus),</td>
+            <td>Plantas altamente especializadas, suculentas; especies herbáceas a semileñosas, incluso leñosas, pero sin cilindro central leñoso, con portes herbáceo a arborescente. Tienen, normalmente, tres formas de vida: columnares, globulares y articulados. Sistemas radicales diversos (normales y/o reservantes). Tallos normalmente cladodios, aplanados, cilíndricos e incluso esféricos, que presentan grandes volúmenes para servir como órganos de acumulación de agua, generalmente los nudos, van marcados por las areolas, que son secciones donde se insertan las espinas y la yema en la parte superior. Frecuentemente presentan espinas para reflejar la luz (aumentar el albedo).</td>
+	    <td>Familia endémica de América y presente en todos sus ecosistemas (parten desde Alaska y llegan hasta el estrecho de Magallanes, por el lado argentino).</td>
+            <td>Importancia económica ornamental mundial.</td>
+        </tr>   
+        <tr>
+            <th scope="row">Lamiaceae</th>
+            <td>3200 especies.</td>
+            <td>Menta (Mentha piperita), Oregano (Origanum vulgare), Menta (Mentha), Romero (Rosmarinus officinalis), Albahaca (Ocimun basilicum)</td>
+            <td>Normalmente hierbas, ocasionalmente arbustos, raramente árboles. Tallos cuadrangulares, raro modificados. Sistema radical pivotante, ocasionalmente fasciculados.
+Hojas simples, sésiles o pecioladas, alternas u opuestas, ocasionalmente verticiladas, exestipuladas.<br>
+Flores hermafroditas.<br>
+Inflorescencias compuestas, corresponden a racimos de verticilastros (en torno a un raquis común van saliendo verticilos de flores).<br>
+</td>
+	    <td>Familia de ambientes mediterráneos (templados del hemisferio norte).</td>
+            <td>Presentan fuerte carga química de aceites esenciales y con ello resultan fuertemente aromáticas, se utilizan como especias, lo que les da importancia económica.</td>
+        </tr>   
+        <tr>
+            <th scope="row">Solanaceae</th>
+            <td>2800 especies.</td>
+            <td>Chiles (Capsicum spP), Papa (Solanum tuberosum), Tomate (Solanum lycopersicon), Berejnjena (Solanum melongena),</td>
+            <td>Hierbas anuales o perennes, arbustivas, raro arbóreas. Tallos frecuentemente modificados (subterráneos) tipo rizoma y tubérculo. Tallo vegetativo característico es variado, incluyendo modificaciones caulinares. Su tallo reproductivo característico es herbáceo. Sistemas radicales principalmente pivotantes, ocasionalmente fasciculados.
+Morfología foliar diversa. Hojas generalmente alternas, ocasionalmente opuestas o verticiladas, simples, de formas variadas, exestipuladas, de nerviación pinnada, pecioladas o sésiles, de margen entero a multipinatisecto, glabras o con indumentos variables.<br>
+Flores perfectas y completas, raro unisexual.<br>
+Ocasionalmente en flores solitarias
+</td>
+	    <td>Cosmopolitas, pero mejor desarrolladas en América del Sur.</td>
+            <td>Importancia alimenticia por las especies cultivadas importantes a nivel mundial, por lo tanto también económico.</td>
+        </tr> 
+        <tr>
+            <th scope="row">Cucurbitaceae</th>
+            <td>760 especies.</td>
+            <td>Melón (Cucumis melo), Sandía (Citrullus lanatus), Calabaza (Cucurbita pepo), Pepino (Cucumis sativus), Chayote (Sechium edule).
+</td>
+            <td>Hierbas. Tallos procumbentes y/o rastreros, fistulosos. Sistema radical pivotante, fasciculado, ocasionalmente con raíces tuberosas o rizomas.<br>
+Hojas simples, de nerviación palmada, peciolada, alterna y exestipulado.<br>
+Flores unisexuales o hermafroditas.<br>
+Flores solitarias o en inflorescencias cimosas y, en este caso, con brácteas y bractéolas
+</td>
+	    <td>Esta familia se encuentra distribuida en regiones tropicales y subtropicales.</td>
+            <td>Importancia económica y alimenticia a nivel mundial.</td>
+        </tr> 
+        <tr>
+            <th scope="row">Compositae</th>
+            <td>20000 especies</td>
+            <td>Lechuga (Lactuca sativa), Girasol (Helianthus annuus), Cempasúchil o flor de muertos (Tagetes erecta), Manzanilla (Chamaemelum nobile).</td>
+            <td>Hierbas anuales o perennes, o arbustos, raramente árboles. Tallos diversos, incluyendo modificaciones caulinares y volubles, pero nunca caña. Presentan sistemas radicales pivotantes o fasciculados, escazas modificaciones.
+Hojas alternas u opuestas, exestipuladas, generalmente de nerviación reticulada pinnada, simples, enteras a multipinatisectas, con formas muy variadas, sésiles (raro pecioladas, nunca envainadoras), muchas veces espinosas.  Flores hermafroditas o unisexuales
+</td>
+	    <td>Cosmopolita, desde zonas frías a tropicales, pasando por áreas templadas a sub-tropicales</td>
+            <td>Tienen muchos usos, lo que les da una importancia económica, alimenticia, ornamental y medicinal</td>
+        </tr> 
+        <tr>
+            <th scope="row">Agavaceae</th>
+            <td>Presentan 23 género y 637 especies</td>
+            <td>Agave atroviren (maguey)<br>
+Agave tequila (mezcal).<br>
+Agave sisala (fibras de sisal )
+</td>
+            <td>Hierbas o lianas bastante robustas, y leñosas, ocasionalmente con rizomas o bulbos. Hojas espirales, dorsiventrales, gruesas y suculentas o duras y fibrosas, puntiagudas en el extremo, margen generalmente aserrado o con espinas.</td>
+	    <td>Originaria de América (con centro de distribución en México). El género Agave se encuentra actualmente distribuido por zonas templadas y áridas del viejo mundo</td>
+            <td>El género agave tiene registros de su uso como alimento, diferentes especies proporcionan fibras resistentes y duraderas, muy usadas en cordelería, jarcería, redes para pesca artesanías, entre otros. Mientras que otras especies producen diferentes bebidas como el aguamiel, materia prima para la elaboración de pulque; el tequila, y el mezcal. Y muchas otras son utilizadas como medicina tradicional.</td>
+        </tr> 
+        <tr>
+            <th scope="row">Pinaceae</th>
+            <td>Incluyen 10 géneros y alrededor de 200 especies</td>
+            <td>Pinus elliottii y P. taeda, que son especies cuya madera se utiliza para construcciones, revestimientos, pisos y materiales de cajonería. Hay especies ornamentales, como Pinus palustris y Pinus strobus,</td>
+            <td>Son arboles (raramente arbustos) que pueden crecer entre 2 a 100 metros. Generalmente perennifolios. Flores masculinas constituidos por numerosos estambres helcoidalmente. Infrutescencia lignificada en forma de cono (piña).</td>
+	    <td>Familia más extendida de las coníferas, cuya distribución es casi exclusiva de latitud norte.</td>
+            <td>Posee gran importancia económica como producción de madera sin olvidar el papel ornamental que representan tanto sus masas boscosas como sus ejemplares aislados.</td>
+        </tr> 
+        <tr>
+            <th scope="row">Chenopodiaceae / Amaranthaceae</th>
+            <td>174 géneros y aproximadamente 2500 especies</td>
+            <td>Chenopodium ambrosioides (paico macho), Chenopodium multifidum (paico hembra). Especies exóticas Celosia cristata (cresta de gallo) Gomphrena globosa siempreviva) Beta vulgaris subsp  (acelga) Beta vulgaris subsp. marítima (remolacha azucarera) Spinacia oleracea (espinaca)
+</td>
+            <td>Hierbas, arbustos y subarbustos erguidos o postrados, arboles pequeños anuales o perennes. Hojas: simples, enteras, alternas u opuestas, sésiles o pecioladas, a veces carnosas o reducidas a escamas.<br>
+Flores: actinomorfas, pequeñas, perfectas o imperfectas, polígamas, monoicas o dioicas; sésiles, solitarias, en fascículos, glomérulos, capítulos, espigas, panículas, etc., protegidas por brácteas y bractéolas. Fruto: aquenio, utrículo o cápsula de dehiscencia irregular o circuncisa o indehiscente (baya o drupa), rodeado por el perigonio persistente. Semillas: desnudas o con arilo, con embrión anular o espiralado, embrión anular; endosperma casi nulo; perisperma abundante o nulo.
+</td>
+	    <td>Familia pantropical. Se encuentran principalmente en áreas calurosas. Algunas representantes son más o menos acuáticos.</td>
+            <td>se cultivan como hortalizas, por sus hojas y por sus semillas ricas en almidón. Numerosos géneros exóticos son utilizados como plantas ornamentales: Celosia cristata L. (cresta de gallo), Gomphrena globosa L. (siempreviva), Alternanthera ficoidea (L.) R.B.R. (periquito). Otras especies del mismo género son utilizadas como forrajeras y como plantas medicinales. Alternanthera philoxeroides (Mart.) Griseb. (lagunilla) se emplea en medicina popular como diurético y depurativo, para combatir enfermedades gástricas y hepáticas. La raíz de Alternanthera pungens H.B.K. (yerba del pollo) se usa en infusión o decocción para curar indigestiones y diarreas.</td>
+        </tr> 
+        <tr>
+            <th scope="row">Apiaceae (umbelliferae).</th>
+            <td>Presenta 434 géneros y 3780 especies</td>
+            <td>el anís (Pimpinella anisum L.), el perejil (Petroselinum crispum (Miller) A.W. Hill), el apio (Apium graveolens L.), el cilantro (Coriandrum sativum L.), el comino (Cuminum cyminum L.), el eneldo (Anethum graveolens L.) y el hinojo (Foeniculum vulgare Miller).
+</td>
+            <td>Herbaceas anuales, bianuales o perennes, con entenudos huecos, algunas arbustivas. alternas, sin estípulas, normalmente divididas, en algunos casos enteras.  Flores: perfectas o imperfectas, reunidas en un tipo especial de inflorescencia denominada umbela simple o compuesta, en algunos géneros pueden estar reunidas en forma de capítulos o reducidas a una única flor. Semillas: con embrión pequeño y endosperma abundante.</td>
+	    <td>Familia cosmopolita</td>
+            <td>Caracterizados por la producción de frutos aromáticos que contienen aceites esenciales, que se utilizan para dar sabor a pastas, en perfumería, fábrica de jabones y para la elaboración de licores.
+</td>
+        </tr> 
+        <tr>
+            <th scope="row">Passifloraceae</th>
+            <td>Constituida por 18 géneros y 530 especies</td>
+            <td>Passiflora caerulea (flor de la pasión).<br>
+Pasiflora edulis (parchita, maracuya
+</td>
+            <td>Arbustos o hierbas, frecuentemente trepadoras con zarcillos axilares. Hojas: alternas, simples o compuestas, a menudo palmatilobuladas, con nectarios en los pecíolos; estípulas pequeñas y caducas. Flores: solitarias, axilares o en cimas, perfectas, actinomorfas, períginas con un hipanto tubular, generalmente con un androginóforo alargado. Fruto: baya o cápsula. Semillas: con arilo, endosperma carnoso y embrión recto.</td>
+	    <td>Comprende especies distribuidas en regiones tropicales y subtropicales, principalmente en América.</td>
+            <td>La infusión de las hojas es sedativa (contiene pasiflorina, de propiedades similares a la morfina), hipotensora, cardiotónica, emenagoga y se bebe para combatir el alcoholismo. Los frutos se ingieren como diuréticos, antiescorbútico y antiictérico. La infusión o el jarabe de la raíz, se bebe contra la pulmonía.</td>
+        </tr> 
+        <tr>
+            <th scope="row">Rutaceae</th>
+            <td>Presentan 161 géneros y 1815 especies</td>
+            <td>Citrus auriantum (naranjo agrio)<br>
+Citus limett (lima)<br>
+Citrus limón (limón)<br>
+Citrus sinensis (naranjo dulce)<br>
+Citrus reticulata (mandarino)<br>
+Ruta chalpensis (ruda)
+</td>
+            <td>Árboles, arbustos o sub-arbustos, linas o hierbas.<br>
+ Hojas: simples o compuestas, pinnadas o digitadas, los folíolos de las hojas con puntos glandulares, alternas a veces opuestas, rara vez veticiladas. ¾ Flores: perfectas o imperfectas, actinomorfas; dispuestas en cimas, tirsos, racimos. Fruto: baya, drupas, hesperidios o sámaras, generalmente cápsulas esquizocárpicas. ¾ Semillas: numerosas, provistas o no de endosperma.
+</td>
+	    <td>Familia cosmopolita</td>
+            <td>Visitadas por abejas y constituyen plantas melíferas de calidad. Cultivadas para consumo local, para frutos y son de importancia alimenticia para la población.</td>
+        </tr> 
+        <tr>
+            <th scope="row">Vitaceae</th>
+            <td></td>
+            <td>Parthenocissus quinquefolia (viña virgen), Parthenocissus tricuspidata (falsa vid) Vitis vinifera (uva)</td>
+            <td>Arbustos trepadores mediante zarcillos, a veces arbustos erectos y árboles. Los zarcillos pueden ser brotes o inflorescencias modificados. Hojas: alternas, simples, palmadas o pinnadas, generalmente con estípulas, lámina cubierta de puntos diáfanos. Flores: pequeñas, regulares, perfectas o imperfectas monoicas, dispuestas en cimas o racimos. Fruto: baya. Semillas: con embrión pequeño y abundante endosperma.</td>
+	    <td>Habitan principalmente regiones tropicales y subtropicales de todo el mundo, en menor número se hallan en regiones templadas.</td>
+            <td>Familia importante por la presencia de la vid. Las uvas constituyen uno de los frutos más apreciados, nutritivos y ricos en vitamina C.</td>
+        </tr> 
+        <tr>
+            <th scope="row">Fouqueriaceae</th>
+            <td>1 género con 11 especies</td>
+            <td>Fouquieria splendens(ocotillo)<br>
+Fouquieria formosa (cascarilla)
+</td>
+            <td>Compuesto por pequeños árboles y arbustos leñosos, así como por tres especies suculentas con reservorios de agua en el xilema esparcidos ampliamente.</td>
+	    <td>Familia pequeña restringida a las zonas áridas de México y Estados Unidos.</td>
+            <td>Ayudar a la asimilación de grasas y mejora la circulación haciéndola más eficiente al remover las grasas. Ayuda a aliviar la tos, venas varicosas, infecciones de tracto urinario; controla el dolor premenstrual y el dolor uterino causado por la congestión</td>
+        </tr> 
+    </tbody>
+</table>
+</div>
+
+<p align="center">Fuente: UP@DED (2019), con información de Faúndez et al, 2017; Salas et al, 2010 y Farrera-sarmiento, 2009.</p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbcb3778006a70fb9b83622" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbcb3d5045b3c0fca710a1a" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
@@ -258,6 +545,6 @@ subject_name: TSAMC05BGS1
 <br/>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="675px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbcb4fa9a93e90fcd2dcb09" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
-<p align="center"><b>Ilustración 18.</b> Criterios de evaluación </p>
+<p align="center"><b>Ilustración 19.</b> Criterios de evaluación </p>
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 50.00%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200px" height="600px" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/5dbcb4fff57f431e174636c0" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 <br/>
